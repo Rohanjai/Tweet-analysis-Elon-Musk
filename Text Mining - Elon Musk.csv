@@ -1,0 +1,2000 @@
+,Text_clean,positive_score,negative_score,polarity_score,number_words,subjectivity,Sentiment
+0,im an alien,0,0,0.0,2,0.0,Neutral
+1,ray tracing on cyberpunk with hdr is next level have you tried it,0,0,0.0,5,0.0,Neutral
+2,great interview,1,0,0.9999990000010001,2,0.499999750000125,Most Positive
+3,doge is underestimated,0,0,0.0,2,0.0,Neutral
+4,congratulations tesla china for amazing execution last year now on to the next for even more,2,0,0.99999950000025,6,0.33333327777778704,Most Positive
+5,happy new year of the ox,1,0,0.9999990000010001,3,0.33333322222225925,Most Positive
+6,frodo was the underdogeall thought he would failhimself most of all,0,0,0.0,4,0.0,Neutral
+7,haha thanks,0,0,0.0,1,0.0,Neutral
+8,indeed tweets definitely do not represent real world time allocation,0,0,0.0,6,0.0,Neutral
+9,the most entertaining outcome is the most likely,1,0,0.9999990000010001,2,0.499999750000125,Most Positive
+10,just sent some,0,0,0.0,0,0.0,Neutral
+11,just agree to do clubhouse with,0,0,0.0,2,0.0,Neutral
+12,,0,0,0.0,0,0.0,Neutral
+13,its getting real,0,0,0.0,1,0.0,Neutral
+14,bought some dogecoin for lil x so he can be a toddler hodler,0,0,0.0,5,0.0,Neutral
+15,he definitely has issues but the sentencing seems a bit high,0,1,-0.9999990000010001,4,0.24999993750001562,Most Negative
+16,thanks for fixing,0,0,0.0,1,0.0,Neutral
+17,please unlock my account,0,0,0.0,2,0.0,Neutral
+18,u+fu+f,0,0,0.0,1,0.0,Neutral
+19,this is true power haha,0,0,0.0,3,0.0,Neutral
+20,any crypto wallet that wont give you your private keys should be avoided at all costs,0,0,0.0,8,0.0,Neutral
+21,your app sucks,0,1,-0.9999990000010001,2,0.499999750000125,Most Negative
+22, nasa has selected falcon heavy to launch the first two elements of the lunar gateway together on one mission,0,0,0.0,9,0.0,Neutral
+23,yes,0,0,0.0,0,0.0,Neutral
+24,once we can predict cash flow reasonably well starlink will ipo,2,0,0.99999950000025,5,0.399999920000016,Most Positive
+25,starlink is a staggeringly difficult technical &amp economic endeavor however if we don,0,1,-0.9999990000010001,9,0.11111109876543349,Most Negative
+26,spacex needs to pass through a deep chasm of negative cash flow over the next year or,0,1,-0.9999990000010001,8,0.12499998437500197,Most Negative
+27,lowest cost per ton of carbon sequestered net of value of any product made must be scalable to g,0,0,0.0,9,0.0,Neutral
+28,its meant to be the same price in all countries only difference should be taxes &amp shipping,0,0,0.0,8,0.0,Neutral
+29,this is intended for earth but there may be some ideas that apply to mars too,0,0,0.0,5,0.0,Neutral
+30,u+fu+f,0,0,0.0,1,0.0,Neutral
+31,xprize team will manage the m carbon capture prize,1,0,0.9999990000010001,6,0.16666663888889352,Most Positive
+32,everyone at tesla receives stock my comp is all stock options which i do not take off the table thats what youre missing,0,0,0.0,9,0.0,Neutral
+33,back to work i go,1,0,0.9999990000010001,2,0.499999750000125,Most Positive
+34,does seem a bit high,0,0,0.0,2,0.0,Neutral
+35,doge appears to be inflationary but is not meaningfully so fixed of coins per unit time whereas,0,1,-0.9999990000010001,8,0.12499998437500197,Most Negative
+36,wow,1,0,0.9999990000010001,1,0.9999990000010001,Most Positive
+37, orbital launch tower that can stack enough raptors for orbit booster improve ship &amp booster mass,2,0,0.99999950000025,13,0.15384614201183525,Most Positive
+38,back to work tonight,1,0,0.9999990000010001,3,0.33333322222225925,Most Positive
+39,is for ogecoin instructional video,0,0,0.0,3,0.0,Neutral
+40,the people have spoken,0,0,0.0,2,0.0,Neutral
+41,so cute u+f,1,0,0.9999990000010001,2,0.499999750000125,Most Positive
+42,extremely misleading image as doesnt reflect true time cost to people or rain &amp pain,0,2,-0.99999950000025,13,0.15384614201183525,Most Negative
+43,u+fb who let the doge out u+fb,0,0,0.0,3,0.0,Neutral
+44,hodl the rainforests,0,0,0.0,2,0.0,Neutral
+45,so its finally come to this,0,0,0.0,1,0.0,Neutral
+46,its the most fun crypto,1,0,0.9999990000010001,2,0.499999750000125,Most Positive
+47,its simplicity is its genius,1,0,0.9999990000010001,2,0.499999750000125,Most Positive
+48,yup,0,0,0.0,1,0.0,Neutral
+49,u+fu+f,0,0,0.0,1,0.0,Neutral
+50,true,0,0,0.0,1,0.0,Neutral
+51,u+fu+f,0,0,0.0,1,0.0,Neutral
+52,not that easy this is two decades of intense work have to look at old notes emails texts,2,1,0.33333322222225925,7,0.4285713673469475,Positive
+53,yes,0,0,0.0,0,0.0,Neutral
+54,lessons learned,0,0,0.0,2,0.0,Neutral
+55,of earth and mars,0,0,0.0,2,0.0,Neutral
+56,time to tell the story of tesla &amp spacex,0,0,0.0,6,0.0,Neutral
+57,have you read  its great,1,0,0.9999990000010001,2,0.499999750000125,Most Positive
+58,the second last kingdom,0,0,0.0,1,0.0,Neutral
+59,havent heard that name in years,0,0,0.0,3,0.0,Neutral
+60,dogecake,0,0,0.0,1,0.0,Neutral
+61,yolt,0,0,0.0,1,0.0,Neutral
+62,thats damian,0,0,0.0,1,0.0,Neutral
+63,yeah,0,0,0.0,1,0.0,Neutral
+64,sure,0,0,0.0,0,0.0,Neutral
+65,the great thing about restaurants is that you get to hang out with strangers   sjm,1,1,0.0,6,0.33333327777778704,Neutral
+66,the future currency of earth,0,0,0.0,3,0.0,Neutral
+67,just a scratch,0,1,-0.9999990000010001,1,0.9999990000010001,Most Negative
+68,much wow,1,0,0.9999990000010001,1,0.9999990000010001,Most Positive
+69,u+fa,0,0,0.0,1,0.0,Neutral
+70,destiny,1,0,0.9999990000010001,1,0.9999990000010001,Most Positive
+71,franz was essential,0,0,0.0,2,0.0,Neutral
+72,that said the ship landing burn has a clear solution my greate,1,1,0.0,6,0.33333327777778704,Neutral
+73,will still use hot gas maneuvering rcs thrusters,1,0,0.9999990000010001,5,0.199999960000008,Most Positive
+74,higher isp too,0,0,0.0,2,0.0,Neutral
+75,intuitively it would seem so but turbopump fed raptors have mu,0,0,0.0,5,0.0,Neutral
+76,yes,0,0,0.0,0,0.0,Neutral
+77, falcon will launch spherex mission which will collect data on more than million galaxies and explore how the un,0,0,0.0,9,0.0,Neutral
+78, falcon launches starlink satellites to orbit mission from pad a on deck,0,0,0.0,8,0.0,Neutral
+79,its true,0,0,0.0,1,0.0,Neutral
+80,yeah by default engine with least lever arm would shut down if all are good,1,0,0.9999990000010001,7,0.1428571224489825,Most Positive
+81,yes but engines have a min throttle point where there is flameout risk so la,0,2,-0.99999950000025,7,0.285714244897965,Most Negative
+82,yes,0,0,0.0,0,0.0,Neutral
+83,it was foolish of us not to start engines &amp immediately shut down  as are needed to land,0,1,-0.9999990000010001,9,0.11111109876543349,Most Negative
+84,i am become memedestroyer of shorts,0,0,0.0,2,0.0,Neutral
+85,might actually happen,0,0,0.0,1,0.0,Neutral
+86,sandstorm is a masterpiece,1,0,0.9999990000010001,2,0.499999750000125,Most Positive
+87,we were too dumb,0,1,-0.9999990000010001,1,0.9999990000010001,Most Negative
+88,next time we try pull *up* method,0,0,0.0,5,0.0,Neutral
+89,low key loki,0,0,0.0,3,0.0,Neutral
+90,no highs no lows only doge,0,0,0.0,3,0.0,Neutral
+91,no need to be a gigachad to own,0,0,0.0,1,0.0,Neutral
+92,dogecoin is the peoples crypto,0,0,0.0,3,0.0,Neutral
+93,ur welcome,1,0,0.9999990000010001,1,0.9999990000010001,Most Positive
+94,the most entertaining outcome is the most likely,1,0,0.9999990000010001,2,0.499999750000125,Most Positive
+95,doge,0,0,0.0,1,0.0,Neutral
+96,,0,0,0.0,0,0.0,Neutral
+97,high seas &amp wind,0,0,0.0,5,0.0,Neutral
+98,this was a tough one,1,0,0.9999990000010001,1,0.9999990000010001,Most Positive
+99, watch falcon launch starlink satellites u+,0,0,0.0,6,0.0,Neutral
+100,off twitter for a while,0,0,0.0,1,0.0,Neutral
+101,it will be filled with graffiti art,0,0,0.0,3,0.0,Neutral
+102,u+cu+b u+u+u+u+bu+u+u+c,0,0,0.0,2,0.0,Neutral
+103,giga berlin progress,1,0,0.9999990000010001,3,0.33333322222225925,Most Positive
+104,neuralink is working super hard to ensure implant safety &amp is in close communication with the,1,1,0.0,11,0.1818181652892577,Neutral
+105, this mission enables access for everyday people who dream of going to space,0,0,0.0,7,0.0,Neutral
+106, announcing the first commercial astronaut mission to orbit earth aboard dragon u+,0,0,0.0,9,0.0,Neutral
+107,if youve worked on advanced wearables phones or robots those skills are needed,2,0,0.99999950000025,8,0.24999996875000394,Most Positive
+108,feels weird helping make hopefully good version of cyberpunk come true,2,1,0.33333322222225925,8,0.3749999531250059,Positive
+109,please consider working at neuralinkshort term solve brain spine injurieslong term human ai symbiosis latte,0,0,0.0,12,0.0,Neutral
+110,,0,0,0.0,0,0.0,Neutral
+111,on clubhouse tonight at pm la time,0,0,0.0,5,0.0,Neutral
+112,tom has some great stories about experim,1,0,0.9999990000010001,4,0.24999993750001562,Most Positive
+113, launch alert u+f and are targeting no earlier than april for the launch of the second crew rotation mis,0,0,0.0,10,0.0,Neutral
+114,he became a big fan of methane but was,0,0,0.0,3,0.0,Neutral
+115,that sounds correct tom certainly deserves a lot of cre,1,0,0.9999990000010001,6,0.16666663888889352,Most Positive
+116,tom is great &amp was instrumental in developing early vers,2,0,0.99999950000025,8,0.24999996875000394,Most Positive
+117,t w will be ~ so it will accelerate unusually fast high t w is important for reusable v,2,1,0.33333322222225925,7,0.4285713673469475,Positive
+118,no escaping that for me,0,0,0.0,1,0.0,Neutral
+119,read the whole article u+fu+f,0,0,0.0,3,0.0,Neutral
+120,warm sunny day &amp snowy mountains,1,0,0.9999990000010001,7,0.1428571224489825,Most Positive
+121,what a beautiful day in la,1,0,0.9999990000010001,3,0.33333322222225925,Most Positive
+122,yeah dr frankensteen,0,0,0.0,3,0.0,Neutral
+123,i never used this guy he gave a talk at spacex once,0,0,0.0,4,0.0,Neutral
+124,only halo,0,0,0.0,1,0.0,Neutral
+125,,0,0,0.0,0,0.0,Neutral
+126,i sure hope thats not true at tesla or spacex,0,0,0.0,4,0.0,Neutral
+127,cryoproof then install engines,0,0,0.0,3,0.0,Neutral
+128,starship sn &amp sn,0,0,0.0,5,0.0,Neutral
+129,in retrospect it was inevitable,0,1,-0.9999990000010001,2,0.499999750000125,Most Negative
+130,great shot,1,0,0.9999990000010001,2,0.499999750000125,Most Positive
+131,live by the sword die by the sword,0,1,-0.9999990000010001,4,0.24999993750001562,Most Negative
+132,entropy,0,0,0.0,1,0.0,Neutral
+133,buy &amp hold companies that make goods &amp produce services you love,1,0,0.9999990000010001,12,0.08333332638888948,Most Positive
+134,earth is small &amp we are smaller still,0,0,0.0,5,0.0,Neutral
+135,u+f,0,0,0.0,1,0.0,Neutral
+136,with cyberpunk even the hotfixes literally have hotfixes but great game,1,0,0.9999990000010001,6,0.16666663888889352,Most Positive
+137,,0,0,0.0,0,0.0,Neutral
+138,the dollar is shorting itself,0,0,0.0,2,0.0,Neutral
+139,indeed,0,0,0.0,0,0.0,Neutral
+140,shopify is great too spacex used them,1,0,0.9999990000010001,3,0.33333322222225925,Most Positive
+141,u+fu+f,0,0,0.0,1,0.0,Neutral
+142,indeed the economy making useful products &amp providing great services is what actually matters,2,0,0.99999950000025,9,0.22222219753086697,Most Positive
+143,tanstaafl would be better to have small fees than no fees as latter makes robin,1,0,0.9999990000010001,6,0.16666663888889352,Most Positive
+144,here come the shorty apologistsgive them no respectget shorty,0,0,0.0,4,0.0,Neutral
+145,u cant sell houses u dont ownu cant sell cars u dont ownbut u *can* sell stock u dont ownthis is bs sh,0,1,-0.9999990000010001,16,0.06249999609375024,Most Negative
+146,yes,0,0,0.0,0,0.0,Neutral
+147,finishing engineering this year production starts next year aiming to have release candidate desig,0,0,0.0,10,0.0,Neutral
+148,i made that video,0,0,0.0,2,0.0,Neutral
+149,absolutely,0,0,0.0,1,0.0,Neutral
+150,unlike its aircraft division which is fine the faa space division has a fundamentally broken reg,1,1,0.0,10,0.19999998000000202,Neutral
+151,nomad,0,0,0.0,1,0.0,Neutral
+152,u+f,0,0,0.0,1,0.0,Neutral
+153,the esthetics of cyberpunk are incredible btw the interior design isu+fc,1,0,0.9999990000010001,7,0.1428571224489825,Most Positive
+154,major esthetics improvements coming,1,0,0.9999990000010001,4,0.24999993750001562,Most Positive
+155,a little,0,0,0.0,0,0.0,Neutral
+156,new roadster is part rocket,0,0,0.0,3,0.0,Neutral
+157,theres more storage now &amp easily upgradable,1,0,0.9999990000010001,5,0.199999960000008,Most Positive
+158,,0,0,0.0,0,0.0,Neutral
+159,yes,0,0,0.0,0,0.0,Neutral
+160,yeah probably in a few months,0,0,0.0,2,0.0,Neutral
+161,after you drive without using a prnd stalk stick for a few days it gets very annoying to go back &amp use a shifter,0,1,-0.9999990000010001,10,0.09999999000000101,Most Negative
+162,no more stalks car guesses drive direction based on what obstacles it sees context &amp nav map you,0,0,0.0,13,0.0,Neutral
+163,a hedge fund that shorts is a shrubbery,0,1,-0.9999990000010001,4,0.24999993750001562,Most Negative
+164,,0,0,0.0,0,0.0,Neutral
+165,yeah also a rear screen,0,0,0.0,3,0.0,Neutral
+166,to mph trap speed in a   mile mph top speed with right tires,2,1,0.33333322222225925,8,0.3749999531250059,Positive
+167,first production car ever to achieve to mph in less than seconds,0,0,0.0,5,0.0,Neutral
+168,it can play cyberpunk,0,0,0.0,2,0.0,Neutral
+169,plaid model s ships next month,0,0,0.0,4,0.0,Neutral
+170,even discord has gone corpo,0,1,-0.9999990000010001,2,0.499999750000125,Most Negative
+171,yup wild times on discord haha,0,2,-0.99999950000025,5,0.399999920000016,Most Negative
+172,,0,0,0.0,0,0.0,Neutral
+173,waiting for faa review,0,0,0.0,3,0.0,Neutral
+174,gamestonk,0,0,0.0,1,0.0,Neutral
+175,passed initial pressure test,0,0,0.0,4,0.0,Neutral
+176,yes,0,0,0.0,0,0.0,Neutral
+177,,0,0,0.0,0,0.0,Neutral
+178,bought a hand knit wool marvin the martian helm for my dog,0,0,0.0,8,0.0,Neutral
+179,,0,0,0.0,0,0.0,Neutral
+180,i kinda love etsy,1,0,0.9999990000010001,3,0.33333322222225925,Most Positive
+181,it does not serve the public to hamstring starlink today for an amazon satellite system that is at,0,0,0.0,8,0.0,Neutral
+182,were hoping for faa approval of a test flight tomorrow afternoon,1,0,0.9999990000010001,7,0.1428571224489825,Most Positive
+183,the entire stack from data collection through labeling &amp inference has to be in surround video th,0,0,0.0,10,0.0,Neutral
+184,yes although it will be crazy not to turn on fsd,0,1,-0.9999990000010001,3,0.33333322222225925,Most Negative
+185,tesla is steadily moving all nns to camera surround video this will enable superhuman self driving,0,0,0.0,10,0.0,Neutral
+186,some tyranny also the road to hell is mostly paved with bad intentions,0,3,-0.9999996666667778,6,0.49999991666668053,Most Negative
+187,catchy,1,0,0.9999990000010001,1,0.9999990000010001,Most Positive
+188,all sats launched next year will have laser links only o,0,0,0.0,5,0.0,Neutral
+189,yup,0,0,0.0,1,0.0,Neutral
+190,i hope so,0,0,0.0,1,0.0,Neutral
+191,these also have laser links between the satellites so no ground stations are needed over the poles,0,0,0.0,7,0.0,Neutral
+192,sorry for the version confusion v is what it should say for fsd separate version number for rest of car,0,2,-0.99999950000025,8,0.24999996875000394,Most Negative
+193,to my surprise tesla has better ai hardware &amp software than waymo money,1,0,0.9999990000010001,9,0.11111109876543349,Most Positive
+194,it floats,0,0,0.0,1,0.0,Neutral
+195,fallout themed opening party for vegas loop happening as soon as allowed,0,1,-0.9999990000010001,8,0.12499998437500197,Most Negative
+196,u+fu+f,0,0,0.0,1,0.0,Neutral
+197,under vegas in tunnel yesterday with my boys,0,0,0.0,4,0.0,Neutral
+198,lasers,0,0,0.0,1,0.0,Neutral
+199, spacexs rideshare offering provides increased access to space for small satellite operators seeking a reliable affordable rid,2,0,0.99999950000025,13,0.15384614201183525,Most Positive
+200, falcon s first stage has landed on the of course i still love you droneship,1,0,0.9999990000010001,5,0.199999960000008,Most Positive
+201, liftoff,0,0,0.0,1,0.0,Neutral
+202,u+faf,0,0,0.0,1,0.0,Neutral
+203,were switching to a more sensible fsd version numbering to distinguish between major &amp minor updates,1,0,0.9999990000010001,10,0.09999999000000101,Most Positive
+204,hopefully early next week,0,0,0.0,2,0.0,Neutral
+205, due to unfavorable weather we are standing down from todays launch the team will continue with the countdown until t  seco,0,1,-0.9999990000010001,10,0.09999999000000101,Most Negative
+206,given so many other companies are depending on this mission it is getting even more scru,0,0,0.0,4,0.0,Neutral
+207,launching many small satellites for a wide range of customers tomorrow excited about offering low cost access to o,1,0,0.9999990000010001,12,0.08333332638888948,Most Positive
+208,they are part of the solution but require lots of fresh water &amp land we may need something thats,1,0,0.9999990000010001,9,0.11111109876543349,Most Positive
+209,sn,0,0,0.0,1,0.0,Neutral
+210,its a good path for fully renewable rocket energy so solves part of problem but longer chain hyd,1,1,0.0,12,0.16666665277777895,Neutral
+211,details next week,0,0,0.0,2,0.0,Neutral
+212,am donating m towards a prize for best carbon capture technology,2,0,0.99999950000025,5,0.399999920000016,Most Positive
+213,pretty much,1,0,0.9999990000010001,1,0.9999990000010001,Most Positive
+214,that would probably mean civilization is doing gr,0,0,0.0,2,0.0,Neutral
+215,,0,0,0.0,0,0.0,Neutral
+216,absolutely they rock u+fa,0,0,0.0,3,0.0,Neutral
+217, falcon launches starlink to orbit the eighth launch and landing of this booster,0,0,0.0,8,0.0,Neutral
+218,the rate limiting part or process in cell production is constantly changing,0,0,0.0,8,0.0,Neutral
+219,cars &amp trucks stuck in traffic generate megatons of toxic gases &amp particulate but,0,2,-0.99999950000025,13,0.15384614201183525,Most Negative
+220,with our giant casting machines we are literally trying to make full size car,0,0,0.0,8,0.0,Neutral
+221,tegmark is an exceptionally smart &amp good human,3,0,0.9999996666667778,7,0.4285713673469475,Most Positive
+222,the best manufacturing technology is in ultra high volume industries like food &amp beverage some medical eg syringes &amp toys,2,0,0.99999950000025,15,0.13333332444444504,Most Positive
+223,battery cell production is the fundamental rate limiter slowing down a sustainable energy future very important pr,2,0,0.99999950000025,12,0.16666665277777895,Most Positive
+224,looking into this no question that fsd should be viewed as reasonably valuable when doing a trade in,2,0,0.99999950000025,5,0.399999920000016,Most Positive
+225,for sure,0,0,0.0,0,0.0,Neutral
+226,glad youre ok,1,0,0.9999990000010001,2,0.499999750000125,Most Positive
+227,congratulations,1,0,0.9999990000010001,1,0.9999990000010001,Most Positive
+228,this is a good one,1,0,0.9999990000010001,1,0.9999990000010001,Most Positive
+229,i whistle,0,0,0.0,1,0.0,Neutral
+230,cybertruck doesnt need a garage,0,0,0.0,3,0.0,Neutral
+231,it will be awesome,1,0,0.9999990000010001,1,0.9999990000010001,Most Positive
+232,good point,1,0,0.9999990000010001,2,0.499999750000125,Most Positive
+233,your server side code is doing too much,0,0,0.0,3,0.0,Neutral
+234,happy birthday wikipedia so glad you exist,2,0,0.99999950000025,5,0.399999920000016,Most Positive
+235,guess you been watching cobra kai,0,0,0.0,4,0.0,Neutral
+236,fallout new texas,0,1,-0.9999990000010001,2,0.499999750000125,Most Negative
+237,only chuck norris can divide by zero,0,0,0.0,3,0.0,Neutral
+238,good point,1,0,0.9999990000010001,2,0.499999750000125,Most Positive
+239,the thing we call money is just an information system for labor allocation what actuall,0,0,0.0,8,0.0,Neutral
+240,monty python is amazing,1,0,0.9999990000010001,3,0.33333322222225925,Most Positive
+241,they sure can twist the knife in that show,0,2,-0.99999950000025,3,0.6666664444445185,Most Negative
+242,probably wise,1,0,0.9999990000010001,1,0.9999990000010001,Most Positive
+243,were making major improvements to ease of engine swap needs to be a few hours at most,2,0,0.99999950000025,7,0.285714244897965,Most Positive
+244,two of the engines need slight repairs so will be switched out,0,0,0.0,4,0.0,Neutral
+245,nice shot,1,0,0.9999990000010001,2,0.499999750000125,Most Positive
+246,we dont have high school internships but please apply when youre in college,0,0,0.0,7,0.0,Neutral
+247,prototypes are easy volume production is hard positive cash flow is excruciating,2,2,0.0,9,0.44444439506173394,Neutral
+248,physics,0,0,0.0,1,0.0,Neutral
+249, splashdown of dragon confirmed completing spacexs st resupply mission and the first return of a cargo resupp,0,0,0.0,11,0.0,Neutral
+250,detanking &amp inspections now good progress towards our hop in &amp go to mars goal,2,0,0.99999950000025,11,0.1818181652892577,Most Positive
+251,all three static fires completed &amp no ruds,0,1,-0.9999990000010001,6,0.16666663888889352,Most Negative
+252,wow a lot has happened in years,1,0,0.9999990000010001,4,0.24999993750001562,Most Positive
+253,fair enough haha,2,0,0.99999950000025,2,0.99999950000025,Most Positive
+254,,0,0,0.0,0,0.0,Neutral
+255,sea shanty tiktok takes it to a new level with actual pirate ships,0,0,0.0,8,0.0,Neutral
+256,sure,0,0,0.0,0,0.0,Neutral
+257,today at spacex is about practicing starship engine starts ship is held down by massive pins while engines are fir,0,0,0.0,12,0.0,Neutral
+258,as promised,1,0,0.9999990000010001,1,0.9999990000010001,Most Positive
+259,legalize comedy,0,0,0.0,2,0.0,Neutral
+260,you can steal our name logos &amp we probably wont sue you,0,2,-0.99999950000025,6,0.33333327777778704,Most Negative
+261,were just trying to get people to mars help would be appreciated,1,0,0.9999990000010001,3,0.33333322222225925,Most Positive
+262,one day we will get a camera up there that also shows the star field in the background,0,0,0.0,6,0.0,Neutral
+263, separation confirmed dragon performing departure burns to move away from the,0,1,-0.9999990000010001,7,0.1428571224489825,Most Negative
+264,suicide is more than double homicide,0,1,-0.9999990000010001,3,0.33333322222225925,Most Negative
+265,absolutely,0,0,0.0,1,0.0,Neutral
+266,hey you yeah you queen youre gonna make it u+fu+f,0,0,0.0,8,0.0,Neutral
+267,hate to say it but might be true,0,1,-0.9999990000010001,2,0.499999750000125,Most Negative
+268,the robot future is coming,0,0,0.0,3,0.0,Neutral
+269,km every millisecond but there are times i wish it were faster,1,0,0.9999990000010001,4,0.24999993750001562,Most Positive
+270,,0,0,0.0,0,0.0,Neutral
+271,,0,0,0.0,0,0.0,Neutral
+272,mus protec u+f yoda,0,0,0.0,4,0.0,Neutral
+273,u+eu+d u+u+bu+b u+u+u+bu+u+au+eu+bu+u+fu+u+d,0,0,0.0,3,0.0,Neutral
+274,this is an important distinction,2,0,0.99999950000025,2,0.99999950000025,Most Positive
+275,much more than this &amp increasing rapidly,0,0,0.0,4,0.0,Neutral
+276,it is,0,0,0.0,0,0.0,Neutral
+277,once in a while something happens that is even better than we imagined,1,0,0.9999990000010001,1,0.9999990000010001,Most Positive
+278,the factory is the product,0,0,0.0,2,0.0,Neutral
+279,probably commenting on will do more,0,0,0.0,1,0.0,Neutral
+280,i bought the replacement glass from a junkyard for  theyre great places to get spare parts,1,1,0.0,9,0.22222219753086697,Neutral
+281,a lot of people are going to be super unhappy with west coast high tech as the de facto arbiter of free speech,2,1,0.33333322222225925,13,0.23076921301775286,Positive
+282,already donated to signal a year ago will donate more,0,0,0.0,5,0.0,Neutral
+283,i am primarily trying to advance two causes sustainable energy &amp extending life consciousness beyond e,1,0,0.9999990000010001,9,0.11111109876543349,Most Positive
+284,u+fu+f,0,0,0.0,1,0.0,Neutral
+285,maybe a tesla ai day later this year,0,0,0.0,4,0.0,Neutral
+286,the prancing pony,0,0,0.0,2,0.0,Neutral
+287,u+fu+f,0,0,0.0,1,0.0,Neutral
+288,u+f,0,0,0.0,1,0.0,Neutral
+289,its true,0,0,0.0,1,0.0,Neutral
+290,yes but not for long,0,0,0.0,1,0.0,Neutral
+291,yeah they seemed optimistic too,1,0,0.9999990000010001,2,0.499999750000125,Most Positive
+292,my  year old son saxon said he feels like will be a good year i agree let us all make it so,2,0,0.99999950000025,8,0.24999996875000394,Most Positive
+293,was also thinking that spacex boca should hold fun parties and give tours for the community from time to time,1,0,0.9999990000010001,11,0.09090908264462885,Most Positive
+294,i super support public spaces around our production &amp launch sites wherever it can be done,2,0,0.99999950000025,9,0.22222219753086697,Most Positive
+295,that too,0,0,0.0,0,0.0,Neutral
+296,catapult high into the air &amp land on the roof with a base jumping parachute the only way to travel,0,0,0.0,11,0.0,Neutral
+297,thats actually our restaurant but spacex is building a futuristic bar at the top of the h,2,0,0.99999950000025,6,0.33333327777778704,Most Positive
+298,and increase fun hopefully,1,0,0.9999990000010001,2,0.499999750000125,Most Positive
+299,me neither,0,0,0.0,0,0.0,Neutral
+300,one of the best tesla solar roof installations,1,0,0.9999990000010001,4,0.24999993750001562,Most Positive
+301,no but maybe one day,0,0,0.0,1,0.0,Neutral
+302,yes that would be the best way to do it a large solar field or reactor is needed for po,1,0,0.9999990000010001,6,0.16666663888889352,Most Positive
+303,his sick beats,0,1,-0.9999990000010001,2,0.499999750000125,Most Negative
+304,probably less than a few dozen primary decision makers technically only three,0,0,0.0,5,0.0,Neutral
+305,or at least the option for verification so that the public can ascribe more credibilit,0,0,0.0,5,0.0,Neutral
+306,launch underway,0,0,0.0,2,0.0,Neutral
+307,btw critical feedback is always super appreciated as well as ways to donate money that really make a difference way harder than it seems,3,1,0.49999987500003124,11,0.3636363305785154,Positive
+308,yup,0,0,0.0,1,0.0,Neutral
+309,indirectly an electric rocket is possible by using electricity to convert co+ho &gt ch+o this,0,0,0.0,9,0.0,Neutral
+310,not to get to orbit unfortunately in space photon emission powered by matter antimatter annihila,0,1,-0.9999990000010001,8,0.12499998437500197,Most Negative
+311,this will be hard to make as it isnt like any other vehicle,1,1,0.0,4,0.49999987500003124,Neutral
+312,playing the long game,0,0,0.0,3,0.0,Neutral
+313,true,0,0,0.0,1,0.0,Neutral
+314,i hope so wings dont work on the moon at all and def not well on mars also no runways,2,0,0.99999950000025,8,0.24999996875000394,Most Positive
+315,hamiltonians have +v the potential of langrangians and a play,0,0,0.0,5,0.0,Neutral
+316,,0,0,0.0,0,0.0,Neutral
+317,well back to work,2,0,0.99999950000025,2,0.99999950000025,Most Positive
+318,how strange,0,1,-0.9999990000010001,1,0.9999990000010001,Most Negative
+319,use signal,0,0,0.0,1,0.0,Neutral
+320,ya dont say reminds me of this timeless classic,1,0,0.9999990000010001,5,0.199999960000008,Most Positive
+321,fast water with tiny rocks,1,0,0.9999990000010001,4,0.24999993750001562,Most Positive
+322,yes and then occams razor is actually third most likely,0,0,0.0,2,0.0,Neutral
+323,as seen from an external observer not the participants,0,0,0.0,3,0.0,Neutral
+324,the most entertaining outcome is the most likely,1,0,0.9999990000010001,2,0.499999750000125,Most Positive
+325,dumb and dumber is a great movie tho,1,1,0.0,5,0.399999920000016,Neutral
+326,this is called the domino effect,0,0,0.0,3,0.0,Neutral
+327,,0,0,0.0,0,0.0,Neutral
+328,because of the large footprint it may seem flat but actually ranges up to stories tall,0,0,0.0,6,0.0,Neutral
+329,snow falling on giga berlin,0,1,-0.9999990000010001,4,0.24999993750001562,Most Negative
+330,yes,0,0,0.0,0,0.0,Neutral
+331,u+f,0,0,0.0,1,0.0,Neutral
+332,tesla is responsible for   of all the personal &amp professional pain in my life combined but it was worth it,1,1,0.0,10,0.19999998000000202,Neutral
+333,so proud of the tesla team for achieving this major milestone at the start of tesla i thought we had optimistica,1,0,0.9999990000010001,10,0.09999999000000101,Most Positive
+334, in  we produced and delivered half a million cars huge thanks to all those who made this possible,0,0,0.0,7,0.0,Neutral
+335,um we have giant fusion reactor in the sky that works with no maintenance,1,0,0.9999990000010001,7,0.1428571224489825,Most Positive
+336,tesla full self driving will work at a safety level well above that of the average driver this year of t,2,0,0.99999950000025,9,0.22222219753086697,Most Positive
+337,dojo isnt needed but will make self driving better it isnt enough to be safer than human drivers aut,2,0,0.99999950000025,10,0.19999998000000202,Most Positive
+338,ignore the heading,0,1,-0.9999990000010001,2,0.499999750000125,Most Negative
+339,great interview with mathias dpfner,1,0,0.9999990000010001,4,0.24999993750001562,Most Positive
+340,u+fa the greatest gatsby u+fa,1,0,0.9999990000010001,4,0.24999993750001562,Most Positive
+341,inspired by the ballet,0,0,0.0,2,0.0,Neutral
+342,rocket motion is primarily vertical so you want the top open,1,0,0.9999990000010001,6,0.16666663888889352,Most Positive
+343,lets make the roaring s again,0,0,0.0,3,0.0,Neutral
+344,might be a few lumps along the way,0,0,0.0,1,0.0,Neutral
+345,production is hard prototypes are easy building ~ starships to create a s,1,1,0.0,8,0.24999996875000394,Neutral
+346,exactly,0,0,0.0,0,0.0,Neutral
+347,haha,0,0,0.0,1,0.0,Neutral
+348,sn will press ch header tank with helium long term solution is under debate,0,1,-0.9999990000010001,10,0.09999999000000101,Most Negative
+349,yes,0,0,0.0,0,0.0,Neutral
+350,legs would certainly work but best part is no part best step is no step,3,0,0.9999996666667778,6,0.49999991666668053,Most Positive
+351,yes,0,0,0.0,0,0.0,Neutral
+352,saves mass &amp cost of legs &amp enables immediate repositioning of booster on to launch mount rea,0,0,0.0,14,0.0,Neutral
+353,were going to try to catch the super heavy booster with the launch tower arm using the grid fins to take the load,1,0,0.9999990000010001,10,0.09999999000000101,Most Positive
+354,snake head dog had my undivided attention until winder head ostrich came gliding through all nonchalant,0,0,0.0,10,0.0,Neutral
+355,seems odd that the opposition group is from bmws home state of baveria thats very far from brande,0,2,-0.99999950000025,8,0.24999996875000394,Most Negative
+356,this is very sensible opposition from anywhere cannot mean no progress everywhere,2,1,0.33333322222225925,2,1.499999250000375,Positive
+357,literally,0,0,0.0,1,0.0,Neutral
+358,are we sure this is real,0,0,0.0,1,0.0,Neutral
+359,destiny destinyno escaping that for me,1,0,0.9999990000010001,3,0.33333322222225925,Most Positive
+360,all tesla cars delivered in the final three days of the year will get three months of the full self driving option,0,0,0.0,10,0.0,Neutral
+361,and mark dankberg this action is wack not dank,0,1,-0.9999990000010001,5,0.199999960000008,Most Negative
+362,less,0,0,0.0,0,0.0,Neutral
+363,westworld,0,0,0.0,1,0.0,Neutral
+364,the last kingdom show is great,1,0,0.9999990000010001,3,0.33333322222225925,Most Positive
+365,absolutely will be text &amp visualization but could add voice too,0,0,0.0,7,0.0,Neutral
+366, even cheese is made of cake ,0,0,0.0,3,0.0,Neutral
+367,if they dont love us were in deep trouble,1,1,0.0,4,0.49999987500003124,Neutral
+368,not everything is made of cake,0,0,0.0,2,0.0,Neutral
+369,true haha,0,0,0.0,2,0.0,Neutral
+370,such a weird game when you think about it,0,1,-0.9999990000010001,2,0.499999750000125,Most Negative
+371,this is not cgi,0,0,0.0,1,0.0,Neutral
+372,we need a ui overhaul,0,0,0.0,2,0.0,Neutral
+373,no these are just incremental improvements to the production codebase fsd build is,1,0,0.9999990000010001,6,0.16666663888889352,Most Positive
+374,starlink poses a hazard to viasats profits more like it stop the sneaky moves charlie ergen,1,2,-0.33333322222225925,10,0.299999970000003,Negative
+375,entertainment will be critical when cars drive themselves,0,1,-0.9999990000010001,4,0.24999993750001562,Most Negative
+376,just meeting with larry ellison to seek some advice back working on tesla end of quarter tomorrow,0,0,0.0,11,0.0,Neutral
+377,absolutely,0,0,0.0,1,0.0,Neutral
+378,what should tesla do with in car gaming in an autonomous world,1,0,0.9999990000010001,5,0.199999960000008,Most Positive
+379,absolutely,0,0,0.0,1,0.0,Neutral
+380,taste of the future,0,0,0.0,2,0.0,Neutral
+381,try playing polytopia in your tesla great game multiplayer online version coming soon,1,0,0.9999990000010001,9,0.11111109876543349,Most Positive
+382,focus on making products &amp services people truly love so that the total economic pie is bigger instead of en,1,0,0.9999990000010001,13,0.07692307100591762,Most Positive
+383,roughly  of parts in tesla roadster were unique not in any other pro,0,0,0.0,6,0.0,Neutral
+384,yes,0,0,0.0,0,0.0,Neutral
+385,very important,1,0,0.9999990000010001,1,0.9999990000010001,Most Positive
+386,ok service might be able to do this will check,0,0,0.0,2,0.0,Neutral
+387,you mean install the external speaker on earlier cars that dont have it,0,0,0.0,6,0.0,Neutral
+388,no but definitely this year,0,0,0.0,1,0.0,Neutral
+389,good point,1,0,0.9999990000010001,2,0.499999750000125,Most Positive
+390,interesting,1,0,0.9999990000010001,1,0.9999990000010001,Most Positive
+391,liz has always done great interviews,1,0,0.9999990000010001,3,0.33333322222225925,Most Positive
+392,falcon was  of successful orbital launches in  but maybe a majority of pa,1,0,0.9999990000010001,6,0.16666663888889352,Most Positive
+393,vaccines are just the start its also capable in theory of curing almost anything turns medicine into a,1,0,0.9999990000010001,7,0.1428571224489825,Most Positive
+394,yes,0,0,0.0,0,0.0,Neutral
+395,we will offer multiple display options,0,0,0.0,4,0.0,Neutral
+396,a few more revisions needed probably beta or ,0,0,0.0,3,0.0,Neutral
+397,sure,0,0,0.0,0,0.0,Neutral
+398,haha ok,0,0,0.0,1,0.0,Neutral
+399,there are subtle important differences between us &amp canada traffic rules bu,1,0,0.9999990000010001,9,0.11111109876543349,Most Positive
+400,yes,0,0,0.0,0,0.0,Neutral
+401,we need a match other traffic speed setting,0,0,0.0,4,0.0,Neutral
+402,definitely,0,0,0.0,0,0.0,Neutral
+403,its a step in that direction,0,0,0.0,2,0.0,Neutral
+404,its one u+f or   u+f if you dont have a car with pedestrian speaker we couldnt get everything done in,0,0,0.0,7,0.0,Neutral
+405,the writing on cobra kai is sicku+fc,0,0,0.0,4,0.0,Neutral
+406,haha i will save you the nightmare of seeing me in those shorts,0,1,-0.9999990000010001,4,0.24999993750001562,Most Negative
+407,you can upload custom music sounds,0,0,0.0,4,0.0,Neutral
+408,unfortunately pedestrian speaker is needed otherwise no external sound generator except actual horn,0,1,-0.9999990000010001,8,0.12499998437500197,Most Negative
+409,change your horn sound to u+f u+fdu+fb u+fa or holiday jingles with latest tesla software update,0,0,0.0,12,0.0,Neutral
+410,merry christmas &amp happy holidays u+f,2,0,0.99999950000025,7,0.285714244897965,Most Positive
+411,great game,1,0,0.9999990000010001,2,0.499999750000125,Most Positive
+412,it will most likely make sense for starlink to go public once the revenue growth is reasonably predictable,1,0,0.9999990000010001,7,0.1428571224489825,Most Positive
+413,engineering design &amp general company operations absorb vast majority of my mind &amp are the fundamental li,0,0,0.0,15,0.0,Neutral
+414,yes,0,0,0.0,0,0.0,Neutral
+415,a few months,0,0,0.0,1,0.0,Neutral
+416,coming soon,0,0,0.0,1,0.0,Neutral
+417,minor,0,0,0.0,1,0.0,Neutral
+418,yeah,0,0,0.0,1,0.0,Neutral
+419,story rocket turns off its engines &amp does a controlled fall,0,1,-0.9999990000010001,8,0.12499998437500197,Most Negative
+420,yup were just ironing out a few bugs,0,1,-0.9999990000010001,3,0.33333322222225925,Most Negative
+421,to tesla owners taking delivery in the final days of year your support is super appreciated,3,0,0.9999996666667778,10,0.299999970000003,Most Positive
+422,frictionless ai what could possibly go wrong,0,1,-0.9999990000010001,4,0.24999993750001562,Most Negative
+423,good idea,1,0,0.9999990000010001,2,0.499999750000125,Most Positive
+424,during the darkest days of the model program i reached out to tim cook to discuss the possibility of,0,0,0.0,9,0.0,Neutral
+425,strange if true   tesla already uses iron phosphate for medium range cars made in our shanghai facto,0,1,-0.9999990000010001,11,0.09090908264462885,Most Negative
+426,spartas reply to macedon,0,0,0.0,3,0.0,Neutral
+427,hi liz,0,0,0.0,1,0.0,Neutral
+428,thanks to everyone who worked so hard to make tesla successful my heart goes out to you,2,1,0.33333322222225925,6,0.49999991666668053,Positive
+429,indeed,0,0,0.0,0,0.0,Neutral
+430,it was a seriously twisted affair but alls that ends well,1,1,0.0,4,0.49999987500003124,Neutral
+431,they are although its kind low key tesla superchargers are being made accessible to other electric cars,1,0,0.9999990000010001,9,0.11111109876543349,Most Positive
+432, photos from yesterdays launch and landing u+,0,0,0.0,5,0.0,Neutral
+433,are such large transactions even possible,0,0,0.0,2,0.0,Neutral
+434,u+u+fef i love all u crazy ppl out there u+u+fef,1,1,0.0,5,0.399999920000016,Neutral
+435,you have a point sigh,0,0,0.0,2,0.0,Neutral
+436,great game,1,0,0.9999990000010001,2,0.499999750000125,Most Positive
+437,pretty much the main value of college used to be hanging out having pseudo intellectual conversations &amp,1,0,0.9999990000010001,9,0.11111109876543349,Most Positive
+438,come for the comments stay for the memesu+f,0,0,0.0,3,0.0,Neutral
+439,absolutely we will release fsd subscription early next year,0,0,0.0,6,0.0,Neutral
+440,one word doge,0,0,0.0,2,0.0,Neutral
+441,bitcoin is almost as bs as fiat money,0,1,-0.9999990000010001,4,0.24999993750001562,Most Negative
+442,great nails &amp lipstick,1,0,0.9999990000010001,5,0.199999960000008,Most Positive
+443,,0,0,0.0,0,0.0,Neutral
+444,,0,0,0.0,0,0.0,Neutral
+445,sounds about right,1,0,0.9999990000010001,1,0.9999990000010001,Most Positive
+446,lord edge,0,0,0.0,2,0.0,Neutral
+447,nice branding,1,0,0.9999990000010001,2,0.499999750000125,Most Positive
+448,just kidding who needs a safe word anyway,1,0,0.9999990000010001,3,0.33333322222225925,Most Positive
+449,bitcoin is my safe word,1,0,0.9999990000010001,3,0.33333322222225925,Most Positive
+450, falcon s first stage has landed on landing zone,0,0,0.0,5,0.0,Neutral
+451, liftoff,0,0,0.0,1,0.0,Neutral
+452,standing down for today to inspect rocket hopefully launching tomorrow,0,0,0.0,6,0.0,Neutral
+453,pressure is slightly high in upper stage liquid oxygen tank review underway,0,1,-0.9999990000010001,10,0.09999999000000101,Most Negative
+454,i am hoping to be back next month,0,0,0.0,3,0.0,Neutral
+455,very impressive mission by china,1,0,0.9999990000010001,3,0.33333322222225925,Most Positive
+456,last launch of coming up,0,0,0.0,2,0.0,Neutral
+457,he was indeed quite grumpy but we did not actually know what we were doing so he had a point,0,1,-0.9999990000010001,2,0.499999750000125,Most Negative
+458,it will get absurdly good tesla ai autopilot engineering is awesome theres some great ai out ther,3,1,0.49999987500003124,10,0.39999996000000404,Positive
+459,star light star bright,1,0,0.9999990000010001,4,0.24999993750001562,Most Positive
+460,this is incorrect,0,1,-0.9999990000010001,1,0.9999990000010001,Most Negative
+461,u+fu+f,0,0,0.0,1,0.0,Neutral
+462,but it is visually stunning &amp playability is good,2,0,0.99999950000025,6,0.33333327777778704,Most Positive
+463,a t shirt being better armor than a kevlar chest plate doesnt make sense in the absence of magic also w,2,1,0.33333322222225925,10,0.299999970000003,Positive
+464,oh and umm,0,0,0.0,1,0.0,Neutral
+465,i absolutely support trans but all these pronouns are an esthetic nightmare,1,1,0.0,6,0.33333327777778704,Neutral
+466,the raptors were well below max thrust or the ship would have blown through the altit,1,0,0.9999990000010001,6,0.16666663888889352,Most Positive
+467,far from fully loaded but we were going slow or the ship would have gone crazy high far with three engines,0,2,-0.99999950000025,7,0.285714244897965,Most Negative
+468,its a good to great game imo but improving what may seem like mere surface detail woul,4,0,0.9999997500000625,9,0.44444439506173394,Most Positive
+469,perhaps slightly more confident but its essential to view this as output vs time as,1,0,0.9999990000010001,6,0.16666663888889352,Most Positive
+470,dankeschn brandenburg und grnheide,0,0,0.0,4,0.0,Neutral
+471,sure hope that future doesnt come to pass,0,0,0.0,4,0.0,Neutral
+472,giga berlin brandenburg will be the first to use our new structural pack architecture worlds,0,0,0.0,7,0.0,Neutral
+473,original deus ex was incredible human revolution was also great,2,0,0.99999950000025,6,0.33333327777778704,Most Positive
+474,the objective reality is that it is impossible to run an advanced game well on old hardware this is,2,1,0.33333322222225925,7,0.4285713673469475,Positive
+475, starship landing flip maneuver,0,0,0.0,4,0.0,Neutral
+476,,0,0,0.0,0,0.0,Neutral
+477,ascent to the heavens,0,0,0.0,2,0.0,Neutral
+478,u+f,0,0,0.0,1,0.0,Neutral
+479,yeah briefly seems pretty good i picked nomad so start was a little slow but picks up,2,1,0.33333322222225925,9,0.33333329629630043,Positive
+480,,0,0,0.0,0,0.0,Neutral
+481,hehe,0,0,0.0,1,0.0,Neutral
+482,,0,0,0.0,0,0.0,Neutral
+483,,0,0,0.0,0,0.0,Neutral
+484,,0,0,0.0,0,0.0,Neutral
+485,,0,0,0.0,0,0.0,Neutral
+486, falcon launches sxm  to orbit completing spacexs th launch this year,0,0,0.0,8,0.0,Neutral
+487,init void,0,0,0.0,2,0.0,Neutral
+488,*cooling haha,0,0,0.0,3,0.0,Neutral
+489,i still have a soft spot in my heart for transpiration cooking in theory it would us,1,0,0.9999990000010001,6,0.16666663888889352,Most Positive
+490,ship leeward side will be bare metal windward will have black hexagonal heat shield tiles,0,0,0.0,11,0.0,Neutral
+491, cant wait,0,0,0.0,1,0.0,Neutral
+492,yes,0,0,0.0,0,0.0,Neutral
+493,agreed should be preserved in memory of sn,0,0,0.0,4,0.0,Neutral
+494, photos from starship sns flight test u+,0,0,0.0,6,0.0,Neutral
+495,exactly woohoo,0,0,0.0,1,0.0,Neutral
+496,sn did great even reaching apogee wouldve been great so controlling all way to putting,2,0,0.99999950000025,8,0.24999996875000394,Most Positive
+497,thank you south texas for your support this is the gateway to mars,2,0,0.99999950000025,5,0.399999920000016,Most Positive
+498,life the universe and everything,0,0,0.0,2,0.0,Neutral
+499,yeah engines did great,1,0,0.9999990000010001,3,0.33333322222225925,Most Positive
+500,mars here we come,0,0,0.0,1,0.0,Neutral
+501,fuel header tank pressure was low during landing burn causing touchdown velocity to be high &amp rud but we got all,0,2,-0.99999950000025,14,0.14285713265306196,Most Negative
+502,successful ascent switchover to header tanks &amp precise flap control to landing point,2,1,0.33333322222225925,12,0.2499999791666684,Positive
+503,u+f,0,0,0.0,1,0.0,Neutral
+504,near orbital space is the fastest way to travel long distance on earth,1,0,0.9999990000010001,7,0.1428571224489825,Most Positive
+505,its called the space station but its actually moving around earth at ~ times the spee,0,0,0.0,8,0.0,Neutral
+506, time lapse of dragon on approach two dragons now docked to the,0,1,-0.9999990000010001,6,0.16666663888889352,Most Negative
+507,so long and thanks for the orifice  alien message decrypted,0,0,0.0,5,0.0,Neutral
+508,probably   chance of completing all mission objectives,0,0,0.0,4,0.0,Neutral
+509,hopefully flying tomorrow,0,0,0.0,2,0.0,Neutral
+510,yup,0,0,0.0,1,0.0,Neutral
+511, success at pm et s upgraded dragon cargo spacecraft autonomously docked to the  u+f this is the st,2,0,0.99999950000025,10,0.19999998000000202,Most Positive
+512,out on the pad in south texas,0,0,0.0,3,0.0,Neutral
+513, the station and the are going into an orbital night period before the pm et docking the,0,0,0.0,6,0.0,Neutral
+514,wow station looks amazing,2,0,0.99999950000025,3,0.6666664444445185,Most Positive
+515, good morning earthlings u+u+fef the journey continues watch as the nasa cargo resupply mission docks to the,1,0,0.9999990000010001,12,0.08333332638888948,Most Positive
+516,knock knock singing telegram,0,2,-0.99999950000025,4,0.49999987500003124,Most Negative
+517,carrying even more symbiotic bacteria ~ trillion than cells,0,0,0.0,6,0.0,Neutral
+518,yes,0,0,0.0,0,0.0,Neutral
+519,we are mobile cell colonies,0,0,0.0,3,0.0,Neutral
+520,,0,0,0.0,0,0.0,Neutral
+521, tracking footage from a helicopter of todays falcon launch off lc a,0,0,0.0,7,0.0,Neutral
+522, theres something genuinely magical about seeing in person boca chica is beautiful quiet and serine t,3,0,0.9999996666667778,8,0.3749999531250059,Most Positive
+523,im gesprch mit mathias dpfner,0,0,0.0,5,0.0,Neutral
+524, dragon separation confirmed the spacecraft is on its way to the  autonomous docking tomorrow at approximately,1,0,0.9999990000010001,8,0.12499998437500197,Most Positive
+525, falcon booster has landed on the of course i still love you droneship,1,0,0.9999990000010001,5,0.199999960000008,Most Positive
+526, liftoff,0,0,0.0,1,0.0,Neutral
+527,congratulations,1,0,0.9999990000010001,1,0.9999990000010001,Most Positive
+528,congratulations,1,0,0.9999990000010001,1,0.9999990000010001,Most Positive
+529,yes it does,0,0,0.0,0,0.0,Neutral
+530, tunnel rave,0,0,0.0,2,0.0,Neutral
+531,and no toilet paper u+fu+f,0,0,0.0,3,0.0,Neutral
+532,watch demolition man,0,0,0.0,3,0.0,Neutral
+533,prometheus unbound,1,0,0.9999990000010001,2,0.499999750000125,Most Positive
+534, the falcon booster supporting this mission previously launched astronauts bob behnken and doug hurley to the,1,0,0.9999990000010001,11,0.09090908264462885,Most Positive
+535,not bad,0,1,-0.9999990000010001,1,0.9999990000010001,Most Negative
+536,it was a beast compared to the vic ,0,0,0.0,3,0.0,Neutral
+537,award accepted on behalf of the great people at tesla spacex neuralink &amp boring co,2,1,0.33333322222225925,11,0.2727272479338866,Positive
+538,much of what people think of an science is actually engineering eg no such thing as a rocket scientist only roc,0,0,0.0,7,0.0,Neutral
+539,science is discovering the essential truths about what exists in the universe engineering is about creating things,0,0,0.0,9,0.0,Neutral
+540,it does get a bit cold at night,0,1,-0.9999990000010001,3,0.33333322222225925,Most Negative
+541,paint makes a hell of a difference,0,1,-0.9999990000010001,4,0.24999993750001562,Most Negative
+542,congrats,0,0,0.0,1,0.0,Neutral
+543,thanks for everything you did to help build spacex some of the best memories ever,1,0,0.9999990000010001,3,0.33333322222225925,Most Positive
+544,it will be real soon,0,0,0.0,1,0.0,Neutral
+545,starship legs are one of the hardest problems external,0,1,-0.9999990000010001,5,0.199999960000008,Most Negative
+546,static fire is not risky from build site but we need to clear the build site for early flights,1,2,-0.33333322222225925,10,0.299999970000003,Negative
+547,just a static fire tomorrow flight no earlier than wednesday,0,1,-0.9999990000010001,6,0.16666663888889352,Most Negative
+548,it will have landing legs,0,0,0.0,2,0.0,Neutral
+549,yes very sad news tony was great,1,1,0.0,4,0.49999987500003124,Neutral
+550,for a second there i thought that was a pic of thanos haha,0,0,0.0,4,0.0,Neutral
+551,yeah truncate zeros &amp then round,0,0,0.0,6,0.0,Neutral
+552,probably going to a wider beta in ~ weeks,0,0,0.0,4,0.0,Neutral
+553,fp with least important digits truncated so it feels like fp is what were betting on for training with dojo,2,0,0.99999950000025,9,0.22222219753086697,Most Positive
+554,int for almost all heavy lifting in inference works great,2,0,0.99999950000025,6,0.33333327777778704,Most Positive
+555,but actually,0,0,0.0,0,0.0,Neutral
+556,,0,0,0.0,0,0.0,Neutral
+557,happy thanksgiving,1,0,0.9999990000010001,2,0.499999750000125,Most Positive
+558,hopefully next month,0,0,0.0,1,0.0,Neutral
+559,ok overall air suspension height &amp damping algorithm is,0,0,0.0,7,0.0,Neutral
+560,haha true,0,0,0.0,2,0.0,Neutral
+561,the promise is greatly needed,1,0,0.9999990000010001,3,0.33333322222225925,Most Positive
+562,we will have special colors for new roadster as we did for the original,0,0,0.0,4,0.0,Neutral
+563,u+fu+f,0,0,0.0,1,0.0,Neutral
+564, is savage u+fu+f,0,1,-0.9999990000010001,2,0.499999750000125,Most Negative
+565,if you ever wondered where we came from,0,0,0.0,1,0.0,Neutral
+566,this is a life leader launch so more risk than normal,0,1,-0.9999990000010001,5,0.199999960000008,Most Negative
+567,yes but only slightly filled,0,0,0.0,2,0.0,Neutral
+568,this is a subject of much debate,0,0,0.0,2,0.0,Neutral
+569,major upgrades are slated for sn,0,0,0.0,4,0.0,Neutral
+570,many small improvements but overall similar wiring is more robust engines are more mat,2,0,0.99999950000025,7,0.285714244897965,Most Positive
+571,but thats why we have sn &amp sn,0,0,0.0,4,0.0,Neutral
+572,lot of things need to go right so maybe   chance,1,0,0.9999990000010001,3,0.33333322222225925,Most Positive
+573,good starship sn static fire aiming for first km   ~k ft altitude flight next week goals are to test engin,1,1,0.0,15,0.13333332444444504,Neutral
+574,maybe start on that a year from now depends on how starship progress goes,1,0,0.9999990000010001,5,0.199999960000008,Most Positive
+575,not yet,0,0,0.0,0,0.0,Neutral
+576,not bad we will definitely need more engines if we make the cargo bay all propel,0,1,-0.9999990000010001,6,0.16666663888889352,Most Negative
+577,rapid &amp complete rocket reuse low cost propellant orbital refilling &amp propellant production at d,1,0,0.9999990000010001,15,0.06666666222222252,Most Positive
+578,yes,0,0,0.0,0,0.0,Neutral
+579,were still far from simply video in control out the biggest game changer cu,0,0,0.0,7,0.0,Neutral
+580,fsd beta coming out in a few days improvement should be significant,2,0,0.99999950000025,6,0.33333327777778704,Most Positive
+581,exciting mission,1,0,0.9999990000010001,2,0.499999750000125,Most Positive
+582,wow,1,0,0.9999990000010001,1,0.9999990000010001,Most Positive
+583,yea,0,0,0.0,1,0.0,Neutral
+584,tomorrow will be the th flight of this rocket landing on droneship of course i still love you,1,0,0.9999990000010001,6,0.16666663888889352,Most Positive
+585,sure,0,0,0.0,0,0.0,Neutral
+586,true,0,0,0.0,1,0.0,Neutral
+587,we have quiet a queue of products to build better do new roadster at some pointu+fc,2,0,0.99999950000025,6,0.33333327777778704,Most Positive
+588,fate loves irony but hates hypocrisy,1,3,-0.49999987500003124,5,0.799999840000032,Negative
+589, booster separation second engine start and fairing separation as the us european sentinel  michael freilich ocean observing,0,0,0.0,12,0.0,Neutral
+590,yes u+f,0,0,0.0,1,0.0,Neutral
+591,our data center was named skynet as a joke over years ago might have been tempting fate,1,1,0.0,9,0.22222219753086697,Neutral
+592,tesla is a vehicle for creating &amp producing many useful products,1,0,0.9999990000010001,7,0.1428571224489825,Most Positive
+593,largest cast titanium part in the world no heat shielding needed,0,0,0.0,8,0.0,Neutral
+594,landing at vandenberg afb in california,0,0,0.0,4,0.0,Neutral
+595,actually off to the side so it doesnt take out the launch,0,0,0.0,3,0.0,Neutral
+596,where it should be,0,0,0.0,0,0.0,Neutral
+597,because i am not an investor tesla is definitely not the only good company but investing is n,1,0,0.9999990000010001,5,0.199999960000008,Most Positive
+598,well almost anything,1,0,0.9999990000010001,0,1000000.0,Most Positive
+599,quite the day ahead,0,0,0.0,2,0.0,Neutral
+600, crew s view of earth during dragons flight to the,0,0,0.0,5,0.0,Neutral
+601,now *this* is what youd call pointy,0,0,0.0,5,0.0,Neutral
+602,cool,1,0,0.9999990000010001,1,0.9999990000010001,Most Positive
+603,theyre moving at ~ times the speed of sound but it feels like nothing,1,0,0.9999990000010001,7,0.1428571224489825,Most Positive
+604,,0,0,0.0,0,0.0,Neutral
+605,there will always be upgrades,0,0,0.0,1,0.0,Neutral
+606,it will be better than human vision by quite a margin,1,0,0.9999990000010001,3,0.33333322222225925,Most Positive
+607,reality looks like a strange ghost world at radar wavelengths,1,1,0.0,6,0.33333327777778704,Neutral
+608,exactly,0,0,0.0,0,0.0,Neutral
+609,this is a misperception spacex developed &amp continues to use lidar for dragon docking with,0,0,0.0,9,0.0,Neutral
+610,one day we will fly you on starship,0,0,0.0,3,0.0,Neutral
+611,well done,1,0,0.9999990000010001,0,1000000.0,Most Positive
+612,i cant comment on turbopump internal details but youre roughly in the ballpark wow roc,1,0,0.9999990000010001,9,0.11111109876543349,Most Positive
+613,to be clear this was just an xpeng problem other companies in china have not done this,1,1,0.0,5,0.399999920000016,Neutral
+614,andrej is awesome but it should be said that we have a very talented autopilot,2,0,0.99999950000025,4,0.49999987500003124,Most Positive
+615,yeah they stole apples code too,0,1,-0.9999990000010001,4,0.24999993750001562,Most Negative
+616,they have an old version of our software &amp dont have our nn inference computer,0,0,0.0,8,0.0,Neutral
+617,wild times,0,1,-0.9999990000010001,2,0.499999750000125,Most Negative
+618,congrats,0,0,0.0,1,0.0,Neutral
+619,,0,0,0.0,0,0.0,Neutral
+620,yup,0,0,0.0,1,0.0,Neutral
+621,change out a few parts otherwise fine,1,0,0.9999990000010001,3,0.33333322222225925,Most Positive
+622,caution strongly advised with spacs,0,0,0.0,4,0.0,Neutral
+623,sure,0,0,0.0,0,0.0,Neutral
+624,haha sexy cropping champion of all time,2,0,0.99999950000025,5,0.399999920000016,Most Positive
+625,if next weeks release looks good we will widen beta,1,0,0.9999990000010001,5,0.199999960000008,Most Positive
+626,unfortunately there are too many rules around liquor distribution even in the us,0,1,-0.9999990000010001,3,0.33333322222225925,Most Negative
+627,next weeks release is special lot of fundamental improvements both important bug fixes &amp entire n,2,1,0.33333322222225925,12,0.2499999791666684,Positive
+628,years &amp  billion wow,1,0,0.9999990000010001,5,0.199999960000008,Most Positive
+629,safety is our primary design goal,0,0,0.0,4,0.0,Neutral
+630,fully,0,0,0.0,1,0.0,Neutral
+631,let the martians decide their own future,0,0,0.0,3,0.0,Neutral
+632,a lot of my brain space is spent dealing with both units,0,0,0.0,6,0.0,Neutral
+633,terraforming will be too slow to be relevant in our lifetime however we can establish a human base,0,1,-0.9999990000010001,7,0.1428571224489825,Most Negative
+634,that is certainly the intention,0,0,0.0,1,0.0,Neutral
+635,,0,0,0.0,0,0.0,Neutral
+636,the only publicly traded stock i own is tesla,0,0,0.0,4,0.0,Neutral
+637,wise words from bogle the point of companies is products &amp services they have no point in &amp of thems,1,0,0.9999990000010001,13,0.07692307100591762,Most Positive
+638,no just a mild cold same with my bro def had cov though pc&lt means viral,0,1,-0.9999990000010001,10,0.09999999000000101,Most Negative
+639,life in glass domes at first eventually terraformed to support life like earth,2,0,0.99999950000025,8,0.24999996875000394,Most Positive
+640,yeah,0,0,0.0,1,0.0,Neutral
+641,i was going to say sim but that seemed too obvious haha,0,0,0.0,3,0.0,Neutral
+642,deveras,0,0,0.0,1,0.0,Neutral
+643,and cases with high non infectious ct should quarantine for a few days while getting another test seco,0,0,0.0,8,0.0,Neutral
+644,so many things you want &amp some you didnt know you wanted,0,0,0.0,5,0.0,Neutral
+645,maybe a little mercy,1,0,0.9999990000010001,1,0.9999990000010001,Most Positive
+646,tesla holiday software release is u+fu+f,0,0,0.0,5,0.0,Neutral
+647,u+ff,0,0,0.0,1,0.0,Neutral
+648,cobra kai is a deep cut,0,0,0.0,4,0.0,Neutral
+649,its all cake &amp someone took a bite,0,0,0.0,4,0.0,Neutral
+650,there is such a thing as too much sentience,0,0,0.0,2,0.0,Neutral
+651,deus ex machine learning,0,0,0.0,3,0.0,Neutral
+652,its designed to make life multiplanetary otherwise extreme overkill for mere earth sector activity,0,1,-0.9999990000010001,10,0.09999999000000101,Most Negative
+653,more like he gave it his blessing it was sort of a groundswell of those who believed,2,0,0.99999950000025,5,0.399999920000016,Most Positive
+654,nullius in verba,0,0,0.0,2,0.0,Neutral
+655,indeed,0,0,0.0,0,0.0,Neutral
+656,dojo doge,0,0,0.0,2,0.0,Neutral
+657,yeah looks like marginal cost of launch will be less than m for more than,1,1,0.0,4,0.49999987500003124,Neutral
+658,exactly,0,0,0.0,0,0.0,Neutral
+659,merlin is a strong local maximum design but kerosene is suboptimal fuel no matter what,1,0,0.9999990000010001,9,0.11111109876543349,Most Positive
+660,yes but from a visiting american ah the irony is just too much,0,1,-0.9999990000010001,4,0.24999993750001562,Most Negative
+661,yeah pcr ct was unequivocal at &lt doesnt matter what m,1,0,0.9999990000010001,8,0.12499998437500197,Most Positive
+662,maybe making some notable changes will wait until figurative &amp literal dust settles,0,1,-0.9999990000010001,9,0.11111109876543349,Most Negative
+663,pretty close definitely feel u+faf if i take dayquil frankly this was one,1,0,0.9999990000010001,6,0.16666663888889352,Most Positive
+664,avionics cables moving to steel pipe shields &amp adding water cooled steel pipes to test pad,0,0,0.0,15,0.0,Neutral
+665,about secs after starting engines martyte covering concrete below shattered sending blades of,0,0,0.0,9,0.0,Neutral
+666,the most amazing thing about rocket engines is that they *sometimes* dont blow up the,1,1,0.0,8,0.24999996875000394,Neutral
+667,we should just count the atoms at this point,0,0,0.0,3,0.0,Neutral
+668,absolutely production testing of rocket engines is over  of,0,0,0.0,5,0.0,Neutral
+669,our first merlin engine design was really bad tbh nothing worked well,2,1,0.33333322222225925,6,0.49999991666668053,Positive
+670,maybe *i* just love irony haha,1,1,0.0,5,0.399999920000016,Neutral
+671,theyre on their way hopefully more teslaquila next month,0,0,0.0,3,0.0,Neutral
+672,special permission received from stonecutters guild,0,0,0.0,5,0.0,Neutral
+673,fate u+fa irony,0,1,-0.9999990000010001,3,0.33333322222225925,Most Negative
+674,well said,1,0,0.9999990000010001,0,1000000.0,Most Positive
+675,u+fb u+fb,0,0,0.0,2,0.0,Neutral
+676,damn thats not easy i spent quite a bit of time looking at russian ukrainian engines theyre good,2,1,0.33333322222225925,10,0.299999970000003,Positive
+677,yes,0,0,0.0,0,0.0,Neutral
+678, docking confirmed crew dragon has arrived at the ,0,0,0.0,5,0.0,Neutral
+679,u+fb toss a bitcoin to ur witcher u+fb,0,0,0.0,6,0.0,Neutral
+680,u+f,0,0,0.0,1,0.0,Neutral
+681, u+f enter the crew dragon at  pm est  pm utc the nasa crew  astronauts give you a live tour of their space,0,0,0.0,15,0.0,Neutral
+682,curevac moderna &amp a few others tesla makes the machine curevac uses to go from kn,0,0,0.0,9,0.0,Neutral
+683,creating synthetic mrna for cures vaccines is the future of medicine imo turns it mostly into a,0,0,0.0,9,0.0,Neutral
+684,haha,0,0,0.0,1,0.0,Neutral
+685,great thread,1,0,0.9999990000010001,2,0.499999750000125,Most Positive
+686,im ok thanks for asking no symptoms for past few days apart from fatigue unless something chang,0,2,-0.99999950000025,6,0.33333327777778704,Most Negative
+687,u+u+fef,0,0,0.0,1,0.0,Neutral
+688,launch in minutes,0,0,0.0,2,0.0,Neutral
+689,yeah with cooling channels integrated into the chamber walls,1,0,0.9999990000010001,6,0.16666663888889352,Most Positive
+690,the same propellant is used either for abort or for orbital maneuvering as one use obviates the other,0,1,-0.9999990000010001,5,0.199999960000008,Most Negative
+691,dragon can also hover &amp land propulsively but we use the parachutes for maximum safety,0,0,0.0,9,0.0,Neutral
+692,thrusters are integrated with spacecraft enabling abort capability all the way to abort for increased safety,2,2,0.0,9,0.44444439506173394,Neutral
+693, what song would you play on your ride out to the launch pad,0,0,0.0,5,0.0,Neutral
+694, dragon has completed flights to and from the  it was designed from the beginning with human spaceflight in mi,0,0,0.0,8,0.0,Neutral
+695, dragon is the only spacecraft currently flying capable of returning significant amounts of cargo to earth and is the first priv,2,0,0.99999950000025,10,0.19999998000000202,Most Positive
+696, spacexs custom tailored suits route the communications and cooling systems and protect the crew in the event of cabin depressu,1,0,0.9999990000010001,13,0.07692307100591762,Most Positive
+697, live now we are ready to  are you u+fwatch coverage of the nasa crew  mission liftoff is at pm et,1,0,0.9999990000010001,9,0.11111109876543349,Most Positive
+698, watch falcon launch crew dragon on its first operational mission to the with astronauts on board u+,0,0,0.0,10,0.0,Neutral
+699,ok,0,0,0.0,0,0.0,Neutral
+700, all systems are go for tonights launch at  pm est of crew dragons first operational mission with four astronauts on boa,0,0,0.0,11,0.0,Neutral
+701,yeah i feel pretty normal no symptoms right now last week i had sym,2,1,0.33333322222225925,7,0.4285713673469475,Positive
+702,doing tests from several different labs same time of day administered by rn &amp am,0,0,0.0,8,0.0,Neutral
+703,both obv insanely great too bad they had this pointless argument,1,3,-0.49999987500003124,6,0.6666665555555741,Negative
+704,astronaut launch today,0,0,0.0,3,0.0,Neutral
+705, u+f has a message for boys and girls in japan space is waiting in this spotlight astronaut so,0,0,0.0,9,0.0,Neutral
+706, this weeku+f nasas crew  astronauts arrive at ahead of launchu+f our rover marks days,0,0,0.0,10,0.0,Neutral
+707, just finished final dress rehearsal getting ready for saturday launch behind me is real,1,0,0.9999990000010001,8,0.12499998437500197,Most Positive
+708,no kids though,0,0,0.0,1,0.0,Neutral
+709,hell of a wig collection too,0,1,-0.9999990000010001,3,0.33333322222225925,Most Negative
+710,it would be great if labs could give people this level of granular feedback in their results,1,0,0.9999990000010001,8,0.12499998437500197,Most Positive
+711, great question its more complex question and depends on why the test is being used   ie do you want to kn,1,1,0.0,7,0.285714244897965,Neutral
+712,worth reading this thread if youre curious about rona testing,1,0,0.9999990000010001,7,0.1428571224489825,Most Positive
+713,they should be imo if you get a blood pressure test they tell you the number not ju,0,0,0.0,6,0.0,Neutral
+714,a little up &amp down feels just like a regular cold but more body achy &amp cloudy head than co,1,2,-0.33333322222225925,11,0.2727272479338866,Negative
+715,in your opinion at what ct number for the cov n gene should a pcr test probably be regarded as,0,0,0.0,8,0.0,Neutral
+716,,0,0,0.0,0,0.0,Neutral
+717,cool but please be super cautious expect two steps forward one back lot of new code was merged,2,0,0.99999950000025,10,0.19999998000000202,Most Positive
+718,just a scratch we can buff it out,0,1,-0.9999990000010001,2,0.499999750000125,Most Negative
+719,am getting wildly different results from different labs but most likely i have a moderate case of covid,0,1,-0.9999990000010001,6,0.16666663888889352,Most Negative
+720,npcs all the way up,0,0,0.0,1,0.0,Neutral
+721,ahem,0,0,0.0,1,0.0,Neutral
+722,unless youre on dmt,0,0,0.0,2,0.0,Neutral
+723,laws of thermodynamics you cant win you cant break even you cant stop playing,1,1,0.0,6,0.33333327777778704,Neutral
+724,shakes fist at entropy,0,1,-0.9999990000010001,3,0.33333322222225925,Most Negative
+725,big expansion of beta program in to weeks,0,0,0.0,5,0.0,Neutral
+726,interesting my thursday night saliva sample came back today with n gene unique to cov,1,0,0.9999990000010001,10,0.09999999000000101,Most Positive
+727,whats honey,0,0,0.0,2,0.0,Neutral
+728,feels that way,0,0,0.0,1,0.0,Neutral
+729,this seems accurate,1,0,0.9999990000010001,1,0.9999990000010001,Most Positive
+730,cold symptoms are gone for now u+fu+fu+fab,0,2,-0.99999950000025,3,0.6666664444445185,Most Negative
+731,there are degrees of pos,0,0,0.0,2,0.0,Neutral
+732,heneghan makes a lot of sense hilarious that he has to clarify that he r,1,0,0.9999990000010001,6,0.16666663888889352,Most Positive
+733,the number of pcr amplification cycles required to detect the virus is a rough indicator of your vir,0,2,-0.99999950000025,10,0.19999998000000202,Most Negative
+734,this a great reference worth a read,2,0,0.99999950000025,4,0.49999987500003124,Most Positive
+735,case closed,0,0,0.0,2,0.0,Neutral
+736,soon,0,0,0.0,0,0.0,Neutral
+737,fwiw lab i just spoke to thinks below is accurate to gets dicey &amp above is bs will talk to,1,1,0.0,10,0.19999998000000202,Neutral
+738,lab i just spoke to said cov pcr detection n &amp n genes below cycles is reliable &amp above cycles is not,1,0,0.9999990000010001,13,0.07692307100591762,Most Positive
+739,note this is not the spike protein they dont consider that reliable,1,0,0.9999990000010001,5,0.199999960000008,Most Positive
+740,just spoke directly to a testing lab their main pcr search is for the n gene unique,0,0,0.0,9,0.0,Neutral
+741,strange,0,1,-0.9999990000010001,1,0.9999990000010001,Most Negative
+742,possible explanation for the dramatic decline in cold &amp flu prevalence vs prior years if someone comes,0,2,-0.99999950000025,10,0.19999998000000202,Most Negative
+743,moreover lower the true prevalence the higher the false positive number will be this sounds obvious,1,1,0.0,9,0.22222219753086697,Neutral
+744,from,0,0,0.0,0,0.0,Neutral
+745,sure is,0,0,0.0,0,0.0,Neutral
+746,would be great to hear from people who know a lot about the pcr testing industry whats the approximate false posi,1,1,0.0,11,0.1818181652892577,Neutral
+747,interesting,1,0,0.9999990000010001,1,0.9999990000010001,Most Positive
+748,interesting,1,0,0.9999990000010001,1,0.9999990000010001,Most Positive
+749,what is the general population no knowledge of symptoms accuracy of a sars cov pcr test &amp is it possible to gene,0,1,-0.9999990000010001,12,0.08333332638888948,Most Negative
+750,a good pcr test should identify if i have the cov spike proteins although i have heard s,1,0,0.9999990000010001,8,0.12499998437500197,Most Positive
+751,mild sniffles &amp cough &amp slight fever past few days right now no symptoms although i did take nyquil,1,2,-0.33333322222225925,13,0.23076921301775286,Negative
+752,technically i tested positive then negative twice then positive again so elon musk tests negati,2,1,0.33333322222225925,9,0.33333329629630043,Positive
+753,the carousel turns ever faster,1,0,0.9999990000010001,3,0.33333322222225925,Most Positive
+754,yup,0,0,0.0,1,0.0,Neutral
+755,exactly,0,0,0.0,0,0.0,Neutral
+756,symptoms of a typical cold nothing unusual so far,0,3,-0.9999996666667778,4,0.7499998125000469,Most Negative
+757,if its happening to me its happening to others im getting pcr tests from separate labs results will take about hours,0,0,0.0,9,0.0,Neutral
+758,something extremely bogus is going on was tested for covid four times today two tests came back negative two cam,0,2,-0.99999950000025,10,0.19999998000000202,Most Negative
+759,burst disk worked so vehicle appears to be ok well have to swap out at least one of the engines,2,0,0.99999950000025,7,0.285714244897965,Most Positive
+760,maybe melted an engine preburner or fuel hot gas manifold whatev,1,0,0.9999990000010001,8,0.12499998437500197,Most Positive
+761,we lost vehicle pneumatics reason unknown at present liquid oxygen header tank pressure is risin,0,3,-0.9999996666667778,12,0.2499999791666684,Most Negative
+762,u+fu+fu+fd,0,0,0.0,1,0.0,Neutral
+763, tesla tops list of s most attractive employers for us engineering students,2,0,0.99999950000025,7,0.285714244897965,Most Positive
+764,astronauts fly to on sat night from cape first operational flight of crew dragon,0,0,0.0,9,0.0,Neutral
+765,luck is the best superpower,2,0,0.99999950000025,2,0.99999950000025,Most Positive
+766, thank you to all those who have served and sacrificed,1,1,0.0,2,0.99999950000025,Neutral
+767, crew access arm swings into place,0,0,0.0,5,0.0,Neutral
+768,yes,0,0,0.0,0,0.0,Neutral
+769,it is an honor that they would choose to work with me i strive to ensure that the companies enable,2,0,0.99999950000025,7,0.285714244897965,Most Positive
+770,such a privilege to work with people i like &amp respect so much i feel blessed,4,0,0.9999997500000625,8,0.4999999375000079,Most Positive
+771, the flight readiness review for the crew  mission to the has concluded and and are go t,0,0,0.0,6,0.0,Neutral
+772, falcon and crew dragon vertical on launch complex a,0,1,-0.9999990000010001,6,0.16666663888889352,Most Negative
+773,probably,0,0,0.0,0,0.0,Neutral
+774,happy to see this,1,0,0.9999990000010001,1,0.9999990000010001,Most Positive
+775,i do expect this to become an important product for the world but probably not financially material for tesla,1,0,0.9999990000010001,7,0.1428571224489825,Most Positive
+776,theres no entry,0,0,0.0,1,0.0,Neutral
+777,tesla makes the rna bioreactor that can make vaccines   cures curevac has version in use,0,0,0.0,9,0.0,Neutral
+778, crew dragon and falcon in the hangar at launch complex a ahead of launching four astronauts to the  liftoff,0,1,-0.9999990000010001,10,0.09999999000000101,Most Negative
+779,checking,0,0,0.0,1,0.0,Neutral
+780,i just hope this game doesnt twist itself to tedium out of fear of being canceled,0,2,-0.99999950000025,7,0.285714244897965,Most Negative
+781, rumor has it that austin chalk is geologically one of best soils for tunneling want to find out austin jobs now avai,1,1,0.0,10,0.19999998000000202,Neutral
+782,,0,0,0.0,0,0.0,Neutral
+783,yes you can have my damn cookie should be a browser setting,0,1,-0.9999990000010001,4,0.24999993750001562,Most Negative
+784,thanks to a lot of great autopilot ai hardware &amp software engineers at tesla,1,0,0.9999990000010001,10,0.09999999000000101,Most Positive
+785,for sure,0,0,0.0,0,0.0,Neutral
+786,will be worth it,1,0,0.9999990000010001,1,0.9999990000010001,Most Positive
+787,exactly,0,0,0.0,0,0.0,Neutral
+788,sure,0,0,0.0,0,0.0,Neutral
+789,actually its still there,0,0,0.0,0,0.0,Neutral
+790,wait until you see what cybertruck will do,0,0,0.0,2,0.0,Neutral
+791,this is accidental will be back shortly,0,1,-0.9999990000010001,3,0.33333322222225925,Most Negative
+792, k superchargers and counting,0,0,0.0,2,0.0,Neutral
+793,am hoping to change booster design to land back on launch mount with,0,0,0.0,8,0.0,Neutral
+794,chip has temp sensor &amp automatically maintains safe temp,1,0,0.9999990000010001,9,0.11111109876543349,Most Positive
+795,enough already on my plate &amp teslas maybe one day will do a prototy,1,0,0.9999990000010001,6,0.16666663888889352,Most Positive
+796,neuralink wont overclock the brain it will transfer processing to the supercomputer extension of yo,0,0,0.0,9,0.0,Neutral
+797,we rewrote all labeling software for d very different from labeling single phot,0,0,0.0,6,0.0,Neutral
+798,version is about a year away,0,0,0.0,2,0.0,Neutral
+799,it would appear that their calculations were incorrect,0,1,-0.9999990000010001,2,0.499999750000125,Most Negative
+800,china understands the profound importance of reusability the era of expendable rockets will soon be over,1,0,0.9999990000010001,8,0.12499998437500197,Most Positive
+801,u+u+fefu+u+fef tesla autopilot ai team u+u+fefu+u+fef,0,0,0.0,6,0.0,Neutral
+802,good explanation d is essential for dynamically occluded objects especially in large intersection,1,1,0.0,8,0.24999996875000394,Neutral
+803,,0,0,0.0,0,0.0,Neutral
+804,the phantom of the opera is here inside your mind,0,0,0.0,4,0.0,Neutral
+805,u+feu+fe u+f,0,0,0.0,2,0.0,Neutral
+806,just looking for problem solvers who get things done with a high sense of urgency dont care if or where they went to school,0,1,-0.9999990000010001,9,0.11111109876543349,Most Negative
+807,when sending your resume please describe a few of the hardest problems you solved &amp exactly how you solved them,0,1,-0.9999990000010001,9,0.11111109876543349,Most Negative
+808,a new banner is neededneither hard left nor right,1,1,0.0,4,0.49999987500003124,Neutral
+809,another fine day in the simulation,1,0,0.9999990000010001,3,0.33333322222225925,Most Positive
+810,faraday invented the electric motor tesla the commutator free three phase ac induction motor in other,1,0,0.9999990000010001,11,0.09090908264462885,Most Positive
+811,maxwell was amazing should have more recognition tesla motors inc was almost called faraday as it to,1,0,0.9999990000010001,7,0.1428571224489825,Most Positive
+812,is ten times better than,1,0,0.9999990000010001,2,0.499999750000125,Most Positive
+813,u+f,0,0,0.0,1,0.0,Neutral
+814, deployment of gps iii  confirmed,0,0,0.0,4,0.0,Neutral
+815, falcon s first stage lands on the of course i still love you droneship,1,0,0.9999990000010001,5,0.199999960000008,Most Positive
+816, liftoff,0,0,0.0,1,0.0,Neutral
+817,awaiting approval from canadian authorities,1,0,0.9999990000010001,4,0.24999993750001562,Most Positive
+818,recruiting ace engineers for giga berlin will interview in person tomorrow on site send resume to gunscom,0,0,0.0,12,0.0,Neutral
+819,stop being a chad,0,0,0.0,2,0.0,Neutral
+820,uh chad wtf,0,0,0.0,3,0.0,Neutral
+821,einstein was great but did not succeed at engineering and he tried,2,0,0.99999950000025,4,0.49999987500003124,Most Positive
+822,yeah that will be relatively easy as so few users out in the ocean,1,0,0.9999990000010001,4,0.24999993750001562,Most Positive
+823,yes although i didnt expect the stock to rise so much so,0,0,0.0,4,0.0,Neutral
+824,super appreciate your support steve that convertible loan gave us months of runway,3,0,0.9999996666667778,8,0.3749999531250059,Most Positive
+825,closest we got was about a month the model ramp was extreme stress &amp pa,0,1,-0.9999990000010001,9,0.11111109876543349,Most Negative
+826,i put in my last money even though i thought we would still fail but it was eithe,0,1,-0.9999990000010001,5,0.199999960000008,Most Negative
+827,that funding round completed pm on christmas eve in  last hour of last day possible as investo,0,0,0.0,9,0.0,Neutral
+828,yes,0,0,0.0,0,0.0,Neutral
+829,lowering starlink terminal cost which may sound rather pedestrian is actually our most difficult technical challenge,0,1,-0.9999990000010001,9,0.11111109876543349,Most Negative
+830,as soon as we get regulatory approval hopefully around middle of next year,1,0,0.9999990000010001,4,0.24999993750001562,Most Positive
+831,right now it takes about mins to set up but with future improvements probably less than mi,2,0,0.99999950000025,6,0.33333327777778704,Most Positive
+832,canada and norway are next after we get us out of early beta,0,0,0.0,4,0.0,Neutral
+833,didnt realize that was possible no problem if theres a way get current design cybertruck approved in europe,0,1,-0.9999990000010001,8,0.12499998437500197,Most Negative
+834,as soon as we get country approval this is required for each country individually as no eu wide approval,2,0,0.99999950000025,8,0.24999996875000394,Most Positive
+835,lower latitude states need more satellites in position so probably january,0,0,0.0,6,0.0,Neutral
+836,several thousand more starlink beta participation invitations going out this week,0,0,0.0,6,0.0,Neutral
+837,new design is better with many minor tweaks even the small details matter,1,0,0.9999990000010001,6,0.16666663888889352,Most Positive
+838,haha,0,0,0.0,1,0.0,Neutral
+839,very close to actual expected flight,0,0,0.0,4,0.0,Neutral
+840,i could not be more excited about the new supercollider that said while it is considerably larger,1,0,0.9999990000010001,4,0.24999993750001562,Most Positive
+841,,0,0,0.0,0,0.0,Neutral
+842,,0,0,0.0,0,0.0,Neutral
+843,tesla tex,0,0,0.0,2,0.0,Neutral
+844,yes,0,0,0.0,0,0.0,Neutral
+845,penguin random house u+f should change the name to random penguinu+f,0,0,0.0,7,0.0,Neutral
+846,sure although it might be quite a short livestream lot can go wrong but well provide video wa,1,1,0.0,7,0.285714244897965,Neutral
+847,this is what matters most,0,0,0.0,1,0.0,Neutral
+848,weve tested a sub scale version in a wind tunnel with active aero clos,0,0,0.0,9,0.0,Neutral
+849,,0,0,0.0,0,0.0,Neutral
+850,lord of the,0,0,0.0,1,0.0,Neutral
+851,yeah although if it fails right at the end some landing,1,1,0.0,4,0.49999987500003124,Neutral
+852,minor,0,0,0.0,1,0.0,Neutral
+853,understanding exactly how the body flaps control pitch yaw &amp roll duri,0,0,0.0,10,0.0,Neutral
+854,but a rud right off launch pad is also possible fortunately sn is almost ready,3,0,0.9999996666667778,6,0.49999991666668053,Most Positive
+855,stable controlled descent with body flaps would be great transferring propellant,2,0,0.99999950000025,8,0.24999996875000394,Most Positive
+856,every to days,0,0,0.0,1,0.0,Neutral
+857,faults will never be zero but at some point the probability of a fault wi,0,2,-0.99999950000025,5,0.399999920000016,Most Negative
+858,we measure this primarily in intervention probability this update addressed several issu,0,0,0.0,7,0.0,Neutral
+859,thanks to a great autopilot ai team working super hard doing neural nets without testing them again,2,1,0.33333322222225925,10,0.299999970000003,Positive
+860,latency will improve significantly soon bandwidth too,1,1,0.0,4,0.49999987500003124,Neutral
+861,this build should be noticeably better with interventions,1,0,0.9999990000010001,3,0.33333322222225925,Most Positive
+862,yes,0,0,0.0,0,0.0,Neutral
+863,ive spent more than half my life in california &amp love the state but frankly i think,1,0,0.9999990000010001,10,0.09999999000000101,Most Positive
+864,and sweden is still right with zero deaths oct,1,0,0.9999990000010001,3,0.33333322222225925,Most Positive
+865,true also fewer heart attacks as way easier to pump blood in  gravity,1,1,0.0,8,0.24999996875000394,Neutral
+866,now were talking also stephenson   is in the constellation scrotum haha,0,0,0.0,5,0.0,Neutral
+867,small fry the sun converts over million tons of mass to energy every second,0,0,0.0,8,0.0,Neutral
+868,accurate,1,0,0.9999990000010001,1,0.9999990000010001,Most Positive
+869,,0,0,0.0,0,0.0,Neutral
+870,some challenges with high winds looks like sunday for static fire,1,1,0.0,6,0.33333327777778704,Neutral
+871,great shot,1,0,0.9999990000010001,2,0.499999750000125,Most Positive
+872,future ai will appreciate this,1,0,0.9999990000010001,2,0.499999750000125,Most Positive
+873,truth is stranger than fiction,0,2,-0.99999950000025,3,0.6666664444445185,Most Negative
+874,u+f,0,0,0.0,1,0.0,Neutral
+875,urf is so smol,0,0,0.0,2,0.0,Neutral
+876,for a long time,0,0,0.0,2,0.0,Neutral
+877,truth be told ive eaten at jitb many times over the years even the teriyaki bowl,0,0,0.0,9,0.0,Neutral
+878,might buy a jack in the box footstool,0,0,0.0,4,0.0,Neutral
+879,approximately lograte,0,0,0.0,2,0.0,Neutral
+880,same bot just change setting to combat,0,0,0.0,4,0.0,Neutral
+881,well being a phased array antenna it is actually rather flat,1,0,0.9999990000010001,4,0.24999993750001562,Most Positive
+882,tesla should make u+f catgirl robots,0,0,0.0,5,0.0,Neutral
+883,little crane am i just a toy to you,0,0,0.0,2,0.0,Neutral
+884,u+fu+f,0,0,0.0,1,0.0,Neutral
+885,come here no come here u+f,0,0,0.0,1,0.0,Neutral
+886,wow this mayo sure is salty,1,0,0.9999990000010001,3,0.33333322222225925,Most Positive
+887,max payne was great on many levels silent hill good too,3,0,0.9999996666667778,7,0.4285713673469475,Most Positive
+888,jack in the box should do double duty as a sperm donor clinic name is u+fc,0,0,0.0,8,0.0,Neutral
+889,one of the best games ever,1,0,0.9999990000010001,1,0.9999990000010001,Most Positive
+890,fear with modern graphics &amp sound would rock,1,1,0.0,7,0.285714244897965,Neutral
+891,ok,0,0,0.0,0,0.0,Neutral
+892,all games in this thread are far scarier &amp more creatively so than any horror movie,0,1,-0.9999990000010001,8,0.12499998437500197,Most Negative
+893,fear is best imo also dead space  they will haunt your dreams,1,3,-0.49999987500003124,6,0.6666665555555741,Negative
+894,,0,0,0.0,0,0.0,Neutral
+895,to the best of my knowledge literally zero equipment was usable without major repairs or upgra,2,0,0.99999950000025,7,0.285714244897965,Most Positive
+896,all that was left were broken bots &amp equipment hardly worth the scrap metal value but we scrounged up spa,1,2,-0.33333322222225925,11,0.2727272479338866,Negative
+897,and there were actually zero employees in the factory after gm toyota left they took all good equipment &amp,1,0,0.9999990000010001,9,0.11111109876543349,Most Positive
+898,bettern nothin or ur u+fb back,0,0,0.0,5,0.0,Neutral
+899,u+fab u+ff,0,0,0.0,2,0.0,Neutral
+900,tesla team has done great work,2,0,0.99999950000025,4,0.49999987500003124,Most Positive
+901,well tbh our capex efficiency in was trash u+fc,1,1,0.0,5,0.399999920000016,Neutral
+902,testing for covid is a license to print money,0,0,0.0,5,0.0,Neutral
+903,yes very helpful thanks all beta testers,1,0,0.9999990000010001,3,0.33333322222225925,Most Positive
+904,video training &amp inference is essential for excellent autonomy,1,0,0.9999990000010001,8,0.12499998437500197,Most Positive
+905,sigh there should be a new supersonic jet this time electric,0,0,0.0,5,0.0,Neutral
+906,critical to humanitys future,0,1,-0.9999990000010001,3,0.33333322222225925,Most Negative
+907,congratulations spacex team,1,0,0.9999990000010001,3,0.33333322222225925,Most Positive
+908,mine is a few days ahead,0,0,0.0,3,0.0,Neutral
+909,sure it could be an option in settings,0,0,0.0,2,0.0,Neutral
+910,visualization will tone down significantly for production these are intentionally strident colors,0,1,-0.9999990000010001,7,0.1428571224489825,Most Negative
+911,sure,0,0,0.0,0,0.0,Neutral
+912,im in boca every week so maybe we could talk th,0,0,0.0,4,0.0,Neutral
+913,good point probably next week in form of a written piece on spacex website,1,0,0.9999990000010001,8,0.12499998437500197,Most Positive
+914,great pics that we now have the beginnings of a starship production system is most meaningful,2,0,0.99999950000025,7,0.285714244897965,Most Positive
+915,yup with beta updates therell be a lot of steps fwd step back situations but pace of improv,0,0,0.0,12,0.0,Neutral
+916,working on it also needs to be able fart at other cars on command,0,0,0.0,4,0.0,Neutral
+917,starship is coming together,0,0,0.0,2,0.0,Neutral
+918,price change is pushed to thursday next week applies only to us for now one week clock will start in other countr,0,0,0.0,10,0.0,Neutral
+919,there will be a deg glass star bar name tbd at top of high bay,1,0,0.9999990000010001,8,0.12499998437500197,Most Positive
+920,well we have said many times that the price will rise as the product functionality improves how much ti,2,0,0.99999950000025,7,0.285714244897965,Most Positive
+921,agreed are these performance tires,0,0,0.0,3,0.0,Neutral
+922,just a small seeming issue with loss of upper stage camera probably nothing serious but standing down to,0,2,-0.99999950000025,7,0.285714244897965,Most Negative
+923,sure,0,0,0.0,0,0.0,Neutral
+924,now that tesla fsd beta is out in limited release fsd price new or upgrade will go up by ~k on monday,0,1,-0.9999990000010001,10,0.09999999000000101,Most Negative
+925,as soon as we complete testing &amp regulators approve so many differe,1,0,0.9999990000010001,7,0.1428571224489825,Most Positive
+926,yes,0,0,0.0,0,0.0,Neutral
+927,haha,0,0,0.0,1,0.0,Neutral
+928,dependent on proving high safety,1,0,0.9999990000010001,4,0.24999993750001562,Most Positive
+929,not intentional we just wanted to show that you could theoretically convert the entire us vehicle f,0,0,0.0,7,0.0,Neutral
+930,cold gas for now hot later,1,1,0.0,3,0.6666664444445185,Neutral
+931,i mean ya gotta have a tiki bar,0,0,0.0,4,0.0,Neutral
+932,starship nosecone high bay &amp tiki bar,0,0,0.0,8,0.0,Neutral
+933,,0,0,0.0,0,0.0,Neutral
+934,after it gets to orbit a few times,0,0,0.0,2,0.0,Neutral
+935,got a little melty tbh,0,0,0.0,2,0.0,Neutral
+936,those engines could go bar but would be dicey pushing it for near term tests doesnt achieve,0,0,0.0,8,0.0,Neutral
+937,raptor has now run for secs at bar chamber pressure before encountering issues mt f sea,0,1,-0.9999990000010001,10,0.09999999000000101,Most Negative
+938,fsd beta rollout happening tonight will be extremely slow &amp cautious as it should,0,1,-0.9999990000010001,10,0.09999999000000101,Most Negative
+939,data from engine starship static fire this morning looks good proceeding with nosecone mate,1,1,0.0,10,0.19999998000000202,Neutral
+940,yes we also have to consider population life months lost from lockdowns &amp other restriction,0,2,-0.99999950000025,8,0.24999996875000394,Most Negative
+941,sweden at zero deaths oct,0,0,0.0,3,0.0,Neutral
+942,yes,0,0,0.0,0,0.0,Neutral
+943,firmware is probably a slightly more accurate description but yes,1,0,0.9999990000010001,4,0.24999993750001562,Most Positive
+944, theres no place like homeespecially if it has a solar roofthis kansas ranch got theirs installed in days,1,0,0.9999990000010001,8,0.12499998437500197,Most Positive
+945,mobi c has too much mobility fusion has too little we need mobi d haha,0,0,0.0,5,0.0,Neutral
+946,actually its my neck,0,0,0.0,1,0.0,Neutral
+947,maybe i can be helpful had mobi c disc put in at c c however st surgery failed to remov,1,1,0.0,8,0.24999996875000394,Neutral
+948,pretty accurate its not so much dna sequencing as it is using synthetic dna rna to fix bugs in our code,2,1,0.33333322222225925,10,0.299999970000003,Positive
+949,london to beijing would be cool,1,0,0.9999990000010001,3,0.33333322222225925,Most Positive
+950,wow that would be quite a trip,1,0,0.9999990000010001,2,0.499999750000125,Most Positive
+951,thats my kid haha,0,0,0.0,2,0.0,Neutral
+952,mtr trnd,0,0,0.0,2,0.0,Neutral
+953,looks like snoopy,1,0,0.9999990000010001,1,0.9999990000010001,Most Positive
+954,current production is slightly better,1,0,0.9999990000010001,3,0.33333322222225925,Most Positive
+955,doesnt seem to be any life in this solar system maybe under the ice of europa or,0,0,0.0,6,0.0,Neutral
+956, tesla model sr+ has lowest energy consumption of all bevs says report,0,0,0.0,8,0.0,Neutral
+957,very creative,1,0,0.9999990000010001,1,0.9999990000010001,Most Positive
+958,that free fusion reactor in the sky conveniently converts ~ million tons of mass into energy every second,2,0,0.99999950000025,11,0.1818181652892577,Most Positive
+959,you never know,0,0,0.0,0,0.0,Neutral
+960,after,0,0,0.0,0,0.0,Neutral
+961,u+f,0,0,0.0,1,0.0,Neutral
+962,also system should autodelete old data automatically by default,0,0,0.0,5,0.0,Neutral
+963,table in tension,0,1,-0.9999990000010001,2,0.499999750000125,Most Negative
+964,yes,0,0,0.0,0,0.0,Neutral
+965,starting production on seater next month initial deliveries early december,0,0,0.0,8,0.0,Neutral
+966,the gauntlet has been thrown down the prophecy will be fulfilled model s price changes to  tonight,0,0,0.0,7,0.0,Neutral
+967,,0,0,0.0,0,0.0,Neutral
+968,congratulations,1,0,0.9999990000010001,1,0.9999990000010001,Most Positive
+969,making progress,1,0,0.9999990000010001,2,0.499999750000125,Most Positive
+970,meter or roughly ft diameter,0,0,0.0,4,0.0,Neutral
+971,will be less roomy with vacuum rocket engines added,1,0,0.9999990000010001,5,0.199999960000008,Most Positive
+972,its still there but focus is vegas &amp prufrock our new tunneling machine,0,0,0.0,7,0.0,Neutral
+973,for sure,0,0,0.0,0,0.0,Neutral
+974,maybe a month or so some finishing touches need to be done on the stations,0,0,0.0,4,0.0,Neutral
+975,we simplified this a lot its basically just teslas in tunnels at this point,1,0,0.9999990000010001,6,0.16666663888889352,Most Positive
+976,sweet,1,0,0.9999990000010001,1,0.9999990000010001,Most Positive
+977,yes everything is slow to a phased array antenna,0,1,-0.9999990000010001,4,0.24999993750001562,Most Negative
+978,nice,1,0,0.9999990000010001,1,0.9999990000010001,Most Positive
+979,what is love baby dont hurt me winston churchill,1,1,0.0,6,0.33333327777778704,Neutral
+980,or maybe weak turrets to allow more strategic degrees of freedom,1,1,0.0,5,0.399999920000016,Neutral
+981,please buff torbs turret,0,0,0.0,3,0.0,Neutral
+982,um yes,0,0,0.0,1,0.0,Neutral
+983,i have goosebumps merch not sure how tbh,0,0,0.0,3,0.0,Neutral
+984,hgg,0,0,0.0,1,0.0,Neutral
+985,lotr,0,0,0.0,1,0.0,Neutral
+986,u+f the illuminaughty u+f,0,0,0.0,3,0.0,Neutral
+987,knee deep,0,0,0.0,2,0.0,Neutral
+988, this will be the first flight of the upgraded cargo version of dragon which is able to carry  more science payloads than th,1,0,0.9999990000010001,8,0.12499998437500197,Most Positive
+989, the dragon spacecraft supporting spacexs st cargo resupply mission to the departed our hawthorne factory last,1,0,0.9999990000010001,11,0.09090908264462885,Most Positive
+990,yeah,0,0,0.0,1,0.0,Neutral
+991,at least success is in the set of all possible outcomes this time,1,0,0.9999990000010001,4,0.24999993750001562,Most Positive
+992,diess is doing his best to move in the right direction but hes in a tough position wi,3,0,0.9999996666667778,7,0.4285713673469475,Most Positive
+993,good grief spacex is getting zero money for this starship is designed to carry people &amp cargo around ear,1,1,0.0,12,0.16666665277777895,Neutral
+994,with fsd we got stuck in a lot of local maximums which wasnt clear until we hit the ceiling this time its right,2,1,0.33333322222225925,10,0.299999970000003,Positive
+995,thank you much more accurate haha,2,0,0.99999950000025,2,0.99999950000025,Most Positive
+996,this graph appears to be upside down,0,0,0.0,3,0.0,Neutral
+997,sheer magnitude of the entire production system is hard to appreciate almost every element of productio,1,1,0.0,8,0.24999996875000394,Neutral
+998,will release order configurator probably in jan,0,0,0.0,4,0.0,Neutral
+999,limited fsd beta releasing on tuesday next week as promised this will at first be limited to a s,1,2,-0.33333322222225925,8,0.3749999531250059,Negative
+1000,the socs sync with each other to times sec exchanging output of nns that should be in,0,0,0.0,7,0.0,Neutral
+1001,tesla fsd computers dual socs function like twin engines on planes they each run different neural nets,1,0,0.9999990000010001,12,0.08333332638888948,Most Positive
+1002,accurate analysis quite a few ego intelligence&gt&gt people in your comment thread haha neither mobileye,2,0,0.99999950000025,13,0.15384614201183525,Most Positive
+1003,,0,0,0.0,0,0.0,Neutral
+1004,glad jen is safe,2,0,0.99999950000025,3,0.6666664444445185,Most Positive
+1005,wow,1,0,0.9999990000010001,1,0.9999990000010001,Most Positive
+1006,uh ok here we go,0,0,0.0,1,0.0,Neutral
+1007,i dont think this is accurate,1,0,0.9999990000010001,2,0.499999750000125,Most Positive
+1008,yeah there are lite,0,0,0.0,2,0.0,Neutral
+1009,even if half that amount its still a big deal,0,0,0.0,4,0.0,Neutral
+1010,u+fu+f,0,0,0.0,1,0.0,Neutral
+1011,i have seen no evidence of an advanc,0,0,0.0,2,0.0,Neutral
+1012,we face a tough dichotomy of applying resources to the old architecture or applying them to the ne,1,0,0.9999990000010001,8,0.12499998437500197,Most Positive
+1013,definitely,0,0,0.0,0,0.0,Neutral
+1014,exactly he plays the poor inventor card but was rich all along &amp invented nothing as far as i kn,1,1,0.0,9,0.22222219753086697,Neutral
+1015,there are sketchy edits to tesla wiki that whitewash eberhards problems glorify his role pretty odd,2,3,-0.199999960000008,11,0.4545454132231443,Negative
+1016,when eberhard was fired from the tesla ceo role in mid for providing false information to me &amp t,0,1,-0.9999990000010001,11,0.09090908264462885,Most Negative
+1017,interesting,1,0,0.9999990000010001,1,0.9999990000010001,Most Positive
+1018, the future of cars can and will be electric if the entire industry starts making and marketing compelling evs for everyone,0,0,0.0,10,0.0,Neutral
+1019,,0,0,0.0,0,0.0,Neutral
+1020,probably,0,0,0.0,0,0.0,Neutral
+1021,i have that exact art on the wall of the place i stay in boca chica,0,0,0.0,7,0.0,Neutral
+1022,yes failure to protect nursing homes was a major mistake happened in most countries,1,2,-0.33333322222225925,8,0.3749999531250059,Negative
+1023,sweden was right,1,0,0.9999990000010001,1,0.9999990000010001,Most Positive
+1024,,0,0,0.0,0,0.0,Neutral
+1025,great work by spacex valve engineering &amp production,2,0,0.99999950000025,8,0.24999996875000394,Most Positive
+1026,our tiles are mechanically attached,0,0,0.0,3,0.0,Neutral
+1027,it m,0,0,0.0,0,0.0,Neutral
+1028,tiles will be,0,0,0.0,1,0.0,Neutral
+1029,compilers need to improve imo most type pointer or other memory problems can be detected at comp,1,1,0.0,9,0.22222219753086697,Neutral
+1030,im proud to say that that nose is pointier than it needs to be haha,1,0,0.9999990000010001,5,0.199999960000008,Most Positive
+1031, we put the model y long range electric suv on our test track to find out what it can doand it turns out well,1,0,0.9999990000010001,11,0.09090908264462885,Most Positive
+1032,norway leads the world,1,0,0.9999990000010001,3,0.33333322222225925,Most Positive
+1033,passed cryo proof,0,0,0.0,3,0.0,Neutral
+1034,u+fd,0,0,0.0,1,0.0,Neutral
+1035,yeah its not a contest advanced casting crushes best case d printing but casting doesnt work wel,3,0,0.9999996666667778,11,0.2727272479338866,Most Positive
+1036,great pics,1,0,0.9999990000010001,2,0.499999750000125,Most Positive
+1037,maybe this should be the flag of mars,0,0,0.0,2,0.0,Neutral
+1038,additive manufacturing of parts is still far too costly for cars but can rapidly create tooling to accel,0,1,-0.9999990000010001,9,0.11111109876543349,Most Negative
+1039,pretty much but i think it may end on a high note,1,0,0.9999990000010001,4,0.24999993750001562,Most Positive
+1040, starman last seen leaving earth made its first close approach with mars todaywithin astronomical units or under mill,0,0,0.0,11,0.0,Neutral
+1041,meant to say that it should be fixed in the latest wide release wont need to wait for fsd,0,0,0.0,8,0.0,Neutral
+1042,it should be,0,0,0.0,0,0.0,Neutral
+1043,exactly we barked up that tree for way too long sigh gives a false sense of,0,1,-0.9999990000010001,6,0.16666663888889352,Most Negative
+1044,yes we will play sexy snake jazz u+f,1,0,0.9999990000010001,5,0.199999960000008,Most Positive
+1045,yes,0,0,0.0,0,0.0,Neutral
+1046,yeah provided we do our metal gear snake autocoupler,0,0,0.0,6,0.0,Neutral
+1047,waymo is impressive but a highly specialized solution the tesla approach is a general solution the lat,1,0,0.9999990000010001,10,0.09999999000000101,Most Positive
+1048,yeah we could put in a setting allowing it to drop as low as ,0,0,0.0,6,0.0,Neutral
+1049,great render note there will need to be an arm,1,0,0.9999990000010001,4,0.24999993750001562,Most Positive
+1050,mimecraft,0,0,0.0,1,0.0,Neutral
+1051,yes,0,0,0.0,0,0.0,Neutral
+1052,autopilot team is making great progress reality sure is complicated,2,1,0.33333322222225925,7,0.4285713673469475,Positive
+1053,aspiring to have no flame diverter in boca,0,0,0.0,4,0.0,Neutral
+1054,we do have giant steel balls haha,0,0,0.0,4,0.0,Neutral
+1055,we just completed a financing round but will let you know when there is another one,0,0,0.0,3,0.0,Neutral
+1056,i definitely need to try these tasty cakes &amp pastries on my next visit,0,0,0.0,6,0.0,Neutral
+1057,mass ratio liquid oxygen is much denser than liquid m,0,0,0.0,6,0.0,Neutral
+1058,had the most amazing kebab ever just outside of tacheles too,1,0,0.9999990000010001,3,0.33333322222225925,Most Positive
+1059,dner kebab,0,0,0.0,2,0.0,Neutral
+1060,youre most welcome,1,0,0.9999990000010001,1,0.9999990000010001,Most Positive
+1061,high bay should be finished except for the giant gantry crane within,0,0,0.0,6,0.0,Neutral
+1062,that looks tasty,0,0,0.0,1,0.0,Neutral
+1063,the crash absorption rails can be cut off &amp replaced with a bolted part for collision repair,0,1,-0.9999990000010001,11,0.09090908264462885,Most Negative
+1064,sandy munro understands engineering,0,0,0.0,4,0.0,Neutral
+1065,that would be like licensing battlestar galactica actually buil,1,0,0.9999990000010001,4,0.24999993750001562,Most Positive
+1066,yes the gigafactory is the hardest &amp most critical product,0,1,-0.9999990000010001,6,0.16666663888889352,Most Negative
+1067,battery pack will be a bonded structure with cells providing shear transfer b,0,0,0.0,8,0.0,Neutral
+1068,but now we understand production much better it will be our primary competitive advantage long term,3,0,0.9999996666667778,7,0.4285713673469475,Most Positive
+1069,even gm &amp chrysler went bankrupt in  ford and tesla are the only us car companies t,0,1,-0.9999990000010001,9,0.11111109876543349,Most Negative
+1070,the model production ramp was sheer agony for two years but that was do or die for te,0,2,-0.99999950000025,8,0.24999996875000394,Most Negative
+1071,bringing a new product to volume production is  inspiration &amp  perspiration you do st,1,0,0.9999990000010001,9,0.11111109876543349,Most Positive
+1072,marginal cost of starship mass to orbit should be well under  kg fully burdened cost depends on flight rate,1,1,0.0,12,0.16666665277777895,Neutral
+1073,prototypes are a piece of cake but high volume production of a new technology is extremely hard ta,0,1,-0.9999990000010001,10,0.09999999000000101,Most Negative
+1074,we do expect to make heavy use of lfp for medium range cars &amp stationary storage,0,0,0.0,11,0.0,Neutral
+1075,berlin will use cell with structural battery pack &amp front &amp rear single piece castings also a,0,0,0.0,14,0.0,Neutral
+1076,they are,0,0,0.0,0,0.0,Neutral
+1077,i do so wish that more companies would put down their spreadsheets for a moment and focus on making,0,0,0.0,6,0.0,Neutral
+1078,bar absolute which is fine for,1,0,0.9999990000010001,3,0.33333322222225925,Most Positive
+1079,cryo pressure test succeeded but a small le,1,0,0.9999990000010001,6,0.16666663888889352,Most Positive
+1080,one of the best shots ever,1,0,0.9999990000010001,1,0.9999990000010001,Most Positive
+1081,much sooner,0,0,0.0,1,0.0,Neutral
+1082,great photo,1,0,0.9999990000010001,2,0.499999750000125,Most Positive
+1083,it will soon,0,0,0.0,0,0.0,Neutral
+1084, falcon launches starlink satellites to orbit completing spacexs rd flight of a previously flown rocket booster https ,0,0,0.0,13,0.0,Neutral
+1085,once these satellites reach their target position we will be able to roll out a fairly wide public beta in,1,0,0.9999990000010001,9,0.11111109876543349,Most Positive
+1086, deployment of starlink satellites confirmed,0,0,0.0,4,0.0,Neutral
+1087,were not seeing notable differences yet i think the boosters could probably do + reflig,0,0,0.0,5,0.0,Neutral
+1088,roughly a week or two turnaround is all thats needed to meet max launch demand starship s,0,0,0.0,9,0.0,Neutral
+1089,ahem yes it was the rd flight of this booster &amp rd flight for active half of fairing aiming for,0,0,0.0,10,0.0,Neutral
+1090,th flight &amp landing for this booster,0,0,0.0,5,0.0,Neutral
+1091,minutes from launch looks good so far,1,0,0.9999990000010001,3,0.33333322222225925,Most Positive
+1092,so crazy to subsidize pollution this is not good for people especially in dense cities with heavy,2,2,0.0,8,0.4999999375000079,Neutral
+1093,its a step in the right direction but they should really aim for full reusability by  larger ro,1,0,0.9999990000010001,7,0.1428571224489825,Most Positive
+1094,turn volume to &amp play powerglide in your tesla,0,0,0.0,7,0.0,Neutral
+1095,fsd will solve these issues,0,1,-0.9999990000010001,3,0.33333322222225925,Most Negative
+1096,music volume on a tesla goes to  because its louder than,0,1,-0.9999990000010001,4,0.24999993750001562,Most Negative
+1097,one of my favorite writers foundation is tough to make into a movie but has outstanding potential,3,0,0.9999996666667778,8,0.3749999531250059,Most Positive
+1098,u+faf,0,0,0.0,1,0.0,Neutral
+1099,,0,0,0.0,0,0.0,Neutral
+1100,rewatched young frankenstein this weekend still awesome ovaltine,1,0,0.9999990000010001,6,0.16666663888889352,Most Positive
+1101,the remake has the potential to be great i kinda liked the original tbh but its possible to take it up a level,2,0,0.99999950000025,7,0.285714244897965,Most Positive
+1102,hollywood should just start with the sequel &amp skip the original because financials,0,0,0.0,8,0.0,Neutral
+1103,this article is wildly incorrect about lithium battery costs by a factor of or more presently &amp x long term,0,2,-0.99999950000025,12,0.16666665277777895,Most Negative
+1104,pretty wild,1,1,0.0,2,0.99999950000025,Neutral
+1105,new spacex droneship will be called a shortfall of gravitas,0,0,0.0,5,0.0,Neutral
+1106,nothing can escape gravity not even black holes and they really tried,0,0,0.0,4,0.0,Neutral
+1107,would be cool to put yourself in the mind of the car while its driving,1,0,0.9999990000010001,5,0.199999960000008,Most Positive
+1108,coming soon,0,0,0.0,1,0.0,Neutral
+1109,call of booty great game,1,0,0.9999990000010001,4,0.24999993750001562,Most Positive
+1110,,0,0,0.0,0,0.0,Neutral
+1111,vector space birds eye view coming with fsd,0,0,0.0,7,0.0,Neutral
+1112,unexpected pressure rise in the turbomachinery gas generator,0,1,-0.9999990000010001,6,0.16666663888889352,Most Negative
+1113,all of that and more were doing a broad review of launch site propulsion structures av,0,0,0.0,7,0.0,Neutral
+1114,exactly,0,0,0.0,0,0.0,Neutral
+1115,we will need to make a lot of improvements to have a chance of completing launches next year,1,0,0.9999990000010001,7,0.1428571224489825,Most Positive
+1116,i agree with lex,0,0,0.0,2,0.0,Neutral
+1117,glad youre ok,1,0,0.9999990000010001,2,0.499999750000125,Most Positive
+1118,haha,0,0,0.0,1,0.0,Neutral
+1119,thanks for waiting,0,0,0.0,1,0.0,Neutral
+1120,next year for sure,0,0,0.0,1,0.0,Neutral
+1121,,0,0,0.0,0,0.0,Neutral
+1122,,0,0,0.0,0,0.0,Neutral
+1123,great,1,0,0.9999990000010001,1,0.9999990000010001,Most Positive
+1124,browns,0,0,0.0,1,0.0,Neutral
+1125,average latency will improve as more sat,1,1,0.0,4,0.49999987500003124,Neutral
+1126,very s,0,0,0.0,0,0.0,Neutral
+1127,yes starlink is design,0,0,0.0,2,0.0,Neutral
+1128,probably or with an optimized tanker a,0,0,0.0,2,0.0,Neutral
+1129,starlink will be a revolution in connectivity esp,0,0,0.0,4,0.0,Neutral
+1130,yeah,0,0,0.0,1,0.0,Neutral
+1131,great letter it will be increasingl,1,0,0.9999990000010001,3,0.33333322222225925,Most Positive
+1132,the ship rings are thicker than they need to be for,0,1,-0.9999990000010001,3,0.33333322222225925,Most Negative
+1133,its next level,0,0,0.0,1,0.0,Neutral
+1134,u+fbu+fau+f,0,0,0.0,1,0.0,Neutral
+1135,glad to hear your mom is ok,1,0,0.9999990000010001,3,0.33333322222225925,Most Positive
+1136,good to see inspiring for future of space,2,0,0.99999950000025,4,0.49999987500003124,Most Positive
+1137,the new heat pump in model y is what re,0,0,0.0,3,0.0,Neutral
+1138,yes coming soon,0,0,0.0,1,0.0,Neutral
+1139,great render the circumferentia,1,0,0.9999990000010001,3,0.33333322222225925,Most Positive
+1140,thats very hard to do have you tried pushing on the c,0,1,-0.9999990000010001,2,0.499999750000125,Most Negative
+1141,its cool &amp for sure can &amp should be done but i suspect its best cas,2,1,0.33333322222225925,7,0.4285713673469475,Positive
+1142,weld esthetics will improve greatly in upcoming starships,1,0,0.9999990000010001,6,0.16666663888889352,Most Positive
+1143,haha true why do showers have such a wide range,0,0,0.0,5,0.0,Neutral
+1144,,0,0,0.0,0,0.0,Neutral
+1145,yes,0,0,0.0,0,0.0,Neutral
+1146,light is not as fast as youd think,1,0,0.9999990000010001,3,0.33333322222225925,Most Positive
+1147, once this dragon docks to the  there will be two dragons docked simultaneously between crew and cargo missions,0,0,0.0,8,0.0,Neutral
+1148, spacex training of astronauts that will fly on board dragons first operational mission is complete when the crew arrives for,0,0,0.0,11,0.0,Neutral
+1149, after launch of crew dragons first operational mission with astronauts on board spacex will launch its st cargo resupply mi,0,0,0.0,13,0.0,Neutral
+1150,maybe we used too many magenta spotlights,0,0,0.0,2,0.0,Neutral
+1151, news were now targeting am et saturday oct  for the launch of the and crew  mission to send ast,0,0,0.0,9,0.0,Neutral
+1152,having a low center of gravity makes a world of difference to safety,0,0,0.0,7,0.0,Neutral
+1153,we will probably ipo starlink but only several years in the future when revenue growth is,0,0,0.0,6,0.0,Neutral
+1154,fate loooves irony haha,0,1,-0.9999990000010001,4,0.24999993750001562,Most Negative
+1155,glad spacex could help we are prioritizing emergency responders &amp locations with no internet connectivity at all,1,1,0.0,10,0.19999998000000202,Neutral
+1156,true,0,0,0.0,1,0.0,Neutral
+1157,thats total market not all tesla we do see tesla reaching m vehicles year probably before  bu,0,0,0.0,8,0.0,Neutral
+1158,total market,0,0,0.0,2,0.0,Neutral
+1159,seven years for sure to m+ new fully electric vehicles per year six years maybe five ye,0,0,0.0,8,0.0,Neutral
+1160,both will do original cars,0,0,0.0,2,0.0,Neutral
+1161,we arent cutting the price of model to k i was referring to a future car that will be smaller than model ,0,0,0.0,9,0.0,Neutral
+1162,what about a heavy duty paintball machine gun mounted on the bed rails,0,0,0.0,8,0.0,Neutral
+1163,new version coming soon,0,0,0.0,2,0.0,Neutral
+1164,suppliers were only doing high energy nickel ourselves at least for now also maybe the presenta,0,0,0.0,5,0.0,Neutral
+1165,,0,0,0.0,0,0.0,Neutral
+1166,,0,0,0.0,0,0.0,Neutral
+1167,u+fu+f,0,0,0.0,1,0.0,Neutral
+1168,checking into it,0,0,0.0,1,0.0,Neutral
+1169,totally up to you but if you head to a tesla delivery center near you &amp maybe help out new owners that would be cool,1,0,0.9999990000010001,9,0.11111109876543349,Most Positive
+1170,completely agree,0,0,0.0,2,0.0,Neutral
+1171,yes the flaps are now directly driven by electric motors with a gearbox no more hydraulics,0,0,0.0,7,0.0,Neutral
+1172,thanks tesla team for great work on deliveries for new owners we super appreciate accommodating us on delivery ti,4,0,0.9999997500000625,10,0.39999996000000404,Most Positive
+1173,there are times when i feel like im living in a dilbert cartoon,1,0,0.9999990000010001,6,0.16666663888889352,Most Positive
+1174,that species has stood the test of time,0,0,0.0,4,0.0,Neutral
+1175,mostly l some  broke at to interface sn will,0,1,-0.9999990000010001,3,0.33333322222225925,Most Negative
+1176,bar differential in ullage bar at base due to propellant head it,0,0,0.0,8,0.0,Neutral
+1177,we just need enough height to test body flaps &amp drawing propellant from headers vs main tanks will do se,1,1,0.0,12,0.16666665277777895,Neutral
+1178,first flight is to km or ~ ft,0,0,0.0,4,0.0,Neutral
+1179,nosecone &amp front flaps next week sn next month,0,0,0.0,8,0.0,Neutral
+1180,starship sn with rear body flaps,0,0,0.0,5,0.0,Neutral
+1181,,0,0,0.0,0,0.0,Neutral
+1182,sure,0,0,0.0,0,0.0,Neutral
+1183,true,0,0,0.0,1,0.0,Neutral
+1184, falcon will launch super cool interstellar mapping and acceleration probe imap which will help researchers better,3,0,0.9999996666667778,10,0.299999970000003,Most Positive
+1185,not bad,0,1,-0.9999990000010001,1,0.9999990000010001,Most Negative
+1186,exactly,0,0,0.0,0,0.0,Neutral
+1187,sandy munro understands engineering,0,0,0.0,4,0.0,Neutral
+1188,turns out they mostly press the letter s &amp u+fa on the typewriter u+f,0,0,0.0,8,0.0,Neutral
+1189,centaur with a bow obviously,0,0,0.0,2,0.0,Neutral
+1190,haha,0,0,0.0,1,0.0,Neutral
+1191,something like this,1,0,0.9999990000010001,0,1000000.0,Most Positive
+1192,cant support wheel vehicles not safe enough,3,0,0.9999996666667778,4,0.7499998125000469,Most Positive
+1193,~mm,0,0,0.0,1,0.0,Neutral
+1194,something appealing about hawking hartle idea but i agree with turok feldbrugge lehners,1,0,0.9999990000010001,8,0.12499998437500197,Most Positive
+1195,u+fa ur algo,0,0,0.0,3,0.0,Neutral
+1196,true,0,0,0.0,1,0.0,Neutral
+1197,there are some practical size constraints too cant be too big to fit in the engine comp,0,0,0.0,7,0.0,Neutral
+1198,doesnt seem to be a problem we could probably increase area ratio given bar max de,0,1,-0.9999990000010001,8,0.12499998437500197,Most Negative
+1199,,0,0,0.0,0,0.0,Neutral
+1200,preburners ignite then main chamber,0,0,0.0,4,0.0,Neutral
+1201,where is our prediction of probability inaccurate,0,1,-0.9999990000010001,3,0.33333322222225925,Most Negative
+1202,or energy &amp time but besides that what,0,0,0.0,4,0.0,Neutral
+1203,genetic engineering is too slow unless you use a synthetic virus,0,2,-0.99999950000025,5,0.399999920000016,Most Negative
+1204,what cant we predict,0,0,0.0,1,0.0,Neutral
+1205,yeah but might not need it,0,0,0.0,1,0.0,Neutral
+1206,expansion ratio you can a little bit of flow separation towards the end of the nozzle,0,0,0.0,7,0.0,Neutral
+1207, completed a full duration test fire of the raptor vacuum engine at spacexs rocket development facility in mcgregor texas http,0,0,0.0,15,0.0,Neutral
+1208, rvac and sea level raptor with a human for scale,0,0,0.0,6,0.0,Neutral
+1209,only thing beyond ludicrous is plaid,0,1,-0.9999990000010001,3,0.33333322222225925,Most Negative
+1210,this does seem like the opposite of open openai is essentially captured by microsoft,1,0,0.9999990000010001,6,0.16666663888889352,Most Positive
+1211,haha true,0,0,0.0,2,0.0,Neutral
+1212,maybe i will,0,0,0.0,0,0.0,Neutral
+1213,jets are so cool,1,0,0.9999990000010001,2,0.499999750000125,Most Positive
+1214,pretty much,1,0,0.9999990000010001,1,0.9999990000010001,Most Positive
+1215,yes,0,0,0.0,0,0.0,Neutral
+1216,yahoo finance is as dumb as it sounds,0,1,-0.9999990000010001,4,0.24999993750001562,Most Negative
+1217,yes,0,0,0.0,0,0.0,Neutral
+1218,haha,0,0,0.0,1,0.0,Neutral
+1219,roadster will be better,1,0,0.9999990000010001,1,0.9999990000010001,Most Positive
+1220,probably,0,0,0.0,0,0.0,Neutral
+1221,cybertruck atv roadster &amp semic a r s,0,0,0.0,6,0.0,Neutral
+1222,thanks for your many years of support through very tough times,2,0,0.99999950000025,4,0.49999987500003124,Most Positive
+1223,we will be a little below that this year most challenging year weve ever had but,0,1,-0.9999990000010001,4,0.24999993750001562,Most Negative
+1224,thats about right maybe a little faster,2,0,0.99999950000025,1,1.9999980000020001,Most Positive
+1225,yes,0,0,0.0,0,0.0,Neutral
+1226,cgi irl,0,0,0.0,2,0.0,Neutral
+1227,haha,0,0,0.0,1,0.0,Neutral
+1228, we drove a model s long range plus for miles in california and believe we could have made it to  explain,0,0,0.0,8,0.0,Neutral
+1229,the extreme difficulty of scaling production of new technology is not well understood its  to  harder,1,1,0.0,7,0.285714244897965,Neutral
+1230,haha,0,0,0.0,1,0.0,Neutral
+1231,we intend to increase not reduce battery cell purchases from panasonic lg &amp catl possibly other partners too h,0,0,0.0,13,0.0,Neutral
+1232,important note about tesla battery day unveil tomorrow this affects long term production especially semi cybertr,1,0,0.9999990000010001,13,0.07692307100591762,Most Positive
+1233,thanks,0,0,0.0,0,0.0,Neutral
+1234,we really need better legs for starship theyre coming,1,0,0.9999990000010001,4,0.24999993750001562,Most Positive
+1235,most likely all flaps will fold after landing to reduce wind tip over force t,0,0,0.0,7,0.0,Neutral
+1236,fine well do it already u+f,2,0,0.99999950000025,2,0.99999950000025,Most Positive
+1237,good analysis although i think we should wait until fsd is a bit more mature,2,0,0.99999950000025,6,0.33333327777778704,Most Positive
+1238,im pretty sure tesla could do a much better autocorrect the bar is so low haha,2,0,0.99999950000025,7,0.285714244897965,Most Positive
+1239,true,0,0,0.0,1,0.0,Neutral
+1240,custom ultra high speed bus &amp efficient cooling,1,0,0.9999990000010001,9,0.11111109876543349,Most Positive
+1241,ok,0,0,0.0,0,0.0,Neutral
+1242,pretty much any machine learning,1,0,0.9999990000010001,3,0.33333322222225925,Most Positive
+1243,its big,0,0,0.0,1,0.0,Neutral
+1244,sure,0,0,0.0,0,0.0,Neutral
+1245,yeah we will open dojo for training as a web service once we work out the bugs,1,1,0.0,8,0.24999996875000394,Neutral
+1246,there are a lot of pointless zeroes in fp neural nets you can chop off of the,0,1,-0.9999990000010001,7,0.1428571224489825,Most Negative
+1247,dojo uses our own chips &amp a computer architecture optimized for neural net training not a,0,0,0.0,10,0.0,Neutral
+1248,you really want waypoints this much,0,0,0.0,1,0.0,Neutral
+1249,for dojo were betting on fp with floating floating point essentially truncating mostly zeroes,0,0,0.0,9,0.0,Neutral
+1250,yes,0,0,0.0,0,0.0,Neutral
+1251,yes,0,0,0.0,0,0.0,Neutral
+1252,therell be lots of green space around factory but building itself is continuous the open areas,0,0,0.0,9,0.0,Neutral
+1253,shaped like a diamond &amp aligned on true north,1,0,0.9999990000010001,7,0.1428571224489825,Most Positive
+1254,a prior track record of exceptional achievement in engineering *is* required but *no* prior experience working on,2,0,0.99999950000025,14,0.14285713265306196,Most Positive
+1255,if you feel neuralink might have incorrectly overlooked your resume or declined to make an offer please lmk in co,0,1,-0.9999990000010001,9,0.11111109876543349,Most Negative
+1256,felt i had done enough on the internet zip &amp paypal that my work would,2,0,0.99999950000025,7,0.285714244897965,Most Positive
+1257,it took an utterly insane amount of work to move the spacex &amp tesla success probabilities above ~zero,2,2,0.0,12,0.3333333055555579,Neutral
+1258,to be frank in the early days i thought there was &gt chance that both spacex &amp tesla would be worth,1,0,0.9999990000010001,12,0.08333332638888948,Most Positive
+1259,irrational is such a funny word to describe numbers,0,2,-0.99999950000025,5,0.399999920000016,Most Negative
+1260,of course i still love you,1,0,0.9999990000010001,1,0.9999990000010001,Most Positive
+1261,sure but which planet,0,0,0.0,1,0.0,Neutral
+1262,good movie,1,0,0.9999990000010001,2,0.499999750000125,Most Positive
+1263,current was too strong for droneship to hold station thrusters to be upgraded for future missions,2,0,0.99999950000025,9,0.22222219753086697,Most Positive
+1264,lot has happened in years,0,0,0.0,3,0.0,Neutral
+1265,it will be very insane,0,1,-0.9999990000010001,1,0.9999990000010001,Most Negative
+1266,speedrunning factorio in real life,0,0,0.0,4,0.0,Neutral
+1267,no but you make some great points important to note that irons cost advantage is partly offset by,3,0,0.9999996666667778,10,0.299999970000003,Most Positive
+1268,yup,0,0,0.0,1,0.0,Neutral
+1269,fallout shelter is on your tesla tap the entertainment button,0,1,-0.9999990000010001,6,0.16666663888889352,Most Negative
+1270,implicit conflation of consumption &amp capital allocation is the foundational error,0,1,-0.9999990000010001,9,0.11111109876543349,Most Negative
+1271,great idea,1,0,0.9999990000010001,2,0.499999750000125,Most Positive
+1272,u+fa fallout radio u+fa,0,1,-0.9999990000010001,4,0.24999993750001562,Most Negative
+1273,there are some eerie parallels between the boring company &amp vault tec we also built our first demonstration tunnel vault in la,0,1,-0.9999990000010001,13,0.07692307100591762,Most Negative
+1274,doubles as an underground nuclear shelter u+fu+fd,0,0,0.0,5,0.0,Neutral
+1275,yeah,0,0,0.0,1,0.0,Neutral
+1276,should be happening soon,0,0,0.0,1,0.0,Neutral
+1277,a bit more obscure but starhammer &amp stainless steel rat,1,1,0.0,8,0.24999996875000394,Neutral
+1278,at first i thought that was a parrot,0,0,0.0,2,0.0,Neutral
+1279,they remind me of these guys,0,0,0.0,2,0.0,Neutral
+1280,story of my life,0,0,0.0,2,0.0,Neutral
+1281,,0,0,0.0,0,0.0,Neutral
+1282,tunnels under cities with self driving electric cars will feel like warp drivefirst operational tunnel under vega,1,1,0.0,11,0.1818181652892577,Neutral
+1283,for sure,0,0,0.0,0,0.0,Neutral
+1284,good point,1,0,0.9999990000010001,2,0.499999750000125,Most Positive
+1285,have you hugged a tunnel today,0,0,0.0,3,0.0,Neutral
+1286,good analysis,1,0,0.9999990000010001,2,0.499999750000125,Most Positive
+1287,exactly,0,0,0.0,0,0.0,Neutral
+1288,gary the snail is still winning but were gaining on him her,2,0,0.99999950000025,4,0.49999987500003124,Most Positive
+1289,embrace tunnels,0,0,0.0,2,0.0,Neutral
+1290,tunnels are the solution to traffic you can have as many levels as you want usable tunnel depth far e,1,0,0.9999990000010001,7,0.1428571224489825,Most Positive
+1291,just a guess but probably mid teens booster &amp stacking on orbital pad are likely limiti,0,0,0.0,10,0.0,Neutral
+1292,pretty accurate simulation although sn will use raptors if sn craters sn &amp sn are close behind,2,0,0.99999950000025,12,0.16666665277777895,Most Positive
+1293,couldnt agree more major software improvements are already in place to extend its life &amp more coming,1,0,0.9999990000010001,11,0.09090908264462885,Most Positive
+1294,definitely not smartwatches &amp phones are yesterdays technology neuralinks are the future,0,0,0.0,8,0.0,Neutral
+1295,seems like they should make a whole outfit out of that material,1,0,0.9999990000010001,3,0.33333322222225925,Most Positive
+1296,ancient greece had it all &amp then committed suicide nobody digs your grave better than yourself,1,1,0.0,8,0.24999996875000394,Neutral
+1297,true,0,0,0.0,1,0.0,Neutral
+1298,the lego movie was awesome,1,0,0.9999990000010001,3,0.33333322222225925,Most Positive
+1299,the story of civilization first book is a little dry but second book the life of greece is incredible,1,0,0.9999990000010001,8,0.12499998437500197,Most Positive
+1300,im wearing your f  engine shirt right now,1,0,0.9999990000010001,4,0.24999993750001562,Most Positive
+1301,cumulative mass to orbit per year correc,0,0,0.0,5,0.0,Neutral
+1302,thats the number that really matters,0,0,0.0,2,0.0,Neutral
+1303,anyone tracking tonnage to orbit per year for all launch vehicles,0,0,0.0,6,0.0,Neutral
+1304,one way or another excitement guaranteed support of greater boca padre brownsville community is very much appreciated,3,0,0.9999996666667778,9,0.33333329629630043,Most Positive
+1305,sn starship with flaps &amp nosecone should be done in about a week then static fire checkouts static fire fly to ft &amp back,0,2,-0.99999950000025,17,0.11764705190311459,Most Negative
+1306,can someone do a boat service from south padre to boca,0,0,0.0,5,0.0,Neutral
+1307,exactly problems like that have been addressed,1,1,0.0,2,0.99999950000025,Neutral
+1308,yes good insight,1,0,0.9999990000010001,2,0.499999750000125,Most Positive
+1309,all frames stitched to single frame tricky as all cameras overlap in different ways,0,1,-0.9999990000010001,8,0.12499998437500197,Most Negative
+1310,much,0,0,0.0,0,0.0,Neutral
+1311,yes,0,0,0.0,0,0.0,Neutral
+1312,releasing private beta in to weeks public beta early access owners who opt in,0,0,0.0,10,0.0,Neutral
+1313,and this still isnt using the dramatically better d aka simultaneous surround video from cameras architecture,1,0,0.9999990000010001,8,0.12499998437500197,Most Positive
+1314,cool,1,0,0.9999990000010001,1,0.9999990000010001,Most Positive
+1315,he has no clue,0,0,0.0,1,0.0,Neutral
+1316,sorry to hear that im sure youll figure it out though took us four launches to reach orbit rockets are hard,0,2,-0.99999950000025,9,0.22222219753086697,Most Negative
+1317,many exciting things will be unveiled on battery day   u+au+fef,1,0,0.9999990000010001,6,0.16666663888889352,Most Positive
+1318,we will make super efficient home hvac with hepa filters one day,2,0,0.99999950000025,8,0.24999996875000394,Most Positive
+1319,if reich actually cares about global warming why is he making so much hot air,1,0,0.9999990000010001,7,0.1428571224489825,Most Positive
+1320,u+feu+fea natrlich u+feu+fea,0,0,0.0,3,0.0,Neutral
+1321,bitte arbeiten sie bei tesla giga berlin es wird super spa machen,1,0,0.9999990000010001,12,0.08333332638888948,Most Positive
+1322,try a tesla &amp youre welcome to give it back if you decide you prefer a subaru,2,0,0.99999950000025,9,0.22222219753086697,Most Positive
+1323,vera rubin observatory is cool,1,0,0.9999990000010001,4,0.24999993750001562,Most Positive
+1324,+=,0,0,0.0,1,0.0,Neutral
+1325,munger is right,1,0,0.9999990000010001,1,0.9999990000010001,Most Positive
+1326,,0,0,0.0,0,0.0,Neutral
+1327,black scholes formula is kinda bs big difference between a finance approximation &amp fundamental physics   pure math,1,1,0.0,15,0.13333332444444504,Neutral
+1328,true,0,0,0.0,1,0.0,Neutral
+1329,tesla is best understood as a collection of about a dozen startups mostly in series increasingly,1,0,0.9999990000010001,7,0.1428571224489825,Most Positive
+1330,tesla r&amp productivity is exceptionally good due to the caliber of engineering talent,3,0,0.9999996666667778,10,0.299999970000003,Most Positive
+1331,tesla model s &amp x have hospital grade hepa air filters &amp y are really good too this has a big effect on healt,1,0,0.9999990000010001,15,0.06666666222222252,Most Positive
+1332,,0,0,0.0,0,0.0,Neutral
+1333, tesla energy ramps hiring at giga new york for accelerated solar production,0,0,0.0,9,0.0,Neutral
+1334,touch,0,0,0.0,1,0.0,Neutral
+1335,all tesla workers also get stock so their compensation increased proportionately you are a modern day moron,1,1,0.0,9,0.22222219753086697,Neutral
+1336, onboard camera view of falcon s saocom b launch and first stage land landing,0,0,0.0,9,0.0,Neutral
+1337,yup,0,0,0.0,1,0.0,Neutral
+1338,,0,0,0.0,0,0.0,Neutral
+1339,rawlinson didnt design model s prototype was done before he joined &amp he left us in the lurch just as t,0,1,-0.9999990000010001,10,0.09999999000000101,Most Negative
+1340,were pretty close to the manufacturing size limit for a milled copper &amp steel ja,1,1,0.0,11,0.1818181652892577,Neutral
+1341,a la guerre comme la guerre,0,0,0.0,5,0.0,Neutral
+1342,haha,0,0,0.0,1,0.0,Neutral
+1343,and starts tweeting,0,0,0.0,2,0.0,Neutral
+1344,if you bombard earth with enough photons eventually it emits a tesla ak,1,1,0.0,7,0.285714244897965,Neutral
+1345,there is already bidirectional communication between human &amp ai via phones &amp computers its just lo,0,0,0.0,11,0.0,Neutral
+1346,above  likely to make it,0,0,0.0,1,0.0,Neutral
+1347,this is a test engine flight articles are fixed with no gimbal,0,0,0.0,6,0.0,Neutral
+1348,worth noting that thrust is only slightly higher with the big bell nozzle version larger bell is primarily,1,0,0.9999990000010001,12,0.08333332638888948,Most Positive
+1349, the first raptor vacuum engine rvac for starship has shipped from spacexs rocket factory in hawthorne california to our dev,0,0,0.0,12,0.0,Neutral
+1350,yes,0,0,0.0,0,0.0,Neutral
+1351,chart understates lithium ion potential by roughly  ,0,0,0.0,6,0.0,Neutral
+1352,model rated as most reliable car,1,0,0.9999990000010001,4,0.24999993750001562,Most Positive
+1353,turns out you can make anything fly haha,0,0,0.0,4,0.0,Neutral
+1354,exactly this is not fully appreciated,1,0,0.9999990000010001,2,0.499999750000125,Most Positive
+1355,starship sn flew asimilar hop to sn but it was a much smoother &amp faster operation,2,0,0.99999950000025,11,0.1818181652892577,Most Positive
+1356,u+feu+feau+fagiga berlin mannschaftu+fau+feu+feavielen dank fr ihre hervorragende arbeit an giga berlin,0,0,0.0,10,0.0,Neutral
+1357,great trip to germany support from government &amp people is super appreciated,4,0,0.9999997500000625,10,0.39999996000000404,Most Positive
+1358,u+fu+f,0,0,0.0,1,0.0,Neutral
+1359, deployment of starlink satellites confirmed,0,0,0.0,4,0.0,Neutral
+1360, liftoff,0,0,0.0,1,0.0,Neutral
+1361,trust ur butt haha,1,0,0.9999990000010001,4,0.24999993750001562,Most Positive
+1362,an ai with u+f picking as its goal will result in strawberry fields forever,0,0,0.0,8,0.0,Neutral
+1363,over time outer will have ~,0,0,0.0,3,0.0,Neutral
+1364,yeah,0,0,0.0,1,0.0,Neutral
+1365,just go through resonant modes fast its when you hang out there that problems arise,1,2,-0.33333322222225925,6,0.49999991666668053,Negative
+1366,the outer ring of booster engines  of  hav,0,0,0.0,5,0.0,Neutral
+1367,videodrome,0,0,0.0,1,0.0,Neutral
+1368,,0,0,0.0,0,0.0,Neutral
+1369,,0,0,0.0,0,0.0,Neutral
+1370,sorry sir i think i have momentinertiaphobia,0,1,-0.9999990000010001,2,0.499999750000125,Most Negative
+1371, falcon first stage lands at landing zone to complete this boosters fourth flight,0,0,0.0,9,0.0,Neutral
+1372,yeah,0,0,0.0,1,0.0,Neutral
+1373,lhc tbh,0,0,0.0,2,0.0,Neutral
+1374,,0,0,0.0,0,0.0,Neutral
+1375,if you ever want to build a long accelerator tunnel straight or circular i know some people,0,0,0.0,7,0.0,Neutral
+1376, after launching saocom b and two rideshare payloads to orbit falcon s first stage returns to earth and lands at landing zon,0,0,0.0,12,0.0,Neutral
+1377, deployment of saocom b confirmed,0,0,0.0,3,0.0,Neutral
+1378, falcon s first stage has landed at landing zone,0,0,0.0,5,0.0,Neutral
+1379, liftoff,0,0,0.0,1,0.0,Neutral
+1380,cool,1,0,0.9999990000010001,1,0.9999990000010001,Most Positive
+1381, snout boops,0,0,0.0,2,0.0,Neutral
+1382,physics is the law everything else is a recommendation,1,0,0.9999990000010001,3,0.33333322222225925,Most Positive
+1383,if some company has solved a useful thing that we can just buy that would be great its,2,0,0.99999950000025,5,0.399999920000016,Most Positive
+1384,tesla germany designed &amp built the vaccine rna printers for curevac but subject to some curevac ip th,0,0,0.0,13,0.0,Neutral
+1385,technically james watt measured a pony added  &amp rounded up haha,0,0,0.0,10,0.0,Neutral
+1386,also critical thinking,0,1,-0.9999990000010001,2,0.499999750000125,Most Negative
+1387,alexander and the rise of hellenism and film studies,0,0,0.0,5,0.0,Neutral
+1388,wow i super loved astronomy but took it at queens not penn definitely one of my favorite class,4,0,0.9999997500000625,8,0.4999999375000079,Most Positive
+1389,yeah he sent it to me through a mutual physics prof friend at caltech cern very ba,0,0,0.0,8,0.0,Neutral
+1390,its too embarrassing,0,1,-0.9999990000010001,1,0.9999990000010001,Most Negative
+1391,just learned that my physics prof from penn is head of fermilab &amp still has some of my old homework u+au+fef,0,0,0.0,10,0.0,Neutral
+1392,it is unfortunately common for many in academia to overweight the value of ideas &amp underweight bringing,0,2,-0.99999950000025,8,0.24999996875000394,Most Negative
+1393,people are extremely unlikely to die of covid sars cov alone if you,0,2,-0.99999950000025,6,0.33333327777778704,Most Negative
+1394,that &amp giga berlin are why im headed to germany this week convers,0,0,0.0,9,0.0,Neutral
+1395,antibody half life for cov is very short in a study that spacex did working with harvard,0,0,0.0,9,0.0,Neutral
+1396,yeah,0,0,0.0,1,0.0,Neutral
+1397,one person at tesla out of  was hospitalized in serious condition he,0,0,0.0,4,0.0,Neutral
+1398,some of the tests we initially tried at tesla were ~ false positive including some fro,1,1,0.0,8,0.24999996875000394,Neutral
+1399,not yet,0,0,0.0,0,0.0,Neutral
+1400,yes,0,0,0.0,0,0.0,Neutral
+1401,people read too much into this level of detail its not useful for predicting the future nor can,1,0,0.9999990000010001,6,0.16666663888889352,Most Positive
+1402,critical feedback is always appreciated btw,1,1,0.0,4,0.49999987500003124,Neutral
+1403,we cant have a blanket pass but maybe for some events,0,0,0.0,3,0.0,Neutral
+1404,boost,1,0,0.9999990000010001,1,0.9999990000010001,Most Positive
+1405,later versions of a larger device would have that potential,0,0,0.0,4,0.0,Neutral
+1406,yup,0,0,0.0,1,0.0,Neutral
+1407,actually c although the syntax could be improved esthetically,1,0,0.9999990000010001,3,0.33333322222225925,Most Positive
+1408,i like c because it avoids class warfare,1,0,0.9999990000010001,3,0.33333322222225925,Most Positive
+1409,a nightcap would probably work best,2,0,0.99999950000025,2,0.99999950000025,Most Positive
+1410,pretty much,1,0,0.9999990000010001,1,0.9999990000010001,Most Positive
+1411,good summary,1,0,0.9999990000010001,2,0.499999750000125,Most Positive
+1412,conceptual telepathy,0,0,0.0,2,0.0,Neutral
+1413, if you ever fantasize about having been an s engineer working in edisons lab apply to work at ,1,0,0.9999990000010001,7,0.1428571224489825,Most Positive
+1414,ahem starting soon,0,0,0.0,2,0.0,Neutral
+1415,all of physics is either impossible or trivial it is impossible until you understand it and then it becomes trivial e rutherford,0,4,-0.9999997500000625,7,0.57142848979593,Most Negative
+1416,giant gap between experimental medical device for use only in patients with extreme medical problems &amp wid,0,1,-0.9999990000010001,12,0.08333332638888948,Most Negative
+1417,testing with shorter rvac skirt went well full length skirt test coming soon,1,0,0.9999990000010001,9,0.11111109876543349,Most Positive
+1418,neuralink product demo in hours webcast at ,0,0,0.0,5,0.0,Neutral
+1419,raptor reached mt f over half a million pounds of thrust at peak pressure wit,0,0,0.0,10,0.0,Neutral
+1420,good chance something will slip but yeah sunday is intense,1,1,0.0,6,0.33333327777778704,Neutral
+1421,only need engines,0,0,0.0,1,0.0,Neutral
+1422,boring co tunnel in vegas is only a few months from being operational,0,1,-0.9999990000010001,5,0.199999960000008,Most Negative
+1423,neuralink this month &amp tesla next month spacex probably october we will have made a lot of progre,0,0,0.0,11,0.0,Neutral
+1424,soon,0,0,0.0,0,0.0,Neutral
+1425,theyre quite accurate,1,0,0.9999990000010001,2,0.499999750000125,Most Positive
+1426,that number sure comes up a lot u+fu+f,0,0,0.0,3,0.0,Neutral
+1427,im fine with reasonable drone footage just needs to be at a fair distance &amp not coming r,3,0,0.9999996666667778,10,0.299999970000003,Most Positive
+1428,thanks to a smart and hardworking team at tesla these sure are wild times,1,1,0.0,6,0.33333327777778704,Neutral
+1429,much appreciated this was a serious attack,1,1,0.0,2,0.99999950000025,Neutral
+1430,brave starhopper carried the day,1,0,0.9999990000010001,4,0.24999993750001562,Most Positive
+1431,only so many days,0,0,0.0,1,0.0,Neutral
+1432,we were too obtuse for our own good although i think it works esthetically those are folded over c,2,1,0.33333322222225925,5,0.599999880000024,Positive
+1433,but actually nothing was surprised to hear theyre across the road adding silicon to carbon anode,0,0,0.0,8,0.0,Neutral
+1434,nothing u+f,0,0,0.0,1,0.0,Neutral
+1435,then they leave the house and hardly ever call their parents,0,0,0.0,4,0.0,Neutral
+1436,the big bang started very very smol,0,0,0.0,4,0.0,Neutral
+1437,asimov was u+fu+f,0,0,0.0,2,0.0,Neutral
+1438,should we believe things proportionate to the evidence that they are true yes,0,0,0.0,4,0.0,Neutral
+1439,olde skoole analog synthesizer from ancient britain,0,0,0.0,6,0.0,Neutral
+1440,,0,0,0.0,0,0.0,Neutral
+1441,was just there &amp weather was calm sure hope it stays that way,1,0,0.9999990000010001,6,0.16666663888889352,Most Positive
+1442,tesla brake lights are powered by a miniverse inside a microverse,0,0,0.0,7,0.0,Neutral
+1443,exactly,0,0,0.0,0,0.0,Neutral
+1444,no were focused on developing new products &amp scaling production,0,0,0.0,7,0.0,Neutral
+1445,yes will show v still far from lasik but could get pretty close in a few years,1,0,0.9999990000010001,5,0.199999960000008,Most Positive
+1446,lengthy background on neuralink by,0,1,-0.9999990000010001,3,0.33333322222225925,Most Negative
+1447,live webcast of working devicefriday pm pacific,0,0,0.0,6,0.0,Neutral
+1448,astronaughty,0,0,0.0,1,0.0,Neutral
+1449,no,0,0,0.0,0,0.0,Neutral
+1450,mars is easier than the moon for propellant production could get,1,0,0.9999990000010001,5,0.199999960000008,Most Positive
+1451,starship propellant is ~ oxygen so an o plant on the moon would be enou,0,0,0.0,7,0.0,Neutral
+1452,now i want candy,0,0,0.0,1,0.0,Neutral
+1453,theres a lot of frozen co &amp ho on mars heating the planet will densify the atmosphere its solvable,0,1,-0.9999990000010001,11,0.09090908264462885,Most Negative
+1454,perhaps one day there will be an ocean on the northern part of mars,0,0,0.0,5,0.0,Neutral
+1455,its almost working reliably,1,0,0.9999990000010001,2,0.499999750000125,Most Positive
+1456,very different computers are needed for training vs inference fsd is mostly int but dojo is,0,0,0.0,7,0.0,Neutral
+1457,not exactly gpus for nn lots of cores optimized for dot products with fast local memory &amp sup,1,0,0.9999990000010001,12,0.08333332638888948,Most Positive
+1458,no &amp not possible at this scale,0,0,0.0,3,0.0,Neutral
+1459,orbital launch mount,0,0,0.0,3,0.0,Neutral
+1460,yeah occasional flights from land are ok but frequent daily flights probably need ~km   m,0,0,0.0,8,0.0,Neutral
+1461,sure,0,0,0.0,0,0.0,Neutral
+1462,on it,0,0,0.0,0,0.0,Neutral
+1463,i tried to warn them but they just dug their own grave twice as fast,1,0,0.9999990000010001,4,0.24999993750001562,Most Positive
+1464,wh kg *with* high cycle life produced in volume not just a lab is not far probably to years,0,0,0.0,11,0.0,Neutral
+1465,starship super heavy which is ~x mass of zenit will mostly launch from ocean spaceports long term,1,0,0.9999990000010001,11,0.09090908264462885,Most Positive
+1466, tesla model is most satisfying car across all ages study reveals,1,0,0.9999990000010001,7,0.1428571224489825,Most Positive
+1467,starship super heavy is ~x bigger in mass &amp volume,1,0,0.9999990000010001,9,0.11111109876543349,Most Positive
+1468,a metaphor for life,0,0,0.0,2,0.0,Neutral
+1469, power is flowing again from the grid grateful for my and hours of uninterrupted backup power u+au+fefu+au+fefu+au+fef ht,1,0,0.9999990000010001,10,0.09999999000000101,Most Positive
+1470,accurate distance calculation using only vision is fundamental other sensors can help but are not fundamental,1,0,0.9999990000010001,7,0.1428571224489825,Most Positive
+1471,uh oh,0,0,0.0,1,0.0,Neutral
+1472,more fun games coming soon to ur tesla,1,0,0.9999990000010001,5,0.199999960000008,Most Positive
+1473,strikes again,0,0,0.0,1,0.0,Neutral
+1474,sorry noise reduction has gotten much better recently &amp will continue to improve,2,2,0.0,7,0.57142848979593,Neutral
+1475,u+f,0,0,0.0,1,0.0,Neutral
+1476,hardcore techno aber vielleicht ein bisschen fahrstuhlmusik auf der toilette,0,0,0.0,10,0.0,Neutral
+1477,new tesla feature coming that enables your car to play snake jazz or polynesian elevator music through its outside speakers wherever you go,0,0,0.0,12,0.0,Neutral
+1478,,0,0,0.0,0,0.0,Neutral
+1479,hopefully we have achieved ai symbiosis by then,0,0,0.0,3,0.0,Neutral
+1480,or a self perpetuating autocracy based on a farcical aquatic ceremony where the king is chosen by a wise panzer in a lake,1,1,0.0,11,0.1818181652892577,Neutral
+1481,direct democracy short comprehensible laws voted on directly by the people snake jazz,0,0,0.0,10,0.0,Neutral
+1482,u+fdu+fb,0,0,0.0,1,0.0,Neutral
+1483,its quite hard for us to write the software needed to cover basic car functionality but maybe we c,0,1,-0.9999990000010001,8,0.12499998437500197,Most Negative
+1484,gpt  sounds like simon &amp garfunkel lyrics,1,0,0.9999990000010001,7,0.1428571224489825,Most Positive
+1485,bureaucracy is inherently kafkaesque,0,0,0.0,3,0.0,Neutral
+1486,dankeschn brandenburg &amp grnheide,0,0,0.0,5,0.0,Neutral
+1487,true u+fu+f,0,0,0.0,2,0.0,Neutral
+1488,u+f,0,0,0.0,1,0.0,Neutral
+1489,medical check is a ok,0,0,0.0,2,0.0,Neutral
+1490,he might run for president in,0,0,0.0,2,0.0,Neutral
+1491,not having long chain hydrocarbons &amp lowering preburner combustion temperature make a big difference,0,0,0.0,12,0.0,Neutral
+1492,yes,0,0,0.0,0,0.0,Neutral
+1493,yes,0,0,0.0,0,0.0,Neutral
+1494,absolutely needs liquid cooling were applying our experience,0,0,0.0,5,0.0,Neutral
+1495,thats an error in canada the lease payment is specifically lower than loan financing as tesla expec,0,1,-0.9999990000010001,10,0.09999999000000101,Most Negative
+1496,we will push for ten flights with starlink,0,0,0.0,4,0.0,Neutral
+1497,almost never need to replace whole engine but some individual parts like,1,0,0.9999990000010001,4,0.24999993750001562,Most Positive
+1498,mostly for employees but well support public access whenever its,2,0,0.99999950000025,4,0.49999987500003124,Most Positive
+1499,absolutely u+f u+fdd,0,0,0.0,3,0.0,Neutral
+1500,i dont want be cavalier but there isnt an obvious limit + flights are possi,0,1,-0.9999990000010001,8,0.12499998437500197,Most Negative
+1501,ive been working in boca since sunday august heat &amp humidity in south texas is int,0,0,0.0,12,0.0,Neutral
+1502,dojo v isnt done yet about a year away not just about the chips power,0,0,0.0,5,0.0,Neutral
+1503,scorcher vi,0,0,0.0,2,0.0,Neutral
+1504,yes,0,0,0.0,0,0.0,Neutral
+1505,elevator music is underrated,0,0,0.0,3,0.0,Neutral
+1506,its counter intuitive but raptor has so much thrust at h,1,0,0.9999990000010001,4,0.24999993750001562,Most Positive
+1507, big updates in u+feu+fe trans canada supercharging u+ model y deliveries u+ leasing for model y &amp model u+faf,0,0,0.0,16,0.0,Neutral
+1508,payload reduction due to reusability of booster &amp fairing is &lt for f &amp recovery &amp refurb is &lt,1,0,0.9999990000010001,18,0.055555552469135974,Most Positive
+1509,yes it will have huge nuts haha,0,0,0.0,3,0.0,Neutral
+1510,we really need a bigger one so adults can squeeze in too guaranteed to make a party more fun works well with flamethrowers,3,0,0.9999996666667778,9,0.33333329629630043,Most Positive
+1511,my favorite is one in tension other dof in compression new roadster w,1,1,0.0,5,0.399999920000016,Neutral
+1512,yes,0,0,0.0,0,0.0,Neutral
+1513,aloha welcome back from space u+fab,1,0,0.9999990000010001,4,0.24999993750001562,Most Positive
+1514,yeah will post shortly,0,0,0.0,3,0.0,Neutral
+1515,winning worst person ive ever worked with is not easy some real champions are vying for that title,3,1,0.49999987500003124,10,0.39999996000000404,Positive
+1516,fairing chute control &amp ship control are closing the loop locally both operating on spacex autopilot,0,0,0.0,13,0.0,Neutral
+1517,ms tree catches fairing in her net,0,0,0.0,5,0.0,Neutral
+1518,u+f,0,0,0.0,1,0.0,Neutral
+1519, falcon s first stage has landed on the of course i still love you droneship first time a booster has completed six flights,1,0,0.9999990000010001,9,0.11111109876543349,Most Positive
+1520,up there somewhere cruising through deep space,0,0,0.0,3,0.0,Neutral
+1521,must be aliens,0,0,0.0,1,0.0,Neutral
+1522,yes,0,0,0.0,0,0.0,Neutral
+1523,this little spit of dirt will take us to mars,0,1,-0.9999990000010001,3,0.33333322222225925,Most Negative
+1524,humans are swiftly becoming a small percentage of total compute,0,0,0.0,6,0.0,Neutral
+1525,max demonstrated raptor thrust is ~ tons &amp min is ~ tons so theyre actually,0,0,0.0,12,0.0,Neutral
+1526,u+fa,0,0,0.0,1,0.0,Neutral
+1527,thats engine sn were building sn of the ship,0,0,0.0,5,0.0,Neutral
+1528,sn is about to be tested &amp has several upgrades over bar engine for reference bar on r,0,0,0.0,9,0.0,Neutral
+1529,raptor engine just reached bar chamber pressure without exploding,0,0,0.0,7,0.0,Neutral
+1530,yeah starship will be a tiny dot at km hard to see with naked eye well do lots of flights,1,1,0.0,10,0.19999998000000202,Neutral
+1531,very impressive render note legs will be bigger &amp there,1,0,0.9999990000010001,7,0.1428571224489825,Most Positive
+1532,this might sting a little,0,1,-0.9999990000010001,1,0.9999990000010001,Most Negative
+1533,the early investor part of tesla is wrong that bs has been pushed by eberhard worst person ive ever,0,3,-0.9999996666667778,11,0.2727272479338866,Most Negative
+1534,also there could be long period comets that intersect earth right now we just havent observed the,1,0,0.9999990000010001,7,0.1428571224489825,Most Positive
+1535,pretty much,1,0,0.9999990000010001,1,0.9999990000010001,Most Positive
+1536,cybertruck option package,0,0,0.0,3,0.0,Neutral
+1537,wow,1,0,0.9999990000010001,1,0.9999990000010001,Most Positive
+1538,my button twiddling makes no sense at all u+fu+f,0,0,0.0,5,0.0,Neutral
+1539,you got it,0,0,0.0,0,0.0,Neutral
+1540,thats a great one,1,0,0.9999990000010001,1,0.9999990000010001,Most Positive
+1541,tanks the memery   panzer of the lake,0,1,-0.9999990000010001,4,0.24999993750001562,Most Negative
+1542,some big milestones coming up,0,0,0.0,3,0.0,Neutral
+1543,africa is big,0,0,0.0,2,0.0,Neutral
+1544,bold move sir bold move,0,0,0.0,5,0.0,Neutral
+1545,thank you tesla is most honored,2,0,0.99999950000025,2,0.99999950000025,Most Positive
+1546,very real possibility,0,0,0.0,2,0.0,Neutral
+1547,u+au+fef,0,0,0.0,1,0.0,Neutral
+1548,u+fu+f,0,0,0.0,1,0.0,Neutral
+1549,please trash me on wikipedia im begging you,0,2,-0.99999950000025,4,0.49999987500003124,Most Negative
+1550,history is written by the victors except on wikipedia haha,0,0,0.0,5,0.0,Neutral
+1551,cover of barbie girl,0,0,0.0,3,0.0,Neutral
+1552,yes probably more accurate to say great filters plural,2,0,0.99999950000025,4,0.49999987500003124,Most Positive
+1553,yes its called cyber girl,0,0,0.0,3,0.0,Neutral
+1554,we must pass the great filter,1,0,0.9999990000010001,3,0.33333322222225925,Most Positive
+1555,sounds right,1,0,0.9999990000010001,1,0.9999990000010001,Most Positive
+1556,seriously,0,0,0.0,0,0.0,Neutral
+1557,crysis rocks,0,0,0.0,2,0.0,Neutral
+1558,a truly useful exaflop at de facto fp,1,0,0.9999990000010001,4,0.24999993750001562,Most Positive
+1559,metal has a fudge like consistency near its melting point so you can just smoosh it together,1,1,0.0,6,0.33333327777778704,Neutral
+1560,this is how we make falcon,0,0,0.0,2,0.0,Neutral
+1561,,0,0,0.0,0,0.0,Neutral
+1562,this is out of our hands so hard to predict maybe on order of billion km of re,0,1,-0.9999990000010001,6,0.16666663888889352,Most Negative
+1563,yes,0,0,0.0,0,0.0,Neutral
+1564,u+fu+f hasty govt u+fu+f,0,1,-0.9999990000010001,4,0.24999993750001562,Most Negative
+1565,a lot of work remains technically we have it working in,1,0,0.9999990000010001,5,0.199999960000008,Most Positive
+1566,dojo is still being built maybe a year or so from v,0,0,0.0,3,0.0,Neutral
+1567,autopilot was trapped in a local maximum labeling single camera images uncorrelate,0,1,-0.9999990000010001,9,0.11111109876543349,Most Negative
+1568,your insights over the years have been excellent thats approximately right,2,0,0.99999950000025,4,0.49999987500003124,Most Positive
+1569,absolutely but it doesnt seem that govt can move fast enough,2,0,0.99999950000025,5,0.399999920000016,Most Positive
+1570,ok,0,0,0.0,0,0.0,Neutral
+1571,it will blow ur mind haha,0,1,-0.9999990000010001,4,0.24999993750001562,Most Negative
+1572,our main engineering locations are palo alto austin &amp seattle but working remotely is acceptable for exceptional candidates,1,0,0.9999990000010001,14,0.07142856632653098,Most Positive
+1573,i want to do electric vtol supersonic sooo bad but my brain will overload,0,1,-0.9999990000010001,7,0.1428571224489825,Most Negative
+1574,asteroid impact risk is well understood but not comets those worry me,1,2,-0.33333322222225925,6,0.49999991666668053,Negative
+1575,great mission patch design,1,0,0.9999990000010001,4,0.24999993750001562,Most Positive
+1576,haha true,0,0,0.0,2,0.0,Neutral
+1577,yup,0,0,0.0,1,0.0,Neutral
+1578,exactly,0,0,0.0,0,0.0,Neutral
+1579,also definitely coming haha will only be on relatively recent cars,0,0,0.0,4,0.0,Neutral
+1580,sorry this is embarrassingly late two factor authentication via sms or a,0,2,-0.99999950000025,5,0.399999920000016,Most Negative
+1581,yes were labeling bumps &amp potholes so the car can slow down or steer around them when safe to do so,1,2,-0.33333322222225925,9,0.33333329629630043,Negative
+1582,not perfectly at first but yes will take maybe a year or so to get really good at,2,0,0.99999950000025,3,0.6666664444445185,Most Positive
+1583,this is what i meant by d,0,0,0.0,1,0.0,Neutral
+1584,the fsd improvement will come as a quantum leap because its a fundamental architectural rewrite,1,0,0.9999990000010001,7,0.1428571224489825,Most Positive
+1585,tesla is developing a nn training computer called dojo to process truly vast amounts of video data its a beast p,0,0,0.0,13,0.0,Neutral
+1586,more software improvements coming,1,0,0.9999990000010001,3,0.33333322222225925,Most Positive
+1587,significant improvements coming to s x air suspension soon via software update will simultaneously,2,0,0.99999950000025,8,0.24999996875000394,Most Positive
+1588,ho ch co n iron nickel chrome aluminum not necessarily in that order will matter far m,0,0,0.0,9,0.0,Neutral
+1589,what are the odds ,0,0,0.0,1,0.0,Neutral
+1590,the rate of improvement from original gpt to gpt  is impressive if this rate of improvement,3,0,0.9999996666667778,8,0.3749999531250059,Most Positive
+1591,tesla team is working hard on increasing powerwall production,0,1,-0.9999990000010001,7,0.1428571224489825,Most Negative
+1592, news &amp are targeting no earlier than oct for crew dragons first operational mission to the,0,0,0.0,10,0.0,Neutral
+1593,sn,0,0,0.0,1,0.0,Neutral
+1594,impressive,1,0,0.9999990000010001,1,0.9999990000010001,Most Positive
+1595,psyche,0,0,0.0,1,0.0,Neutral
+1596,yes integrated with the tip of the nose,1,0,0.9999990000010001,3,0.33333322222225925,Most Positive
+1597,this is important,1,0,0.9999990000010001,1,0.9999990000010001,Most Positive
+1598,probably not faster than utility power can be restored powerwall powerpack megapack can certainly,2,0,0.99999950000025,7,0.285714244897965,Most Positive
+1599,starship fairing wil,0,0,0.0,3,0.0,Neutral
+1600,you are correct this is a substantial underpayment compared to what ula has received,1,0,0.9999990000010001,6,0.16666663888889352,Most Positive
+1601,so why is this madness acceptable for boeing lockheed rockets,0,1,-0.9999990000010001,5,0.199999960000008,Most Negative
+1602,nobody would suggest buying airplanes that only fly once &amp then crash into the ocean that would be absurd,0,2,-0.99999950000025,9,0.22222219753086697,Most Negative
+1603,i generally try my best not to be on patents,1,0,0.9999990000010001,2,0.499999750000125,Most Positive
+1604,efficiently reusable rockets are all that matter for making life multiplanetary &amp space power becau,1,0,0.9999990000010001,12,0.08333332638888948,Most Positive
+1605,will be amazing to see it in operation biggest casting machine ever made will make rear body in a,1,0,0.9999990000010001,9,0.11111109876543349,Most Positive
+1606,sorry to hear this what can we do to help,0,1,-0.9999990000010001,1,0.9999990000010001,Most Negative
+1607,no surprise,0,0,0.0,1,0.0,Neutral
+1608,aiming to make it super fun,2,0,0.99999950000025,4,0.49999987500003124,Most Positive
+1609,a little toastier each flight,0,0,0.0,2,0.0,Neutral
+1610,same hex tiles slightly different mounting method need bigger sections of tiles to see how they hold up,0,0,0.0,9,0.0,Neutral
+1611,sn will be new alloy test tank taken to burst pressure sn will have body flaps &amp nosecone,0,1,-0.9999990000010001,12,0.08333332638888948,Most Negative
+1612,sn &amp at starship production complex in texas,0,1,-0.9999990000010001,7,0.1428571224489825,Most Negative
+1613,one day soon i will wear this outfit,0,0,0.0,3,0.0,Neutral
+1614,i was trying to channel herb tarlek from wkrp,0,0,0.0,4,0.0,Neutral
+1615,note the fabulous plaid jacket &amp gingham shirt combo u+f,1,0,0.9999990000010001,10,0.09999999000000101,Most Positive
+1616,twin peaks,0,0,0.0,2,0.0,Neutral
+1617,working on my moms cousins farm in saskatchewan at age  i think we did a barn raising that day,0,0,0.0,9,0.0,Neutral
+1618,,0,0,0.0,0,0.0,Neutral
+1619,not sure yet but hopefully will need leg &amp other repairs probably sn flies before sn we need,0,0,0.0,7,0.0,Neutral
+1620,clearly,1,0,0.9999990000010001,0,1000000.0,Most Positive
+1621, spot the tiny humans this shot really puts it into scale a full blown starship and superheavy will be hard to fat,0,2,-0.99999950000025,12,0.16666665277777895,Most Negative
+1622,also true,0,0,0.0,1,0.0,Neutral
+1623,u+fu+f,0,0,0.0,1,0.0,Neutral
+1624,over time since we give all employees shares my ownership is diluted automatically from,0,0,0.0,7,0.0,Neutral
+1625, videos like this will always amaze meastronomer jan koet captured this video in of saturn appearing behind t,2,0,0.99999950000025,9,0.22222219753086697,Most Positive
+1626,i wonder if he reads his twitter feed,1,0,0.9999990000010001,3,0.33333322222225925,Most Positive
+1627,and why aim your attacks at tesla when were doing more than any other company on earth to advance,0,1,-0.9999990000010001,6,0.16666663888889352,Most Negative
+1628,that bs was pushed by oil &amp gas interests to distract people from the  *trillion* per year they re,1,2,-0.33333322222225925,13,0.23076921301775286,Negative
+1629,u+faf,0,0,0.0,1,0.0,Neutral
+1630,good analysis he also includes a govt loan for high efficiency vehicles that tesla paid b,1,0,0.9999990000010001,10,0.09999999000000101,Most Positive
+1631,u+faf,0,0,0.0,1,0.0,Neutral
+1632,yeah full name of engine is velociraptor or raptor for short,0,0,0.0,6,0.0,Neutral
+1633,haha good catch booster will have fixed legs that add ~m in height,1,0,0.9999990000010001,9,0.11111109876543349,Most Positive
+1634,i think we can get velociraptor t w on par with merlin latter also s,0,0,0.0,3,0.0,Neutral
+1635,it will look crazy tall with booster &amp fairing at m   ft,0,1,-0.9999990000010001,7,0.1428571224489825,Most Negative
+1636,ok,0,0,0.0,0,0.0,Neutral
+1637,apart from failing to quarantine elderly at risk people early a mistake they recognize they were right,1,3,-0.49999987500003124,8,0.4999999375000079,Negative
+1638,,0,0,0.0,0,0.0,Neutral
+1639,good piece on giga berlin construction,1,0,0.9999990000010001,5,0.199999960000008,Most Positive
+1640,this seems increasingly likely,0,0,0.0,1,0.0,Neutral
+1641, falcon s first stage has landed on the of course i still love you droneship,1,0,0.9999990000010001,5,0.199999960000008,Most Positive
+1642,this is gonna be great,1,0,0.9999990000010001,3,0.33333322222225925,Most Positive
+1643,sn,0,0,0.0,1,0.0,Neutral
+1644, looking up in model y,0,0,0.0,1,0.0,Neutral
+1645, starship takes flight,0,0,0.0,3,0.0,Neutral
+1646,well do several short hops to smooth out launch process then go high altitude with body flaps,2,0,0.99999950000025,9,0.22222219753086697,Most Positive
+1647,soon,0,0,0.0,0,0.0,Neutral
+1648,v legs will be ~ longer v legs will be much wider &amp taller like falcon bu,1,0,0.9999990000010001,10,0.09999999000000101,Most Positive
+1649,progress is accelerating,1,0,0.9999990000010001,2,0.499999750000125,Most Positive
+1650, launch starship sn has launched on a meter test hop at spacex boca chicaunder the power of raptor sn sn h,0,0,0.0,14,0.0,Neutral
+1651,exactly,0,0,0.0,0,0.0,Neutral
+1652,mars is looking real,0,0,0.0,2,0.0,Neutral
+1653,possible flight in mins,0,0,0.0,2,0.0,Neutral
+1654,most likely,0,0,0.0,0,0.0,Neutral
+1655,true,0,0,0.0,1,0.0,Neutral
+1656,highly likely down the road,0,0,0.0,2,0.0,Neutral
+1657,true fact,0,0,0.0,2,0.0,Neutral
+1658,scrubbed for the day a raptor turbopump spin start valve didnt open triggering an automatic abo,0,0,0.0,12,0.0,Neutral
+1659,im in the boca control room hop attempt in ~ minutes,0,0,0.0,8,0.0,Neutral
+1660, we are going to go to the moon we are going to have a base on the moon we are going to send people to mars and make,0,0,0.0,7,0.0,Neutral
+1661,for sure,0,0,0.0,0,0.0,Neutral
+1662,tbh i must confess to occasionally pontificating about high concept things,0,1,-0.9999990000010001,7,0.1428571224489825,Most Negative
+1663,pretty much,1,0,0.9999990000010001,1,0.9999990000010001,Most Positive
+1664,nosecone closing is recommended but not required for safe entry,2,0,0.99999950000025,6,0.33333327777778704,Most Positive
+1665,when space travel becomes as common as air travel the future of civilization will be assured,0,0,0.0,8,0.0,Neutral
+1666, to anybody who has touched endeavour you should take a moment to just cherish this day touching words from as,1,0,0.9999990000010001,7,0.1428571224489825,Most Positive
+1667,space is the new air,0,0,0.0,2,0.0,Neutral
+1668, live an update on todays dragon endeavour splashdown returning &amp home to earth hear from,0,0,0.0,12,0.0,Neutral
+1669, update post spacex crew dragon dm  splashdown news conference no earlier than pm et watch live,0,0,0.0,13,0.0,Neutral
+1670,congratulations &amp on completing first crewed dragon flight u+ffau+ff returned,1,0,0.9999990000010001,9,0.11111109876543349,Most Positive
+1671, webcast of crew dragons return to earth from the with and u+ h,0,0,0.0,6,0.0,Neutral
+1672, good splashdown of dragon confirmed welcome back to earth and ,2,0,0.99999950000025,6,0.33333327777778704,Most Positive
+1673,dragon is stable in the water,1,0,0.9999990000010001,3,0.33333322222225925,Most Positive
+1674,acquisition of signal expected in mins,0,0,0.0,4,0.0,Neutral
+1675,mins to dragon loss of signal due to atmospheric entry plasma,0,1,-0.9999990000010001,8,0.12499998437500197,Most Negative
+1676,dragon will travel from south of new zealand to florida in ~ minutes,0,0,0.0,7,0.0,Neutral
+1677,coming in hot,1,0,0.9999990000010001,2,0.499999750000125,Most Positive
+1678,astronauts land in hours,0,0,0.0,3,0.0,Neutral
+1679, crew dragons flight back to earth with and remains on track targeting splashdown off the coast of p,0,0,0.0,10,0.0,Neutral
+1680,however we did prove that a superdraco landing could work by doing a propulsive hover,1,0,0.9999990000010001,6,0.16666663888889352,Most Positive
+1681,all correct parachutes were originally the backup landing system with superdraco thruster,1,0,0.9999990000010001,8,0.12499998437500197,Most Positive
+1682,great game,1,0,0.9999990000010001,2,0.499999750000125,Most Positive
+1683,working on it,0,0,0.0,1,0.0,Neutral
+1684,  &amp will spend one more night in space prior to returning to their homeland earthwhile as,0,0,0.0,9,0.0,Neutral
+1685, the view from inside the dragon endeavour as &amp monitor their departure from  ht,0,0,0.0,9,0.0,Neutral
+1686, separation confirmed dragon performing departure burns to move away from the,0,1,-0.9999990000010001,7,0.1428571224489825,Most Negative
+1687, crew dragon will depart the with and in about hours and splash down off the coast of,0,0,0.0,6,0.0,Neutral
+1688,the simplest solution is not necessarily the most satisfying,2,0,0.99999950000025,4,0.49999987500003124,Most Positive
+1689, tesla autopilot accidents out of miles us average out of miles,0,0,0.0,6,0.0,Neutral
+1690, tesla q vehicle safety report,0,0,0.0,4,0.0,Neutral
+1691,u+fdu+du+u+fef,0,0,0.0,1,0.0,Neutral
+1692,absolutely long lasting art is incredibly difficult,1,1,0.0,6,0.33333327777778704,Neutral
+1693,this bbc article provides a sensible summary for how it was done,1,0,0.9999990000010001,3,0.33333322222225925,Most Positive
+1694, news teams from and remain go with plans to bring and home to earth on sunday,0,0,0.0,8,0.0,Neutral
+1695, theyre coming home u+feu+faon aug  astronauts and will depart the on s crew dra,0,0,0.0,9,0.0,Neutral
+1696,the great pyramid was the tallest structure made by humans for years three thousand eight hundred years,1,0,0.9999990000010001,10,0.09999999000000101,Most Positive
+1697, and remain go with plans to bring and home to earth this weekend teams will c,0,0,0.0,7,0.0,Neutral
+1698,so true,0,0,0.0,1,0.0,Neutral
+1699,ramses ii was u+fe,0,0,0.0,3,0.0,Neutral
+1700,aliens built the pyramids obv,0,0,0.0,4,0.0,Neutral
+1701,ancient egypt had an incredible esthetic that stands to this day,1,0,0.9999990000010001,6,0.16666663888889352,Most Positive
+1702,u+au+fef,0,0,0.0,1,0.0,Neutral
+1703,witch logic,0,0,0.0,2,0.0,Neutral
+1704,things we take for granted like flying would have had you burned at the stake for witchcraft not that long ago,1,1,0.0,8,0.24999996875000394,Neutral
+1705,engineering is magic made real,1,0,0.9999990000010001,4,0.24999993750001562,Most Positive
+1706,lo que construimos,0,0,0.0,2,0.0,Neutral
+1707,cool,1,0,0.9999990000010001,1,0.9999990000010001,Most Positive
+1708,,0,0,0.0,0,0.0,Neutral
+1709,starship sn just completed full duration static fire m hop soon,0,1,-0.9999990000010001,8,0.12499998437500197,Most Negative
+1710,u+fau+fdbu+du+u+feftotal eclipse of the heart u+fdbu+du+u+fefu+fa,0,0,0.0,4,0.0,Neutral
+1711,u+fe,0,0,0.0,1,0.0,Neutral
+1712,not that im aware of,0,0,0.0,2,0.0,Neutral
+1713,yes could also extend range of hearing beyond normal frequencies and amplitudes deus ex,0,0,0.0,7,0.0,Neutral
+1714,neuralinks are currently meant for mature brains &amp functionality is lost if remo,1,1,0.0,9,0.22222219753086697,Neutral
+1715,yes should be possible to create a neural shunt from motor cortex to microcontrollers in,0,0,0.0,6,0.0,Neutral
+1716,will show neurons firing in real time on august th the matrix in the matrix,0,0,0.0,8,0.0,Neutral
+1717,they dont fire all at once some go several seconds to minutes without firing some fire several ti,0,0,0.0,7,0.0,Neutral
+1718,congrats on a great launch,1,0,0.9999990000010001,3,0.33333322222225925,Most Positive
+1719,but sometimes when we touch,0,0,0.0,1,0.0,Neutral
+1720,adagio for strings is great,1,0,0.9999990000010001,3,0.33333322222225925,Most Positive
+1721,losing it,0,1,-0.9999990000010001,1,0.9999990000010001,Most Negative
+1722,u+fu+f,0,0,0.0,1,0.0,Neutral
+1723,mein herz brennt best boss battle song ever,1,0,0.9999990000010001,6,0.16666663888889352,Most Positive
+1724,robot heart is u+fu+f,0,0,0.0,3,0.0,Neutral
+1725,one of the all time best,1,0,0.9999990000010001,1,0.9999990000010001,Most Positive
+1726,sure,0,0,0.0,0,0.0,Neutral
+1727,sure could use a good ravewhats your favorite techno,2,0,0.99999950000025,4,0.49999987500003124,Most Positive
+1728,i i just died in your arms tonight,0,1,-0.9999990000010001,3,0.33333322222225925,Most Negative
+1729,the rumor that bill gates &amp i are lovers is completely untrue,0,2,-0.99999950000025,8,0.24999996875000394,Most Negative
+1730,yeah display will also soon render teslas specifically as their model &amp color instead of,0,0,0.0,9,0.0,Neutral
+1731,,0,0,0.0,0,0.0,Neutral
+1732,weve been working on this for about years originally meant for rabies vaccine but it,0,0,0.0,7,0.0,Neutral
+1733,,0,0,0.0,0,0.0,Neutral
+1734,u+fb billy g is not my lover u+fb,1,0,0.9999990000010001,4,0.24999993750001562,Most Positive
+1735,sounds like he doesnt realize tesla makes the vaccine machine for curevac,1,0,0.9999990000010001,8,0.12499998437500197,Most Positive
+1736,thanks for letting me know will dig into it,0,0,0.0,2,0.0,Neutral
+1737,u+f,0,0,0.0,1,0.0,Neutral
+1738,sum &gt parts,0,0,0.0,4,0.0,Neutral
+1739,should add a few miles of range more in slow traffic,0,1,-0.9999990000010001,5,0.199999960000008,Most Negative
+1740,the government has the most money by far they talk in trillions,0,0,0.0,4,0.0,Neutral
+1741,haha no one can ever have our top secret fart technology,1,0,0.9999990000010001,5,0.199999960000008,Most Positive
+1742,u+f u+f,0,0,0.0,2,0.0,Neutral
+1743,sure,0,0,0.0,0,0.0,Neutral
+1744,tesla is open to licensing software and supplying powertrains &amp batteries were just trying to accelera,0,0,0.0,10,0.0,Neutral
+1745,what he doesnt appear to appreciate is that government is just a monopolist corporation in the limit,1,1,0.0,5,0.399999920000016,Neutral
+1746,,0,0,0.0,0,0.0,Neutral
+1747,agreed,0,0,0.0,1,0.0,Neutral
+1748,haha,0,0,0.0,1,0.0,Neutral
+1749,its a prototype of the color,0,0,0.0,2,0.0,Neutral
+1750,and to think i used to like bernie u+f,1,0,0.9999990000010001,2,0.499999750000125,Most Positive
+1751,u+fau+fa,0,0,0.0,1,0.0,Neutral
+1752,maybe hes feeling the bern haha,0,0,0.0,4,0.0,Neutral
+1753,fuel spin valve didnt open will fix &amp try again tomorrow also some odd tvc hydraulic pump behavior,0,1,-0.9999990000010001,14,0.07142856632653098,Most Negative
+1754,i was just out at the launch pad connector damaged in the storm but fixed now might be able to,0,1,-0.9999990000010001,6,0.16666663888889352,Most Negative
+1755,whether commercial or government monopolies are bad for the people,0,1,-0.9999990000010001,5,0.199999960000008,Most Negative
+1756,sounds great,1,0,0.9999990000010001,2,0.499999750000125,Most Positive
+1757,haha,0,0,0.0,1,0.0,Neutral
+1758,das kapital in a nutshell,0,0,0.0,3,0.0,Neutral
+1759,what i like most is their great sense of humor,3,0,0.9999996666667778,3,0.9999996666667778,Most Positive
+1760,the left is losing the middle,0,1,-0.9999990000010001,3,0.33333322222225925,Most Negative
+1761,exactly,0,0,0.0,0,0.0,Neutral
+1762,u+fu+f,0,0,0.0,1,0.0,Neutral
+1763,hold my beer,0,0,0.0,2,0.0,Neutral
+1764,once an onion now a rose,0,0,0.0,2,0.0,Neutral
+1765,wow you think about me a lot,1,0,0.9999990000010001,2,0.499999750000125,Most Positive
+1766,you dropped this,0,0,0.0,1,0.0,Neutral
+1767,u+f,0,0,0.0,1,0.0,Neutral
+1768,haha,0,0,0.0,1,0.0,Neutral
+1769, pick up the energetic wallpapers and charge your everyday adventure,1,0,0.9999990000010001,6,0.16666663888889352,Most Positive
+1770,giga berlin will come together at an impossible seeming speed the prefabricated construction method,0,1,-0.9999990000010001,7,0.1428571224489825,Most Negative
+1771,almost a decade ago original dragon in background,0,0,0.0,5,0.0,Neutral
+1772,ya just cant beat br,0,0,0.0,3,0.0,Neutral
+1773,,0,0,0.0,0,0.0,Neutral
+1774,planet claire is u+fu+f,0,0,0.0,3,0.0,Neutral
+1775,fair point will discuss with team,1,0,0.9999990000010001,4,0.24999993750001562,Most Positive
+1776,he was amazing,1,0,0.9999990000010001,1,0.9999990000010001,Most Positive
+1777,great song,1,0,0.9999990000010001,2,0.499999750000125,Most Positive
+1778,nickel is the biggest challenge for high volume long range batteries australia &amp ca,0,0,0.0,12,0.0,Neutral
+1779,u+fu+f,0,0,0.0,1,0.0,Neutral
+1780,thats me haha,0,0,0.0,1,0.0,Neutral
+1781,this has a lot of potential lithium is pretty much everywhere,1,0,0.9999990000010001,4,0.24999993750001562,Most Positive
+1782,whoa cool,2,0,0.99999950000025,2,0.99999950000025,Most Positive
+1783,u+fu+f,0,0,0.0,1,0.0,Neutral
+1784,has to be blue steel,0,0,0.0,2,0.0,Neutral
+1785,we need high brinell hardness &amp high corrosion resistance because of cybertrucks faceted,0,2,-0.99999950000025,10,0.19999998000000202,Most Negative
+1786,i really want to do this will be great fun could be both la and austin,2,0,0.99999950000025,4,0.49999987500003124,Most Positive
+1787,turning them into shade for an outdoor restaurant here in boca,0,0,0.0,5,0.0,Neutral
+1788,cool,1,0,0.9999990000010001,1,0.9999990000010001,Most Positive
+1789,yes,0,0,0.0,0,0.0,Neutral
+1790,not impossible,0,1,-0.9999990000010001,1,0.9999990000010001,Most Negative
+1791,those were the days u+fu+f,0,0,0.0,2,0.0,Neutral
+1792,,0,0,0.0,0,0.0,Neutral
+1793, new video   why tesla model y is their most important car auto focus ep ,1,0,0.9999990000010001,8,0.12499998437500197,Most Positive
+1794,ring of fire,0,0,0.0,2,0.0,Neutral
+1795,i know congratulations to the people of bolivia u+feu+ff,1,0,0.9999990000010001,4,0.24999993750001562,Most Positive
+1796,the song i whistle most is strangers in the night,0,0,0.0,4,0.0,Neutral
+1797,some of whom seriously think tesla toppled the bolivian govt sigh,0,0,0.0,5,0.0,Neutral
+1798,great song,1,0,0.9999990000010001,2,0.499999750000125,Most Positive
+1799,haha thanks kara,0,0,0.0,2,0.0,Neutral
+1800,for sure,0,0,0.0,0,0.0,Neutral
+1801,yeah were hunkering down here until the hurricane passes,0,0,0.0,4,0.0,Neutral
+1802,exactly,0,0,0.0,0,0.0,Neutral
+1803,cool model review by,1,0,0.9999990000010001,3,0.33333322222225925,Most Positive
+1804,tesla will add a power lift gate at no cost,0,0,0.0,6,0.0,Neutral
+1805,agreed hydrogen fool sells make no sense,0,1,-0.9999990000010001,6,0.16666663888889352,Most Negative
+1806,pronouns suck,0,1,-0.9999990000010001,2,0.499999750000125,Most Negative
+1807,also we get our lithium from australia,0,0,0.0,2,0.0,Neutral
+1808,u+fu+f,0,0,0.0,1,0.0,Neutral
+1809,yeah would have been way better just to send everyone k,1,0,0.9999990000010001,2,0.499999750000125,Most Positive
+1810,i bet no one on u+f twitter even *has* a guillotine poseurs,0,0,0.0,7,0.0,Neutral
+1811,slow drag on cigarette facebook havent heard that name in years,0,2,-0.99999950000025,7,0.285714244897965,Most Negative
+1812,u+f twitter sucks,0,1,-0.9999990000010001,3,0.33333322222225925,Most Negative
+1813,something like that if politicians could legislate wealth everyone would be a trillionaire,1,0,0.9999990000010001,4,0.24999993750001562,Most Positive
+1814,these are jammed to gills with special interests earmarks if we do a stimulus at all it should just be direct payments to consumers,1,0,0.9999990000010001,9,0.11111109876543349,Most Positive
+1815,pretty much,1,0,0.9999990000010001,1,0.9999990000010001,Most Positive
+1816,goal of government should be to maximize the happiness of the people giving each person money allows them to decid,1,0,0.9999990000010001,9,0.11111109876543349,Most Positive
+1817,as a reminder im in *favor* of universal basic income,1,0,0.9999990000010001,8,0.12499998437500197,Most Positive
+1818,another government stimulus package is not in the best interests of the people imo,2,0,0.99999950000025,6,0.33333327777778704,Most Positive
+1819,tesla solar panels are  watt,0,0,0.0,4,0.0,Neutral
+1820,thank you on behalf of the tesla team we look forward to building giga texas,1,0,0.9999990000010001,7,0.1428571224489825,Most Positive
+1821,competition ensures companies work hard to serve the needs of their customers,1,1,0.0,7,0.285714244897965,Neutral
+1822,something fun is coming,1,0,0.9999990000010001,2,0.499999750000125,Most Positive
+1823,could be great,1,0,0.9999990000010001,1,0.9999990000010001,Most Positive
+1824,thats a great idea,1,0,0.9999990000010001,2,0.499999750000125,Most Positive
+1825,we are actually looking for revolutionary actuaries for tesla insurance please inquire if interested,1,0,0.9999990000010001,6,0.16666663888889352,Most Positive
+1826,tbh we are just a bit less foolish than before,0,1,-0.9999990000010001,3,0.33333322222225925,Most Negative
+1827, while in orbit astronauts and performed a habitability assessment of the crew drago,0,0,0.0,7,0.0,Neutral
+1828,retail investors like are remarkably insightful also ,3,0,0.9999996666667778,4,0.7499998125000469,Most Positive
+1829,especially for boost stage which is volumetrically constrained ch is way better than h soviet ch,2,0,0.99999950000025,7,0.285714244897965,Most Positive
+1830,basically our pixel size,0,0,0.0,3,0.0,Neutral
+1831,cant emphasize this enough,1,0,0.9999990000010001,1,0.9999990000010001,Most Positive
+1832,absolutely,0,0,0.0,1,0.0,Neutral
+1833,haha,0,0,0.0,1,0.0,Neutral
+1834,agreed,0,0,0.0,1,0.0,Neutral
+1835,my oven keeps asking for my wifi password its not gonna get it,0,0,0.0,5,0.0,Neutral
+1836,impressive tianwen  mars rover mission launched by china today,1,0,0.9999990000010001,8,0.12499998437500197,Most Positive
+1837,,0,0,0.0,0,0.0,Neutral
+1838,good article,1,0,0.9999990000010001,2,0.499999750000125,Most Positive
+1839,similar problem with us data,0,1,-0.9999990000010001,3,0.33333322222225925,Most Negative
+1840,good point,1,0,0.9999990000010001,2,0.499999750000125,Most Positive
+1841,you dont have a soul you are a soul,0,0,0.0,3,0.0,Neutral
+1842,adding people in next version,0,0,0.0,3,0.0,Neutral
+1843,minutes later,0,0,0.0,1,0.0,Neutral
+1844,just another day in,0,0,0.0,1,0.0,Neutral
+1845,individualized mass transit is the future,1,0,0.9999990000010001,4,0.24999993750001562,Most Positive
+1846,no best to have people seated for safety &amp speed of travel,1,0,0.9999990000010001,7,0.1428571224489825,Most Positive
+1847,coming soon,0,0,0.0,1,0.0,Neutral
+1848,human overseen at first then fully self driving,0,0,0.0,4,0.0,Neutral
+1849,cant say but it involves a u+fb,0,0,0.0,2,0.0,Neutral
+1850,u+fu+f,0,0,0.0,1,0.0,Neutral
+1851,u+f,0,0,0.0,1,0.0,Neutral
+1852,this one stings,0,0,0.0,1,0.0,Neutral
+1853,where are the memes send in the memes,0,0,0.0,3,0.0,Neutral
+1854,we need to finish upgrading autopilot to d vs ~d then it will go up very steep slopes,0,1,-0.9999990000010001,6,0.16666663888889352,Most Negative
+1855,nothing has gaslit more people than the movie gaslight,0,0,0.0,4,0.0,Neutral
+1856,well said brian williams,1,0,0.9999990000010001,2,0.499999750000125,Most Positive
+1857,great shot,1,0,0.9999990000010001,2,0.499999750000125,Most Positive
+1858, videos of yesterdays catch of both fairing halves,0,0,0.0,5,0.0,Neutral
+1859,u+fd,0,0,0.0,1,0.0,Neutral
+1860,sometimes thats how i feel too,0,0,0.0,1,0.0,Neutral
+1861,will attempt to fly later this week,0,0,0.0,3,0.0,Neutral
+1862,sound &amp flame color will be quite different,0,0,0.0,5,0.0,Neutral
+1863,yes,0,0,0.0,0,0.0,Neutral
+1864,were rapidly changing alloy constituents &amp forming methods so traditional names like,1,0,0.9999990000010001,10,0.09999999000000101,Most Positive
+1865,u+fu+f,0,0,0.0,1,0.0,Neutral
+1866,at some point we should probably do advertising as art communication entertainment &amp to support high quality media,1,0,0.9999990000010001,11,0.09090908264462885,Most Positive
+1867, watch falcon launch anasis ii u+,0,0,0.0,6,0.0,Neutral
+1868,das baby kann noch keinen lffel benutzen,0,0,0.0,7,0.0,Neutral
+1869,its almost right,1,0,0.9999990000010001,0,1000000.0,Most Positive
+1870,we talked about an hour ago he seems fine,1,0,0.9999990000010001,4,0.24999993750001562,Most Positive
+1871,vr twitter with avatars saying the mentions u+f,0,0,0.0,5,0.0,Neutral
+1872,better to put the money into the product than sales &amp marketing,1,0,0.9999990000010001,7,0.1428571224489825,Most Positive
+1873,we should bring life to mars,0,0,0.0,3,0.0,Neutral
+1874,both fairing halves caught from space by ships,0,0,0.0,5,0.0,Neutral
+1875, falcon s first stage has landed on the just read the instructions droneship,0,0,0.0,6,0.0,Neutral
+1876,nice work spacex team,2,0,0.99999950000025,4,0.49999987500003124,Most Positive
+1877,still long way to go reuse only matters to degree that its rapid &amp complete,1,0,0.9999990000010001,8,0.12499998437500197,Most Positive
+1878,too long since we were last there,0,0,0.0,1,0.0,Neutral
+1879,launch in mins,0,0,0.0,2,0.0,Neutral
+1880,in a few months in production release already does that in alpha build,0,0,0.0,5,0.0,Neutral
+1881,lithium is extremely common on earth found almost everywhere,0,0,0.0,5,0.0,Neutral
+1882,congratulations mhi &amp uae,1,0,0.9999990000010001,5,0.199999960000008,Most Positive
+1883,stilton,0,0,0.0,1,0.0,Neutral
+1884,new deep crimson from giga berlin is my favorite,1,0,0.9999990000010001,5,0.199999960000008,Most Positive
+1885,important to service very high latitudes,1,0,0.9999990000010001,4,0.24999993750001562,Most Positive
+1886,american but born in south africa left by myself when i was ,0,0,0.0,5,0.0,Neutral
+1887,true the model s is still a great car was driving sn a few months ago and driving feel wa,1,0,0.9999990000010001,11,0.09090908264462885,Most Positive
+1888, teslas model received top marks from safety organizations in north america europe and australia,1,0,0.9999990000010001,11,0.09090908264462885,Most Positive
+1889,will discuss on wed earnings call lots to talk about,0,0,0.0,6,0.0,Neutral
+1890,u+fu+f,0,0,0.0,1,0.0,Neutral
+1891,yes,0,0,0.0,0,0.0,Neutral
+1892,this looks cool,1,0,0.9999990000010001,1,0.9999990000010001,Most Positive
+1893,it has that potential,0,0,0.0,1,0.0,Neutral
+1894,good article i,1,0,0.9999990000010001,2,0.499999750000125,Most Positive
+1895,its not really set up for tours but maybe it should,0,0,0.0,2,0.0,Neutral
+1896,manufactured only mins from lax,0,0,0.0,3,0.0,Neutral
+1897,some contribute more y chromosome &amp mitochondria are constant except for mutations,0,0,0.0,7,0.0,Neutral
+1898,yes,0,0,0.0,0,0.0,Neutral
+1899,that is just one part of the surgery for this to scale it must be fully automated like lasik,1,0,0.9999990000010001,6,0.16666663888889352,Most Positive
+1900,this would solve a lot of brain spine injuries &amp is ultimately essential for ai symbiosis,0,0,0.0,11,0.0,Neutral
+1901,fermi was awesome he understood the right questions to ask,2,0,0.99999950000025,4,0.49999987500003124,Most Positive
+1902,,0,0,0.0,0,0.0,Neutral
+1903,u+fu+f,0,0,0.0,1,0.0,Neutral
+1904,bde,0,0,0.0,1,0.0,Neutral
+1905,how come hulk never loses pants,0,1,-0.9999990000010001,3,0.33333322222225925,Most Negative
+1906,yes,0,0,0.0,0,0.0,Neutral
+1907,no prior neuroscience background is required this is primarily an electrical electronic chip design me,0,0,0.0,9,0.0,Neutral
+1908, targeting monday july for falcon launch of anasis ii from slc ,0,0,0.0,8,0.0,Neutral
+1909,solving high volume high reliability low cost production problems is especially valued,0,1,-0.9999990000010001,10,0.09999999000000101,Most Negative
+1910,if youve solved hard problems with phones   wearables sealing signal processing inductive charging power mgmt,0,2,-0.99999950000025,13,0.15384614201183525,Most Negative
+1911,many,0,0,0.0,0,0.0,Neutral
+1912,summarizes pretty much every biz school case study,1,0,0.9999990000010001,6,0.16666663888889352,Most Positive
+1913,its inevitable,0,1,-0.9999990000010001,1,0.9999990000010001,Most Negative
+1914,excuse me i only sell doge,0,1,-0.9999990000010001,3,0.33333322222225925,Most Negative
+1915,will those who write the algorithms ever realize their negativity bias,0,2,-0.99999950000025,5,0.399999920000016,Most Negative
+1916,pretty much,1,0,0.9999990000010001,1,0.9999990000010001,Most Positive
+1917,we better hustle with neuralink not moving fast enough,3,0,0.9999996666667778,4,0.7499998125000469,Most Positive
+1918,thanks,0,0,0.0,0,0.0,Neutral
+1919,just stop,0,0,0.0,1,0.0,Neutral
+1920,u+fu+f,0,0,0.0,1,0.0,Neutral
+1921,u+fu+f,0,0,0.0,1,0.0,Neutral
+1922,gigafactory is the product even more than the car,0,0,0.0,3,0.0,Neutral
+1923,yes,0,0,0.0,0,0.0,Neutral
+1924,carefully hidden,0,0,0.0,2,0.0,Neutral
+1925,sure,0,0,0.0,0,0.0,Neutral
+1926,might be an indoor outdoor rave space on the roof,0,0,0.0,5,0.0,Neutral
+1927,giga berlin,0,0,0.0,2,0.0,Neutral
+1928,exactly this is a serious problem ratio of retirees to workers is,0,1,-0.9999990000010001,4,0.24999993750001562,Most Negative
+1929,considering,0,0,0.0,0,0.0,Neutral
+1930,small note latch on post near base is gone &amp powered ethernet wire is less obtrusive in production version,0,1,-0.9999990000010001,13,0.07692307100591762,Most Negative
+1931,,0,0,0.0,0,0.0,Neutral
+1932,this thing we call money is just a slow lossy &amp unsecure database for labor allocati,0,2,-0.99999950000025,11,0.1818181652892577,Most Negative
+1933,trying to set a good example haha mars needs people,1,0,0.9999990000010001,5,0.199999960000008,Most Positive
+1934,great work by tesla software engineering,2,0,0.99999950000025,5,0.399999920000016,Most Positive
+1935,population collapse is nd biggest danger to civilization after ai imo,0,2,-0.99999950000025,7,0.285714244897965,Most Negative
+1936,yeah will take less than a minute to order on when it goes live,0,0,0.0,4,0.0,Neutral
+1937,starlink terminal has motors to self orient for optimal view angle no expert installer required,1,0,0.9999990000010001,10,0.09999999000000101,Most Positive
+1938,ok,0,0,0.0,0,0.0,Neutral
+1939,u+f,0,0,0.0,1,0.0,Neutral
+1940,,0,0,0.0,0,0.0,Neutral
+1941,exactly,0,0,0.0,0,0.0,Neutral
+1942,tesla autopilot was literally named after the term used in aviation also what about autobahn,0,0,0.0,7,0.0,Neutral
+1943,the strength &amp perseverance of the people of tesla despite facing extreme difficulties,1,1,0.0,9,0.22222219753086697,Neutral
+1944,playable on any tesla,0,0,0.0,2,0.0,Neutral
+1945,should do this automatically,0,0,0.0,1,0.0,Neutral
+1946,mass to orbit is a more accura,0,0,0.0,3,0.0,Neutral
+1947,cute,1,0,0.9999990000010001,1,0.9999990000010001,Most Positive
+1948,wow,1,0,0.9999990000010001,1,0.9999990000010001,Most Positive
+1949,reusability is essential a rocket that is single use is just as absurd as a single use airplane f e,0,1,-0.9999990000010001,7,0.1428571224489825,Most Negative
+1950,wild times,0,1,-0.9999990000010001,2,0.499999750000125,Most Negative
+1951,were being extra paranoid maximizing probability of successful launch is paramount,2,1,0.33333322222225925,7,0.4285713673469475,Positive
+1952,welcome anytime,1,0,0.9999990000010001,1,0.9999990000010001,Most Positive
+1953,well i do care very much about sustainability of civilization but there is some truth to the irony part haha,2,1,0.33333322222225925,7,0.4285713673469475,Positive
+1954,yes in plan superchargers and public high power wall c,0,0,0.0,6,0.0,Neutral
+1955,u+f,0,0,0.0,1,0.0,Neutral
+1956,i think so,0,0,0.0,0,0.0,Neutral
+1957,doing range testing now number will be significantly higher than  extreme,0,0,0.0,6,0.0,Neutral
+1958,we have reduced pricing on model y lr dual motor &amp will offer a lr single moto,0,0,0.0,12,0.0,Neutral
+1959,yes,0,0,0.0,0,0.0,Neutral
+1960,it may be able to reach kw at low states of charge,0,0,0.0,5,0.0,Neutral
+1961,no as range would be unacceptably low &lt mile epa,0,1,-0.9999990000010001,7,0.1428571224489825,Most Negative
+1962,we had to increase some wire thicknesses in s x to reduce resistive heating technically,0,0,0.0,7,0.0,Neutral
+1963,,0,0,0.0,0,0.0,Neutral
+1964,thanks,0,0,0.0,0,0.0,Neutral
+1965,that is the near term danger of ai,0,1,-0.9999990000010001,3,0.33333322222225925,Most Negative
+1966,i didnt mind da da was awesome mass effect talking about sequels is amazing,2,0,0.99999950000025,10,0.19999998000000202,Most Positive
+1967,haha,0,0,0.0,1,0.0,Neutral
+1968,maybe he should design flag of mars,0,0,0.0,3,0.0,Neutral
+1969,f,0,0,0.0,0,0.0,Neutral
+1970,,0,0,0.0,0,0.0,Neutral
+1971,i spoke with korolevs family todayhe was one of the very bestu+au+eu+u+eu+bu+cu+eu+   u+au+eu+u+eu+bu+u+,0,0,0.0,6,0.0,Neutral
+1972,in general we need to improve how podcasts play,1,0,0.9999990000010001,4,0.24999993750001562,Most Positive
+1973,spqr,0,0,0.0,1,0.0,Neutral
+1974,true haha,0,0,0.0,2,0.0,Neutral
+1975,death is the loss of information,0,2,-0.99999950000025,3,0.6666664444445185,Most Negative
+1976,earning power post augmentation would easily pay for itself if that,0,0,0.0,6,0.0,Neutral
+1977,absolutely,0,0,0.0,1,0.0,Neutral
+1978,u+f,0,0,0.0,1,0.0,Neutral
+1979,probably a good one to design &amp engineer in germany,1,0,0.9999990000010001,6,0.16666663888889352,Most Positive
+1980,even more,0,0,0.0,0,0.0,Neutral
+1981,ok,0,0,0.0,0,0.0,Neutral
+1982,u+f,0,0,0.0,1,0.0,Neutral
+1983,berlin model y is the one to watch that is a revolution in automotive body engineering finally,0,0,0.0,8,0.0,Neutral
+1984,true,0,0,0.0,1,0.0,Neutral
+1985,wow ihop &amp github are close,1,0,0.9999990000010001,6,0.16666663888889352,Most Positive
+1986,best use of the term full stack,1,0,0.9999990000010001,3,0.33333322222225925,Most Positive
+1987,for sure this is both great &amp terrifying everything weve ever sensed or thought has been,1,0,0.9999990000010001,7,0.1428571224489825,Most Positive
+1988,yes,0,0,0.0,0,0.0,Neutral
+1989,sorry should hopefully be soon,0,1,-0.9999990000010001,0,1000000.0,Most Negative
+1990,not actually a payout just a vesting of stock options it may never pay out as the stock cant b,0,0,0.0,6,0.0,Neutral
+1991,no easy way to answer this in a tweet but helping with dire brain injuries is our first priority details aug ,2,1,0.33333322222225925,10,0.299999970000003,Positive
+1992,ai symbiosis while u wait,0,0,0.0,3,0.0,Neutral
+1993,theres some of that too,0,0,0.0,0,0.0,Neutral
+1994,true it sounds so surreal but the negative propaganda is still all out there &amp easy to find in social me,2,2,0.0,10,0.39999996000000404,Neutral
+1995,make sure to read ur terms &amp conditions before clicking accept,0,0,0.0,9,0.0,Neutral
+1996,samwise gamgee,0,0,0.0,2,0.0,Neutral
+1997,altho dumb and dumber is u+fu+f,0,1,-0.9999990000010001,4,0.24999993750001562,Most Negative
+1998,progress update august,1,0,0.9999990000010001,3,0.33333322222225925,Most Positive
